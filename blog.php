@@ -99,6 +99,9 @@ $newsletter = 'https://4393au.share-na2.hsforms.com/27zXzNBOAQ9OzMK-Nck6Hxw';
             <h1>Blog</h1>
             <ul class="post-list">
                 <li>
+                    <a href="posts/dreamforce-2026-koa-aiforce-enterprise-ai-interfaces.php">Dreamforce 2026: Specialized Models and Agents Where Work Already Happens<span class="date">2026-09-15</span></a>
+                </li>
+                <li>
                     <a href="posts/agent-sprawl-ops-governance-control-plane.php">Agent Sprawl Without a Control Plane Is How You Buy Outages<span class="date">2026-09-15</span></a>
                 </li>
             </ul>

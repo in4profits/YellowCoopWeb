@@ -6,3 +6,5 @@ deployment:
     - /bin/mkdir -p $DEPLOYPATH/posts/images
     - /bin/cp -f posts/agent-sprawl-ops-governance-control-plane.php $DEPLOYPATH/posts/
     - /bin/cp -f posts/images/agent-sprawl-ops-governance-control-plane-hero.png $DEPLOYPATH/posts/images/
+    - /bin/cp -f posts/dreamforce-2026-koa-aiforce-enterprise-ai-interfaces.php $DEPLOYPATH/posts/
+    - /bin/cp -f posts/images/dreamforce-2026-koa-aiforce-enterprise-ai-interfaces-hero.png $DEPLOYPATH/posts/images/
