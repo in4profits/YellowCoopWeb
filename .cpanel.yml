@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=$HOME/public_html/
+    - /bin/cp -f index.php blog.php coop.jpeg 404.shtml home.html $DEPLOYPATH
