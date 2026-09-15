@@ -1,6 +1,5 @@
 <?php
-$image = 'coop.jpeg';
-$title = 'Yellow Coop';
+$title = 'Blog — Yellow Coop';
 $year_start = 2025;
 $year_end = 2026;
 $email = 'info@yellowcoop.com';
@@ -28,14 +27,21 @@ $newsletter = 'https://4393au.share-na2.hsforms.com/27zXzNBOAQ9OzMK-Nck6Hxw';
         .wrap {
             flex: 1;
             display: flex;
+            flex-direction: column;
             align-items: center;
             justify-content: center;
             padding: 24px 24px 0;
+            text-align: center;
         }
-        img {
-            max-width: 90%;
-            max-height: calc(100vh - 120px);
-            object-fit: contain;
+        h1 {
+            font-size: 28px;
+            font-weight: 600;
+            color: #fff;
+            margin-bottom: 12px;
+        }
+        .stub {
+            font-size: 16px;
+            color: #bbb;
         }
         footer {
             text-align: center;
@@ -63,13 +69,14 @@ $newsletter = 'https://4393au.share-na2.hsforms.com/27zXzNBOAQ9OzMK-Nck6Hxw';
 <body>
     <div class="page">
         <div class="wrap">
-            <img src="<?= htmlspecialchars($image) ?>" alt="Yellow Coop">
+            <h1>Blog</h1>
+            <p class="stub">Posts coming soon.</p>
         </div>
         <footer>
             <div class="links">
-                <a href="mailto:<?= htmlspecialchars($email) ?>">Contact</a>
+                <a href="/">Home</a>
                 <span class="sep">·</span>
-                <a href="blog.php">Blog</a>
+                <a href="mailto:<?= htmlspecialchars($email) ?>">Contact</a>
                 <span class="sep">·</span>
                 <a href="<?= htmlspecialchars($newsletter) ?>" target="_blank" rel="noopener">Subscribe</a>
             </div>
