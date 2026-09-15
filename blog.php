@@ -43,6 +43,33 @@ $newsletter = 'https://4393au.share-na2.hsforms.com/27zXzNBOAQ9OzMK-Nck6Hxw';
             font-size: 16px;
             color: #bbb;
         }
+        .post-list {
+            list-style: none;
+            margin: 8px 0 0;
+            padding: 0;
+            width: min(100%, 40rem);
+            text-align: left;
+        }
+        .post-list li {
+            margin: 0 0 18px;
+        }
+        .post-list a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: 500;
+            line-height: 1.35;
+        }
+        .post-list a:hover {
+            text-decoration: underline;
+        }
+        .post-list .date {
+            display: block;
+            margin-top: 6px;
+            font-size: 14px;
+            color: #999;
+            font-weight: 400;
+        }
         footer {
             text-align: center;
             padding: 20px 16px 28px;
@@ -70,7 +97,11 @@ $newsletter = 'https://4393au.share-na2.hsforms.com/27zXzNBOAQ9OzMK-Nck6Hxw';
     <div class="page">
         <div class="wrap">
             <h1>Blog</h1>
-            <p class="stub">Posts coming soon.</p>
+            <ul class="post-list">
+                <li>
+                    <a href="posts/agent-sprawl-ops-governance-control-plane.php">Agent Sprawl Without a Control Plane Is How You Buy Outages<span class="date">2026-09-15</span></a>
+                </li>
+            </ul>
         </div>
         <footer>
             <div class="links">
