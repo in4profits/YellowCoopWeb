@@ -11,7 +11,8 @@ $newsletter = 'https://4393au.share-na2.hsforms.com/27zXzNBOAQ9OzMK-Nck6Hxw';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?= htmlspecialchars($title) ?></title>
+    <meta name="description" content="Yellow Coop: 25 years of technology experience offering fractional CTO services, management advisement, and project planning and delivery.">
+    <title>Yellow Coop - Cooperate * Create * Grow</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         html, body {
