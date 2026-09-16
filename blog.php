@@ -99,6 +99,9 @@ $newsletter = 'https://4393au.share-na2.hsforms.com/27zXzNBOAQ9OzMK-Nck6Hxw';
             <h1>Blog</h1>
             <ul class="post-list">
                 <li>
+                    <a href="posts/ai-software-factory-funding-mid-market-founders.php">Factory’s $5B Bet: What an AI Software Factory Means for Mid-Market Founders<span class="date">2026-09-16</span></a>
+                </li>
+                <li>
                     <a href="posts/dreamforce-2026-koa-aiforce-enterprise-ai-interfaces.php">Dreamforce 2026: Specialized Models and Agents Where Work Already Happens<span class="date">2026-09-15</span></a>
                 </li>
                 <li>
