@@ -10,3 +10,5 @@ deployment:
     - /bin/cp -f posts/images/dreamforce-2026-koa-aiforce-enterprise-ai-interfaces-hero.png $DEPLOYPATH/posts/images/
     - /bin/cp -f posts/ai-software-factory-funding-mid-market-founders.php $DEPLOYPATH/posts/
     - /bin/cp -f posts/images/ai-software-factory-funding-mid-market-founders-hero.png $DEPLOYPATH/posts/images/
+    - /bin/cp -f posts/continuous-compliance-agent-era-soc2.php $DEPLOYPATH/posts/
+    - /bin/cp -f posts/images/continuous-compliance-agent-era-soc2-hero.png $DEPLOYPATH/posts/images/

@@ -100,6 +100,9 @@ $newsletter = 'https://4393au.share-na2.hsforms.com/27zXzNBOAQ9OzMK-Nck6Hxw';
             <h1>Blog</h1>
             <ul class="post-list">
                 <li>
+                    <a href="posts/continuous-compliance-agent-era-soc2.php">Your SOC 2 Was Fine Until You Shipped Another Agent<span class="date">2026-09-17</span></a>
+                </li>
+                <li>
                     <a href="posts/ai-software-factory-funding-mid-market-founders.php">Factory’s $5B Bet: What an AI Software Factory Means for Mid-Market Founders<span class="date">2026-09-16</span></a>
                 </li>
                 <li>
