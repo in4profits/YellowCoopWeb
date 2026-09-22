@@ -20,3 +20,5 @@ deployment:
     - /bin/cp -f posts/images/genai-data-loss-prevention-founder-checklist-hero.png $DEPLOYPATH/posts/images/
     - /bin/cp -f posts/ai-cloud-compute-founder-buy-strategy.php $DEPLOYPATH/posts/
     - /bin/cp -f posts/images/ai-cloud-compute-founder-buy-strategy-hero.png $DEPLOYPATH/posts/images/
+    - /bin/cp -f posts/ai-agent-containment-founder-checklist.php $DEPLOYPATH/posts/
+    - /bin/cp -f posts/images/ai-agent-containment-founder-checklist-hero.png $DEPLOYPATH/posts/images/
