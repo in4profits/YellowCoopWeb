@@ -12,3 +12,9 @@ deployment:
     - /bin/cp -f posts/images/ai-software-factory-funding-mid-market-founders-hero.png $DEPLOYPATH/posts/images/
     - /bin/cp -f posts/continuous-compliance-agent-era-soc2.php $DEPLOYPATH/posts/
     - /bin/cp -f posts/images/continuous-compliance-agent-era-soc2-hero.png $DEPLOYPATH/posts/images/
+    - /bin/cp -f posts/plugin4shell-ai-coding-agent-security.php $DEPLOYPATH/posts/
+    - /bin/cp -f posts/images/plugin4shell-ai-coding-agent-security-hero.png $DEPLOYPATH/posts/images/
+    - /bin/cp -f posts/ai-agent-production-failures-observability.php $DEPLOYPATH/posts/
+    - /bin/cp -f posts/images/ai-agent-production-failures-observability-hero.png $DEPLOYPATH/posts/images/
+    - /bin/cp -f posts/genai-data-loss-prevention-founder-checklist.php $DEPLOYPATH/posts/
+    - /bin/cp -f posts/images/genai-data-loss-prevention-founder-checklist-hero.png $DEPLOYPATH/posts/images/
