@@ -106,6 +106,9 @@ $newsletter = 'https://4393au.share-na2.hsforms.com/27zXzNBOAQ9OzMK-Nck6Hxw';
                     <a href="posts/genai-data-loss-prevention-founder-checklist.php">GenAI Data Loss Prevention Belongs on the Founder Checklist<span class="date">2026-09-22</span></a>
                 </li>
                 <li>
+                    <a href="posts/silent-agent-failures-production-control-plane.php">Silent Agent Failures Are the New Production Outage<span class="date">2026-09-21</span></a>
+                </li>
+                <li>
                     <a href="posts/ai-agent-containment-founder-checklist.php">AI Agent Containment Is a Founder Problem Now<span class="date">2026-09-21</span></a>
                 </li>
                 <li>

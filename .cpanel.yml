@@ -22,3 +22,5 @@ deployment:
     - /bin/cp -f posts/images/ai-cloud-compute-founder-buy-strategy-hero.png $DEPLOYPATH/posts/images/
     - /bin/cp -f posts/ai-agent-containment-founder-checklist.php $DEPLOYPATH/posts/
     - /bin/cp -f posts/images/ai-agent-containment-founder-checklist-hero.png $DEPLOYPATH/posts/images/
+    - /bin/cp -f posts/silent-agent-failures-production-control-plane.php $DEPLOYPATH/posts/
+    - /bin/cp -f posts/images/silent-agent-failures-production-control-plane-hero.png $DEPLOYPATH/posts/images/
