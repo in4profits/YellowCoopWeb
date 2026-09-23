@@ -24,3 +24,5 @@ deployment:
     - /bin/cp -f posts/images/ai-agent-containment-founder-checklist-hero.png $DEPLOYPATH/posts/images/
     - /bin/cp -f posts/silent-agent-failures-production-control-plane.php $DEPLOYPATH/posts/
     - /bin/cp -f posts/images/silent-agent-failures-production-control-plane-hero.png $DEPLOYPATH/posts/images/
+    - /bin/cp -f posts/ai-model-price-wars-founder-ops-checklist.php $DEPLOYPATH/posts/
+    - /bin/cp -f posts/images/ai-model-price-wars-founder-ops-checklist-hero.png $DEPLOYPATH/posts/images/
