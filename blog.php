@@ -100,6 +100,9 @@ $newsletter = 'https://4393au.share-na2.hsforms.com/27zXzNBOAQ9OzMK-Nck6Hxw';
             <h1>Blog</h1>
             <ul class="post-list">
                 <li>
+                    <a href="posts/continuous-ai-red-teaming-security-baseline.php">Continuous AI Red Teaming Is the New Security Baseline<span class="date">2026-09-23</span></a>
+                </li>
+                <li>
                     <a href="posts/ai-model-price-wars-founder-ops-checklist.php">AI Model Price Wars Just Became a Founder Ops Problem<span class="date">2026-09-23</span></a>
                 </li>
                 <li>
