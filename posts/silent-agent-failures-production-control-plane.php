@@ -114,6 +114,7 @@ $meta_keywords = 'silent agent failure, AI agent observability, agent production
     </style>
 </head>
 <body>
+<?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
@@ -156,6 +157,7 @@ $meta_keywords = 'silent agent failure, AI agent observability, agent production
                 <h2>Closing</h2>
                 <p>Shipping agents without failure detection is like shipping payments without fraud rules. The demo looks great until the silent errors compound. Build a thin control plane now — traces, simulations, cost caps, human gates on irreversible actions — or plan to buy one after your first ugly incident.</p>
                 <p>Yellow Coop helps operators stand up that layer without hiring a twenty-person AI platform team. Useful starting points: <a href="https://yellowcoop.com/ai-solutions">AI solutions</a>, <a href="https://yellowcoop.com/fractional-cto">fractional CTO</a>, <a href="https://yellowcoop.com/technology-projects">technology projects</a>, and <a href="https://yellowcoop.com/">yellowcoop.com</a>.</p>
+                <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
         </div>
         <footer>

@@ -114,6 +114,7 @@ $meta_keywords = 'continuous compliance AI, sovereign security AI, fractional CT
     </style>
 </head>
 <body>
+<?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
@@ -170,6 +171,7 @@ $meta_keywords = 'continuous compliance AI, sovereign security AI, fractional CT
                     <li><a href="https://www.theguardian.com/world/2026/sep/23/unga-sam-altman-dario-amodei">Altman and Amodei at the UN Security Council</a> — The Guardian, Sep 23, 2026</li>
                     <li><a href="https://www.pbs.org/newshour/world/ai-firm-leaders-tell-un-security-council-that-it-could-be-a-risk-to-all-humanity">AI firm leaders tell UN Security Council AI could be a risk to all humanity</a> — PBS NewsHour / AP</li>
                 </ul>
+                <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
         </div>
         <footer>

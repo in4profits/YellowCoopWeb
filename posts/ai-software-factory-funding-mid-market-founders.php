@@ -114,6 +114,7 @@ $meta_keywords = 'autonomous operations, AI ops control plane, fractional CTO AI
     </style>
 </head>
 <body>
+<?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
@@ -203,6 +204,7 @@ $meta_keywords = 'autonomous operations, AI ops control plane, fractional CTO AI
                     <li><a href="https://yellowcoop.com/ai-solutions">AI solutions</a></li>
                     <li><a href="https://yellowcoop.com/technology-projects">Technology projects</a></li>
                 </ul>
+                <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
         </div>
         <footer>

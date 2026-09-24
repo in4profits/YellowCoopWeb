@@ -114,6 +114,7 @@ $meta_keywords = 'autonomous operations, AI ops control plane, build vs buy AI, 
     </style>
 </head>
 <body>
+<?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
@@ -167,6 +168,7 @@ $meta_keywords = 'autonomous operations, AI ops control plane, build vs buy AI, 
                     <li><a href="https://diginomica.com/uipath-maps-missing-layer-enterprise-ai-cartographer">UiPath maps the missing layer of enterprise AI with Cartographer</a> — diginomica</li>
                     <li><a href="https://x.com/aiuorg/status/2102835889940443531">X mention of UiPath Cartographer</a> — X</li>
                 </ul>
+                <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
         </div>
         <footer>

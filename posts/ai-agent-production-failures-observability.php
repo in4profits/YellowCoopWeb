@@ -114,6 +114,7 @@ $meta_keywords = 'AI agent observability, agent production failures, AI ops cont
     </style>
 </head>
 <body>
+<?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
@@ -159,7 +160,8 @@ $meta_keywords = 'AI agent observability, agent production failures, AI ops cont
 
                 <h2>Soft close</h2>
                 <p>Yellow Coop works with founders and operators who want AI in the business—not just in the slide deck. If you need a <a href="https://yellowcoop.com/fractional-cto">fractional CTO</a> to design the control plane, an <a href="https://yellowcoop.com/ai-solutions">AI solutions</a> partner to ship a reliable first agent, or help on a messy <a href="https://yellowcoop.com/tech-projects">tech project</a> tying systems together, we are built for that. Production agents fail quietly. Your operating model should not.</p>
-</article>
+    <?php include __DIR__ . '/../includes/post-cta.php'; ?>
+            </article>
         </div>
         <footer>
             <div class="links">

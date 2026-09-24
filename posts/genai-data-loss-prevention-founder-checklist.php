@@ -114,6 +114,7 @@ $meta_keywords = 'AI data loss prevention, GenAI data security, continuous compl
     </style>
 </head>
 <body>
+<?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
@@ -157,6 +158,7 @@ $meta_keywords = 'AI data loss prevention, GenAI data security, continuous compl
                 <p>The MIND raise is a market vote that GenAI data loss is real enough to fund. Founders should treat it as a checklist item, not a headline. Map the exits, ban the dumbest paste paths, and install controls that notice when sensitive data tries to hitch a ride inside a prompt.</p>
                 <p>If you want a pragmatic GenAI data-risk review without the theater, Yellow Coop can help you scope the controls and the ownership model.</p>
 
+                <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
         </div>
         <footer>

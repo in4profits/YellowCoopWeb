@@ -114,6 +114,7 @@ $meta_keywords = 'AI agent governance, agent sprawl, fractional CTO AI strategy,
     </style>
 </head>
 <body>
+<?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
@@ -170,6 +171,7 @@ $meta_keywords = 'AI agent governance, agent sprawl, fractional CTO AI strategy,
                 <h2>Compliance as ops, not costume</h2>
                 <p>The Comp AI raise is a market signal: continuous compliance is becoming table stakes for anyone running agents near money, data, or production systems. Vanta, Drata, and a new crop of agentic security tools are racing the same problem from different angles. Your job as a founder or operator is not to pick a brand first—it is to stop pretending last quarter’s SOC 2 describes this week’s agent fleet.</p>
                 <p>If your team is shipping agents faster than your controls can see them, that is an architecture problem and a leadership problem. Yellow Coop helps founders and operators design fractional CTO AI strategy, AI solutions, and the boring-but-vital control planes that keep autonomous operations from becoming accidental chaos. Continuous compliance is not a vibe. It is how you keep selling—and sleeping—when the agents keep shipping.</p>
+                <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
         </div>
         <footer>

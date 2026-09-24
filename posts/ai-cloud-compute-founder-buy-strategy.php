@@ -114,6 +114,7 @@ $meta_keywords = 'AI cloud compute, AI infrastructure strategy, build vs buy AI,
     </style>
 </head>
 <body>
+<?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
@@ -157,6 +158,7 @@ $meta_keywords = 'AI cloud compute, AI infrastructure strategy, build vs buy AI,
                 <p>Verda's raise is another reminder that AI compute is being treated as critical infrastructure—with the capital and competition to match. Founders should respond with a short, adult plan: know your workloads, secure capacity before the next launch, and avoid single-vendor hope as a strategy.</p>
                 <p>If you want help turning "we need GPUs" into a costed architecture and vendor shortlist, Yellow Coop can walk that with you.</p>
 
+                <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
         </div>
         <footer>

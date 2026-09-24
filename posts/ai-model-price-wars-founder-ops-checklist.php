@@ -114,6 +114,7 @@ $meta_keywords = 'build vs buy AI, fractional CTO AI strategy, AI infrastructure
     </style>
 </head>
 <body>
+<?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
@@ -177,6 +178,7 @@ $meta_keywords = 'build vs buy AI, fractional CTO AI strategy, AI infrastructure
                     <li><a href="https://www.harvey.ai/blog/post-training-update-harvey-tenet">Harvey Tenet post-training update</a> — Harvey, Aug 2026</li>
                     <li><a href="https://x.com/i/trending/2102376545172234363">X: Anthropic/OpenAI cheaper model race</a> — Sep 22–23, 2026</li>
                 </ul>
+                <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
         </div>
         <footer>
