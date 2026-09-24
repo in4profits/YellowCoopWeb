@@ -128,6 +128,18 @@ $newsletter = 'https://4393au.share-na2.hsforms.com/27zXzNBOAQ9OzMK-Nck6Hxw';
             <h1>Blog</h1>
             <ul class="post-list">
                 <li>
+                    <a href="posts/ai-regulation-fragmentation-founder-compliance-plan.php">
+                        <img class="thumb" src="/posts/images/ai-regulation-fragmentation-founder-compliance-plan-hero.png" alt="AI Regulation Fragmentation Is Now a Founder Ops Problem" loading="lazy" width="160" height="90">
+                        <span class="meta">AI Regulation Fragmentation Is Now a Founder Ops Problem<span class="date">2026-09-24</span></span>
+                    </a>
+                </li>
+                <li>
+                    <a href="posts/process-knowledge-map-before-ai-agents-scale.php">
+                        <img class="thumb" src="/posts/images/process-knowledge-map-before-ai-agents-scale-hero.png" alt="Process Knowledge Is the Missing Layer for Scaling AI Agents" loading="lazy" width="160" height="90">
+                        <span class="meta">Process Knowledge Is the Missing Layer for Scaling AI Agents<span class="date">2026-09-24</span></span>
+                    </a>
+                </li>
+                <li>
                     <a href="posts/continuous-ai-red-teaming-security-baseline.php">
                         <img class="thumb" src="/posts/images/continuous-ai-red-teaming-security-baseline-hero.png" alt="Continuous AI Red Teaming Is the New Security Baseline" loading="lazy" width="160" height="90">
                         <span class="meta">Continuous AI Red Teaming Is the New Security Baseline<span class="date">2026-09-23</span></span>

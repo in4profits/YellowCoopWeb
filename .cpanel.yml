@@ -28,3 +28,7 @@ deployment:
     - /bin/cp -f posts/images/ai-model-price-wars-founder-ops-checklist-hero.png $DEPLOYPATH/posts/images/
     - /bin/cp -f posts/continuous-ai-red-teaming-security-baseline.php $DEPLOYPATH/posts/
     - /bin/cp -f posts/images/continuous-ai-red-teaming-security-baseline-hero.png $DEPLOYPATH/posts/images/
+    - /bin/cp -f posts/ai-regulation-fragmentation-founder-compliance-plan.php $DEPLOYPATH/posts/
+    - /bin/cp -f posts/images/ai-regulation-fragmentation-founder-compliance-plan-hero.png $DEPLOYPATH/posts/images/
+    - /bin/cp -f posts/process-knowledge-map-before-ai-agents-scale.php $DEPLOYPATH/posts/
+    - /bin/cp -f posts/images/process-knowledge-map-before-ai-agents-scale-hero.png $DEPLOYPATH/posts/images/
