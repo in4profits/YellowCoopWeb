@@ -2,33 +2,7 @@
 deployment:
   tasks:
     - export DEPLOYPATH=$HOME/public_html/
-    - /bin/cp -f index.php blog.php coop.jpeg 404.shtml home.html sitemap.xml robots.txt $DEPLOYPATH
+    - /bin/cp -f *.php *.html *.shtml *.xml *.txt *.jpeg $DEPLOYPATH
     - /bin/mkdir -p $DEPLOYPATH/posts/images
-    - /bin/cp -f posts/agent-sprawl-ops-governance-control-plane.php $DEPLOYPATH/posts/
-    - /bin/cp -f posts/images/agent-sprawl-ops-governance-control-plane-hero.png $DEPLOYPATH/posts/images/
-    - /bin/cp -f posts/dreamforce-2026-koa-aiforce-enterprise-ai-interfaces.php $DEPLOYPATH/posts/
-    - /bin/cp -f posts/images/dreamforce-2026-koa-aiforce-enterprise-ai-interfaces-hero.png $DEPLOYPATH/posts/images/
-    - /bin/cp -f posts/ai-software-factory-funding-mid-market-founders.php $DEPLOYPATH/posts/
-    - /bin/cp -f posts/images/ai-software-factory-funding-mid-market-founders-hero.png $DEPLOYPATH/posts/images/
-    - /bin/cp -f posts/continuous-compliance-agent-era-soc2.php $DEPLOYPATH/posts/
-    - /bin/cp -f posts/images/continuous-compliance-agent-era-soc2-hero.png $DEPLOYPATH/posts/images/
-    - /bin/cp -f posts/plugin4shell-ai-coding-agent-security.php $DEPLOYPATH/posts/
-    - /bin/cp -f posts/images/plugin4shell-ai-coding-agent-security-hero.png $DEPLOYPATH/posts/images/
-    - /bin/cp -f posts/ai-agent-production-failures-observability.php $DEPLOYPATH/posts/
-    - /bin/cp -f posts/images/ai-agent-production-failures-observability-hero.png $DEPLOYPATH/posts/images/
-    - /bin/cp -f posts/genai-data-loss-prevention-founder-checklist.php $DEPLOYPATH/posts/
-    - /bin/cp -f posts/images/genai-data-loss-prevention-founder-checklist-hero.png $DEPLOYPATH/posts/images/
-    - /bin/cp -f posts/ai-cloud-compute-founder-buy-strategy.php $DEPLOYPATH/posts/
-    - /bin/cp -f posts/images/ai-cloud-compute-founder-buy-strategy-hero.png $DEPLOYPATH/posts/images/
-    - /bin/cp -f posts/ai-agent-containment-founder-checklist.php $DEPLOYPATH/posts/
-    - /bin/cp -f posts/images/ai-agent-containment-founder-checklist-hero.png $DEPLOYPATH/posts/images/
-    - /bin/cp -f posts/silent-agent-failures-production-control-plane.php $DEPLOYPATH/posts/
-    - /bin/cp -f posts/images/silent-agent-failures-production-control-plane-hero.png $DEPLOYPATH/posts/images/
-    - /bin/cp -f posts/ai-model-price-wars-founder-ops-checklist.php $DEPLOYPATH/posts/
-    - /bin/cp -f posts/images/ai-model-price-wars-founder-ops-checklist-hero.png $DEPLOYPATH/posts/images/
-    - /bin/cp -f posts/continuous-ai-red-teaming-security-baseline.php $DEPLOYPATH/posts/
-    - /bin/cp -f posts/images/continuous-ai-red-teaming-security-baseline-hero.png $DEPLOYPATH/posts/images/
-    - /bin/cp -f posts/ai-regulation-fragmentation-founder-compliance-plan.php $DEPLOYPATH/posts/
-    - /bin/cp -f posts/images/ai-regulation-fragmentation-founder-compliance-plan-hero.png $DEPLOYPATH/posts/images/
-    - /bin/cp -f posts/process-knowledge-map-before-ai-agents-scale.php $DEPLOYPATH/posts/
-    - /bin/cp -f posts/images/process-knowledge-map-before-ai-agents-scale-hero.png $DEPLOYPATH/posts/images/
+    - /bin/cp -f posts/*.php $DEPLOYPATH/posts/
+    - /bin/cp -f posts/images/* $DEPLOYPATH/posts/images/
