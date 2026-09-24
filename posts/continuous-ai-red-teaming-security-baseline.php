@@ -114,6 +114,7 @@ $meta_keywords = 'continuous compliance AI, sovereign security AI, AI infrastruc
     </style>
 </head>
 <body>
+<?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
@@ -185,6 +186,7 @@ $meta_keywords = 'continuous compliance AI, sovereign security AI, AI infrastruc
                     <li><a href="https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-breaks-down-divide-between-data-security-and-ai-security">Proofpoint Agentic Data and AI Security</a> — Proofpoint, Sep 22, 2026</li>
                     <li><a href="https://www.securityweek.com/outerlimit-raises-16-million-to-stop-rogue-ai-agents-from-causing-harm/">Outerlimit $16M authorization layer</a> — SecurityWeek, Sep 23, 2026</li>
                 </ul>
+                <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
         </div>
         <footer>

@@ -114,6 +114,7 @@ $meta_keywords = 'AI coding agent security, Plugin4Shell, AI supply chain risk, 
     </style>
 </head>
 <body>
+<?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
@@ -164,7 +165,8 @@ $meta_keywords = 'AI coding agent security, Plugin4Shell, AI supply chain risk, 
 
                 <h2>Soft close</h2>
                 <p>Yellow Coop helps founders and operators put a grown-up tech spine under AI experiments—<a href="https://yellowcoop.com/fractional-cto">fractional CTO</a> coverage, <a href="https://yellowcoop.com/ai-solutions">AI solution</a> scoping, and pragmatic <a href="https://yellowcoop.com/tech-projects">tech project</a> delivery. If Plugin4Shell just made your "we'll secure agents later" plan feel thin, that is a useful signal. Later arrived.</p>
-</article>
+    <?php include __DIR__ . '/../includes/post-cta.php'; ?>
+            </article>
         </div>
         <footer>
             <div class="links">

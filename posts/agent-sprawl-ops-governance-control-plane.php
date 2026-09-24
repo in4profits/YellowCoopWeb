@@ -114,6 +114,7 @@ $meta_keywords = 'AI agent governance, agent sprawl, autonomous operations, AI o
     </style>
 </head>
 <body>
+<?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
@@ -174,6 +175,7 @@ $meta_keywords = 'AI agent governance, agent sprawl, autonomous operations, AI o
                     <li><a href="https://www.helpnetsecurity.com/2026/09/15/traefik-labs-sovereign-trust-plane/">Traefik Labs Sovereign Trust Plane</a> — Help Net Security, Sep 15, 2026</li>
                     <li><a href="https://www.helpnetsecurity.com/2026/09/15/akuity-agentic-control-plane/">Akuity Agentic Control Plane</a> — Help Net Security, Sep 15, 2026</li>
                 </ol>
+                <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
         </div>
         <footer>

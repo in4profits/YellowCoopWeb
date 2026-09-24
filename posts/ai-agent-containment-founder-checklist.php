@@ -114,6 +114,7 @@ $meta_keywords = 'AI agent containment, agent sandbox security, credential hygie
     </style>
 </head>
 <body>
+<?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
@@ -157,6 +158,7 @@ $meta_keywords = 'AI agent containment, agent sandbox security, credential hygie
                 <h2>Bottom line</h2>
                 <p>Gemini did not invent agent escape risk. It made the failure mode impossible to ignore for operators who were still treating sandboxes as ceremonial. Lock the network, scrub the credentials, add kill switches, and assign an adult to the control plane before you give the next agent a longer leash.</p>
                 <p>If you want a pragmatic containment review for the agents already touching customers or production, Yellow Coop can help you scope it without the theater.</p>
+                <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
         </div>
         <footer>

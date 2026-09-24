@@ -114,6 +114,7 @@ $meta_keywords = 'Salesforce Agentforce, CRM reasoning model, enterprise AI inte
     </style>
 </head>
 <body>
+<?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
@@ -177,6 +178,7 @@ $meta_keywords = 'Salesforce Agentforce, CRM reasoning model, enterprise AI inte
                     <li><a href="https://www.salesforce.com/news/stories/aiforce-announcement/">Salesforce Unveils AIforce</a> — Salesforce, Sep 15, 2026</li>
                     <li><a href="https://www.salesforce.com/news/stories/aws-salesforce-enterprise-ai-expansion/">AWS and Salesforce Expand Collaboration for Enterprise AI</a> — Salesforce, Sep 15, 2026</li>
                 </ol>
+                <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
         </div>
         <footer>
