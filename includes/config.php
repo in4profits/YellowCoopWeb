@@ -8,7 +8,7 @@ $site = [
     'newsletter' => 'https://4393au.share-na2.hsforms.com/27zXzNBOAQ9OzMK-Nck6Hxw',
     'year_start' => 2025,
     // HubSpot Meetings link. Leave '' until it exists; buttons then go to /contact/.
-    'booking_url' => '',
+    'booking_url' => 'https://meetings-na2.hubspot.com/john-pall',
     // HubSpot contact form embed. Fill all three to show the form on /contact/.
     'hs_region'   => 'na2',
     'hs_portal'   => '',
