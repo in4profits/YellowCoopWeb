@@ -10,7 +10,7 @@ $latest = array_slice(load_posts(__DIR__), 0, 3);
   <h1>Executive technology leadership, <span class="grad">sized to the job.</span></h1>
   <p>CIO, CISO, and CTO coverage from a few hours a week to a full-time interim seat. For companies that need a technology executive and don't need one on payroll yet, or just lost the one they had.</p>
   <div class="ctas">
-    <a class="btn btn-y" href="<?= e(booking_href($site)) ?>">Book a 20-min call</a>
+    <a class="btn btn-y" href="<?= e(booking_href($site)) ?>"<?= booking_attrs($site) ?>>Book a 20-min call</a>
     <a class="btn btn-ghost" href="/how-we-engage/">See how engagements work</a>
   </div>
 </section>

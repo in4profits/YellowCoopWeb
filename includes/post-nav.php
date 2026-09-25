@@ -21,6 +21,6 @@ require_once __DIR__ . '/config.php';
     <a class="hide-sm" href="/what-we-do/">What We Do</a>
     <a class="hide-sm" href="/how-we-engage/">How We Engage</a>
     <a href="/blog.php">Insights</a>
-    <a class="btn" href="<?= htmlspecialchars(booking_href($site), ENT_QUOTES, 'UTF-8') ?>">Book a call</a>
+    <a class="btn" href="<?= htmlspecialchars(booking_href($site), ENT_QUOTES, 'UTF-8') ?>"<?= booking_attrs($site) ?>>Book a call</a>
   </nav>
 </div></header>

@@ -47,6 +47,11 @@ function booking_href($site) {
     return $site['booking_url'] !== '' ? $site['booking_url'] : '/contact/';
 }
 
+// External booking page opens in a new tab so the visitor keeps yellowcoop.com open.
+function booking_attrs($site) {
+    return $site['booking_url'] !== '' ? ' target="_blank" rel="noopener" title="Opens the scheduler in a new window"' : '';
+}
+
 // Reads posts/*.php without executing them. Order follows sitemap.xml (newest first),
 // then date for any post not yet in the sitemap.
 function load_posts($root) {

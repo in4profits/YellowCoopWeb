@@ -6,7 +6,7 @@ $show_cta = $show_cta ?? true;
 <section class="container">
   <div class="cta-band">
     <p><strong>Not sure which seat you need?</strong> That's what the first call is for.</p>
-    <a class="btn btn-navy" href="<?= e(booking_href($site)) ?>">Book a 20-min call</a>
+    <a class="btn btn-navy" href="<?= e(booking_href($site)) ?>"<?= booking_attrs($site) ?>>Book a 20-min call</a>
   </div>
 </section>
 <?php endif; ?>

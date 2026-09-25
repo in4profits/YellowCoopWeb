@@ -18,7 +18,7 @@ $has_form = $site['hs_portal'] !== '' && $site['hs_form'] !== '';
       <?php if ($site['booking_url'] !== ''): ?>
         <h3>Book a time</h3>
         <p class="muted" style="margin-bottom:14px">Pick a slot that works for you.</p>
-        <a class="btn btn-y" href="<?= e($site['booking_url']) ?>">Book a 20-min call</a>
+        <a class="btn btn-y" href="<?= e($site['booking_url']) ?>"<?= booking_attrs($site) ?>>Book a 20-min call</a>
       <?php elseif ($has_form): ?>
         <h3>Send a note</h3>
         <div id="hs-form"></div>
