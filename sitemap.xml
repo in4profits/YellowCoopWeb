@@ -8,9 +8,15 @@
   </url>
   <url>
     <loc>https://yellowcoop.com/blog.php</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yellowcoop.com/posts/vendor-ai-agents-founder-incident-response.php</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://yellowcoop.com/posts/ai-regulation-fragmentation-founder-compliance-plan.php</loc>
