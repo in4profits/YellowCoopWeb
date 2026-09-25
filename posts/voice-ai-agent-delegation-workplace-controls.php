@@ -113,13 +113,14 @@ $pillar = 'Secure';
             color: #666;
         }
     </style>
+<?php include __DIR__ . '/../includes/post-head.php'; ?>
 </head>
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
-                                <img class="hero" src="/posts/images/voice-ai-agent-delegation-workplace-controls-hero.png" alt="Voice AI With Agent Delegation Is Now a Workplace Control Problem">
+                                <img class="hero" src="/posts/images/voice-ai-agent-delegation-workplace-controls-hero.webp" alt="Voice AI With Agent Delegation Is Now a Workplace Control Problem">
                 <h1>Voice AI With Agent Delegation Is Now a Workplace Control Problem</h1>
                 <p class="meta">2026-09-25</p>
 

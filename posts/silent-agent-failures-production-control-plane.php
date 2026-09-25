@@ -112,13 +112,14 @@ $meta_keywords = 'silent agent failure, AI agent observability, agent production
             color: #666;
         }
     </style>
+<?php include __DIR__ . '/../includes/post-head.php'; ?>
 </head>
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/silent-agent-failures-production-control-plane-hero.png" alt="Silent Agent Failures Are the New Production Outage">
+                <img class="hero" src="/posts/images/silent-agent-failures-production-control-plane-hero.webp" alt="Silent Agent Failures Are the New Production Outage">
                 <h1>Silent Agent Failures Are the New Production Outage</h1>
                 <p class="meta">2026-09-21</p>
 

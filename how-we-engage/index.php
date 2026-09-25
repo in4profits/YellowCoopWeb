@@ -1,5 +1,5 @@
 <?php
-$page_title = 'How We Engage';
+$page_title = 'Virtual, Fractional & Interim CIO and CTO';
 $page_desc = 'Virtual (1 to 4 hours a week), Fractional (1 to 4 days a week), or Interim (full-time) technology leadership, and how an engagement runs.';
 $page_path = '/how-we-engage/';
 $active = 'how-we-engage';

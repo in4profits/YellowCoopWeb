@@ -5,6 +5,7 @@ $full_title = isset($page_title) && $page_title !== '' ? $page_title . ' | Yello
 $page_desc = $page_desc ?? 'Executive technology leadership sized to the job: virtual, fractional, and interim CIO, CISO, and CTO coverage.';
 $page_path = $page_path ?? '/';
 $active = $active ?? '';
+$page_image = $page_image ?? '/assets/cio-cto-ciso.png';
 ?><!DOCTYPE html>
 <html lang="en">
 <head>
@@ -24,7 +25,8 @@ $active = $active ?? '';
 <?php endif; ?>
 <meta name="theme-color" content="#111111">
 <link rel="icon" href="/assets/mark.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/assets/site.css?v=1">
+<link rel="stylesheet" href="/assets/site.css?v=2">
+<script type="application/ld+json"><?= json_encode(['@context' => 'https://schema.org'] + org_schema($site), JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_HEX_TAG) ?></script>
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>

@@ -16,7 +16,8 @@ Owner: JP. Last updated: 2026-09-24 (redesign launch version).
 ## 3. Publishing a blog post
 One commit per post, containing all of:
 - `posts/<slug>.php`
-- `posts/images/<slug>-hero.png` (16:9)
+- `posts/images/<slug>-hero.png` (16:9, used for LinkedIn and social previews)
+- `posts/images/<slug>-hero.webp`, the same image converted to WebP at quality 80 (shown on the site; about 40 KB instead of 900 KB). Example: `python3 -c "from PIL import Image; Image.open('posts/images/<slug>-hero.png').convert('RGB').save('posts/images/<slug>-hero.webp', quality=80)"` or `cwebp -q 80 in.png -o out.webp`
 - a new `<url>` entry in `sitemap.xml`, placed above the other `/posts/` entries (newest first)
 
 Do **not** edit `blog.php`. It builds the post list automatically from `posts/*.php`, in the order of `sitemap.xml`.
@@ -29,6 +30,8 @@ Copy an existing post (for example `posts/process-knowledge-map-before-ai-agents
   - Operate = IT operations, vendors, cost, process, AI tools in daily work
   - Secure = security, compliance, risk, AI data policy
   - Innovate = product, platform, architecture, AI build vs buy
+- The line right before `</head>` must be: `<?php include __DIR__ . '/../includes/post-head.php'; ?>` (canonical URL, social preview, article data, HubSpot tracking)
+- The hero image tag uses the WebP file: `<img class="hero" src="/posts/images/<slug>-hero.webp" ...>`
 - The line right after `<body>` must be: `<?php include __DIR__ . '/../includes/post-nav.php'; ?>`
 - The line right before `</article>` must be: `<?php include __DIR__ . '/../includes/post-cta.php'; ?>`
 - The date goes in `<p class="meta">YYYY-MM-DD</p>`. The blog list reads it from there.

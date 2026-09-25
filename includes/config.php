@@ -13,6 +13,8 @@ $site = [
     'hs_region'   => 'na2',
     'hs_portal'   => '',
     'hs_form'     => '',
+    // HubSpot account (hub) ID for the site tracking code. '' turns tracking off.
+    'hs_hub_id'   => '247327734',
 ];
 
 $nav = [
@@ -41,6 +43,29 @@ $legacy_pillars = [
     'ai-regulation-fragmentation-founder-compliance-plan' => 'Secure',
     'process-knowledge-map-before-ai-agents-scale'       => 'Operate',
 ];
+
+function hubspot_tracking($site) {
+    if (($site['hs_hub_id'] ?? '') === '') return '';
+    return '<script id="hs-script-loader" async defer src="https://js-' . e($site['hs_region']) . '.hs-scripts.com/' . e($site['hs_hub_id']) . '.js"></script>';
+}
+
+// Organization structured data, shared by site pages and posts.
+function org_schema($site) {
+    return [
+        '@type' => 'ProfessionalService',
+        '@id' => $site['url'] . '/#org',
+        'name' => 'Yellow Coop',
+        'legalName' => 'Yellow Coop LLC',
+        'url' => $site['url'] . '/',
+        'logo' => $site['url'] . '/assets/mark.svg',
+        'image' => $site['url'] . '/assets/cio-cto-ciso.png',
+        'email' => $site['email'],
+        'slogan' => 'Cooperate · Create · Grow',
+        'description' => 'Virtual, fractional, and interim CIO, CTO, and CISO leadership for companies that need a technology executive but not a full-time hire.',
+        'areaServed' => 'US',
+        'knowsAbout' => ['Fractional CIO', 'Fractional CTO', 'Fractional CISO', 'Virtual CIO', 'Interim CIO', 'IT strategy', 'Cybersecurity', 'AI adoption'],
+    ];
+}
 
 function e($s) { return htmlspecialchars((string) $s, ENT_QUOTES, 'UTF-8'); }
 
@@ -72,7 +97,8 @@ function load_posts($root) {
         $date = preg_match('#<p class="meta">\s*([0-9]{4}-[0-9]{2}-[0-9]{2})#', $src, $dt) ? $dt[1] : '';
         if (preg_match("#\\\$pillar\s*=\s*'(Operate|Secure|Innovate)'#", $src, $p)) { $pillar = $p[1]; }
         else { $pillar = $legacy_pillars[$slug] ?? 'Operate'; }
-        $img = '/posts/images/' . $slug . '-hero.png';
+        $img = '/posts/images/' . $slug . '-hero.webp';
+        if (!file_exists($root . $img)) { $img = '/posts/images/' . $slug . '-hero.png'; }
         $posts[] = [
             'slug' => $slug, 'title' => $title, 'desc' => $desc, 'date' => $date, 'pillar' => $pillar,
             'url' => '/posts/' . $slug . '.php',

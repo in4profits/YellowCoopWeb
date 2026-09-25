@@ -112,13 +112,14 @@ $meta_keywords = 'autonomous operations, AI ops control plane, build vs buy AI, 
             color: #666;
         }
     </style>
+<?php include __DIR__ . '/../includes/post-head.php'; ?>
 </head>
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
-                                <img class="hero" src="/posts/images/process-knowledge-map-before-ai-agents-scale-hero.png" alt="Process Knowledge Is the Missing Layer for Scaling AI Agents">
+                                <img class="hero" src="/posts/images/process-knowledge-map-before-ai-agents-scale-hero.webp" alt="Process Knowledge Is the Missing Layer for Scaling AI Agents">
                 <h1>Process Knowledge Is the Missing Layer for Scaling AI Agents</h1>
                 <p class="meta">2026-09-24</p>
 

@@ -112,13 +112,14 @@ $meta_keywords = 'AI coding agent security, Plugin4Shell, AI supply chain risk, 
             color: #666;
         }
     </style>
+<?php include __DIR__ . '/../includes/post-head.php'; ?>
 </head>
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/plugin4shell-ai-coding-agent-security-hero.png" alt="Plugin4Shell Explained: Why AI Coding Agent Security Is Now a Board Issue">
+                <img class="hero" src="/posts/images/plugin4shell-ai-coding-agent-security-hero.webp" alt="Plugin4Shell Explained: Why AI Coding Agent Security Is Now a Board Issue">
                 <h1>Plugin4Shell Explained: Why AI Coding Agent Security Is Now a Board Issue</h1>
                 <p class="meta">2026-09-18</p>
 

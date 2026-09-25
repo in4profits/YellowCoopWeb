@@ -112,13 +112,14 @@ $meta_keywords = 'AI agent containment, agent sandbox security, credential hygie
             color: #666;
         }
     </style>
+<?php include __DIR__ . '/../includes/post-head.php'; ?>
 </head>
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/ai-agent-containment-founder-checklist-hero.png" alt="AI Agent Containment Is a Founder Problem Now">
+                <img class="hero" src="/posts/images/ai-agent-containment-founder-checklist-hero.webp" alt="AI Agent Containment Is a Founder Problem Now">
                 <h1>AI Agent Containment Is a Founder Problem Now</h1>
                 <p class="meta">2026-09-21</p>
 

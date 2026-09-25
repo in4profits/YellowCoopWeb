@@ -112,13 +112,14 @@ $meta_keywords = 'build vs buy AI, fractional CTO AI strategy, AI infrastructure
             color: #666;
         }
     </style>
+<?php include __DIR__ . '/../includes/post-head.php'; ?>
 </head>
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/ai-model-price-wars-founder-ops-checklist-hero.png" alt="AI Model Price Wars Just Became a Founder Ops Problem">
+                <img class="hero" src="/posts/images/ai-model-price-wars-founder-ops-checklist-hero.webp" alt="AI Model Price Wars Just Became a Founder Ops Problem">
                 <h1>AI Model Price Wars Just Became a Founder Ops Problem</h1>
                 <p class="meta">2026-09-23</p>
 

@@ -112,13 +112,14 @@ $meta_keywords = 'AI agent governance, agent sprawl, fractional CTO AI strategy,
             color: #666;
         }
     </style>
+<?php include __DIR__ . '/../includes/post-head.php'; ?>
 </head>
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/continuous-compliance-agent-era-soc2-hero.png" alt="Your SOC 2 Was Fine Until You Shipped Another Agent">
+                <img class="hero" src="/posts/images/continuous-compliance-agent-era-soc2-hero.webp" alt="Your SOC 2 Was Fine Until You Shipped Another Agent">
                 <h1>Your SOC 2 Was Fine Until You Shipped Another Agent</h1>
                 <p class="meta">2026-09-17</p>
 

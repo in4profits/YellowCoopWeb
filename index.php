@@ -1,6 +1,6 @@
 <?php
 $page_title = '';
-$page_desc = 'Executive technology leadership sized to the job. Virtual, fractional, and interim CIO, CISO, and CTO coverage for companies that need a technology executive but not a full-time hire.';
+$page_desc = 'Fractional, virtual, and interim CIO, CTO, and CISO leadership for companies that need a technology executive but not a full-time hire.';
 $page_path = '/';
 $active = '';
 require __DIR__ . '/includes/header.php';

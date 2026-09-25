@@ -112,13 +112,14 @@ $meta_keywords = 'AI agent governance, agent sprawl, autonomous operations, AI o
             color: #666;
         }
     </style>
+<?php include __DIR__ . '/../includes/post-head.php'; ?>
 </head>
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/agent-sprawl-ops-governance-control-plane-hero.png" alt="Agent Sprawl Without a Control Plane Is How You Buy Outages">
+                <img class="hero" src="/posts/images/agent-sprawl-ops-governance-control-plane-hero.webp" alt="Agent Sprawl Without a Control Plane Is How You Buy Outages">
                 <h1>Agent Sprawl Without a Control Plane Is How You Buy Outages</h1>
                 <p class="meta">2026-09-15</p>
 

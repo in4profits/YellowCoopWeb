@@ -112,13 +112,14 @@ $meta_keywords = 'AI agent observability, agent production failures, AI ops cont
             color: #666;
         }
     </style>
+<?php include __DIR__ . '/../includes/post-head.php'; ?>
 </head>
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/ai-agent-production-failures-observability-hero.png" alt="AI Agents Are Shipping to Production. Catching Failures Quietly Is Now the Job">
+                <img class="hero" src="/posts/images/ai-agent-production-failures-observability-hero.webp" alt="AI Agents Are Shipping to Production. Catching Failures Quietly Is Now the Job">
                 <h1>AI Agents Are Shipping to Production. Catching Failures Quietly Is Now the Job</h1>
                 <p class="meta">2026-09-18</p>
 

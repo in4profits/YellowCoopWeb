@@ -112,13 +112,14 @@ $meta_keywords = 'continuous compliance AI, sovereign security AI, AI infrastruc
             color: #666;
         }
     </style>
+<?php include __DIR__ . '/../includes/post-head.php'; ?>
 </head>
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
-                                <img class="hero" src="/posts/images/continuous-ai-red-teaming-security-baseline-hero.png" alt="Continuous AI Red Teaming Is the New Security Baseline">
+                                <img class="hero" src="/posts/images/continuous-ai-red-teaming-security-baseline-hero.webp" alt="Continuous AI Red Teaming Is the New Security Baseline">
                 <h1>Continuous AI Red Teaming Is the New Security Baseline</h1>
                 <p class="meta">2026-09-23</p>
 

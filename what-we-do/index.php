@@ -1,6 +1,6 @@
 <?php
-$page_title = 'What We Do';
-$page_desc = 'Operate, Secure, Innovate: CIO, CISO, and CTO work delivered by one fractional technology leader.';
+$page_title = 'Fractional CIO, CTO & CISO Services';
+$page_desc = 'Fractional CIO, CTO, and CISO services: IT operations, cybersecurity, and product technology leadership from one experienced executive.';
 $page_path = '/what-we-do/';
 $active = 'what-we-do';
 require __DIR__ . '/../includes/header.php';

@@ -1,6 +1,6 @@
 <?php
 $page_title = 'CIO vs CTO vs CISO: Who Owns What';
-$page_desc = 'The real differences between a Chief Information Officer, Chief Technology Officer, and Chief Information Security Officer, with an interactive guide to which one your company needs.';
+$page_desc = 'CIO vs CTO vs CISO: what each role owns, where they overlap, and which one your company needs. Interactive guide with sources.';
 $page_path = '/cio-vs-cto-vs-ciso/';
 $page_image = '/assets/cio-cto-ciso.png';
 $active = 'roles';

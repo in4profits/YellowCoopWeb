@@ -1,5 +1,5 @@
 <?php
-$page_title = 'Insights';
+$page_title = 'AI, Security & IT Operations Insights';
 $page_desc = 'Field notes on AI, security, and IT operations for CEOs and operators running technology without a full-time CTO.';
 $page_path = '/blog.php';
 $active = 'insights';

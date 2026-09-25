@@ -112,13 +112,14 @@ $meta_keywords = 'AI cloud compute, AI infrastructure strategy, build vs buy AI,
             color: #666;
         }
     </style>
+<?php include __DIR__ . '/../includes/post-head.php'; ?>
 </head>
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/ai-cloud-compute-founder-buy-strategy-hero.png" alt="AI Cloud Compute Is Critical Infrastructure for Founders Now">
+                <img class="hero" src="/posts/images/ai-cloud-compute-founder-buy-strategy-hero.webp" alt="AI Cloud Compute Is Critical Infrastructure for Founders Now">
                 <h1>AI Cloud Compute Is Critical Infrastructure for Founders Now</h1>
                 <p class="meta">2026-09-22</p>
 

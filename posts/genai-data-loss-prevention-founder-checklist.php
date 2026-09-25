@@ -112,13 +112,14 @@ $meta_keywords = 'AI data loss prevention, GenAI data security, continuous compl
             color: #666;
         }
     </style>
+<?php include __DIR__ . '/../includes/post-head.php'; ?>
 </head>
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/genai-data-loss-prevention-founder-checklist-hero.png" alt="GenAI Data Loss Prevention Belongs on the Founder Checklist">
+                <img class="hero" src="/posts/images/genai-data-loss-prevention-founder-checklist-hero.webp" alt="GenAI Data Loss Prevention Belongs on the Founder Checklist">
                 <h1>GenAI Data Loss Prevention Belongs on the Founder Checklist</h1>
                 <p class="meta">2026-09-22</p>
 
