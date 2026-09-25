@@ -20,6 +20,7 @@ $show_cta = $show_cta ?? true;
     <nav aria-label="Footer">
       <a href="/what-we-do/">What We Do</a>
       <a href="/how-we-engage/">How We Engage</a>
+      <a href="/cio-vs-cto-vs-ciso/">CIO vs CTO vs CISO</a>
       <a href="/blog.php">Insights</a>
       <a href="/about/">About</a>
       <a href="/faq/">FAQ</a>

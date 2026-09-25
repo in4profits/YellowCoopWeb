@@ -18,6 +18,7 @@ $site = [
 $nav = [
     'what-we-do'    => ['What We Do', '/what-we-do/'],
     'how-we-engage' => ['How We Engage', '/how-we-engage/'],
+    'roles'         => ['CIO · CTO · CISO', '/cio-vs-cto-vs-ciso/'],
     'insights'      => ['Insights', '/blog.php'],
     'about'         => ['About', '/about/'],
     'faq'           => ['FAQ', '/faq/'],

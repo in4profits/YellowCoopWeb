@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1271" viewBox="0 0 1200 1271" font-family="Inter, 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif" role="img" aria-labelledby="t d">
+<title id="t">CIO vs CTO vs CISO: who owns what</title><desc id="d">Comparison of the Chief Information Officer, Chief Information Security Officer, and Chief Technology Officer roles across domain, core question, audience, security ownership, key actions, metrics, and main driver.</desc>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#F7B51E"/><stop offset="1" stop-color="#F0851F"/></linearGradient><pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#F7B51E" opacity=".07"/></pattern></defs>
+<rect width="100%" height="100%" fill="#111111"/><rect width="100%" height="100%" fill="url(#dots)"/>
+<text x="600.0" y="92" text-anchor="middle" font-size="64" font-weight="800" fill="#fff" letter-spacing="-1"><tspan fill="#F7B51E">CIO</tspan><tspan fill="#8a8a8a" font-size="40" dx="14" dy="-6">vs</tspan><tspan fill="#F4A11F" dx="14" dy="6">CISO</tspan><tspan fill="#8a8a8a" font-size="40" dx="14" dy="-6">vs</tspan><tspan fill="#F0851F" dx="14" dy="6">CTO</tspan></text>
+<text x="600.0" y="136" text-anchor="middle" font-size="24" fill="#cfcfcf">Three technology jobs. Who owns what.</text>
+<rect x="40" y="160" width="1120" height="6" rx="3" fill="url(#g)"/>
+<text x="48" y="246" font-size="20" font-weight="700" fill="#8a8a8a" letter-spacing="2">ROLE</text>
+<rect x="256" y="190" width="291" height="96" rx="12" fill="#F7B51E"/>
+<circle cx="296" cy="238" r="28" fill="#fff" opacity=".55"/><g transform="translate(278,220)" fill="none" stroke="#13294B" stroke-width="3" stroke-linejoin="round"><rect x="3" y="4" width="30" height="10" rx="2"/><rect x="3" y="20" width="30" height="10" rx="2"/><circle cx="9" cy="9" r="1.6" fill="#13294B"/><circle cx="9" cy="25" r="1.6" fill="#13294B"/></g>
+<text x="338" y="230" font-size="30" font-weight="800" fill="#13294B">CIO</text>
+<text x="411" y="229" font-size="13" font-weight="800" fill="#13294B" letter-spacing="2" opacity=".75">OPERATE</text>
+<text x="338" y="254" font-size="16" font-weight="600" fill="#13294B">Chief Information</text>
+<text x="338" y="273" font-size="16" font-weight="600" fill="#13294B">Officer</text>
+<rect x="559" y="190" width="291" height="96" rx="12" fill="#F4A11F"/>
+<circle cx="599" cy="238" r="28" fill="#fff" opacity=".55"/><g transform="translate(583,219)" fill="none" stroke="#13294B" stroke-width="3" stroke-linejoin="round"><path d="M16 2 L30 8 V18 C30 27 23 33 16 36 C9 33 2 27 2 18 V8 Z"/><path d="M10 18 l5 5 l8 -9" stroke-linecap="round"/></g>
+<text x="641" y="230" font-size="30" font-weight="800" fill="#13294B">CISO</text>
+<text x="735" y="229" font-size="13" font-weight="800" fill="#13294B" letter-spacing="2" opacity=".75">SECURE</text>
+<text x="641" y="254" font-size="16" font-weight="600" fill="#13294B">Chief Information</text>
+<text x="641" y="273" font-size="16" font-weight="600" fill="#13294B">Security Officer</text>
+<rect x="862" y="190" width="291" height="96" rx="12" fill="#F0851F"/>
+<circle cx="902" cy="238" r="28" fill="#fff" opacity=".55"/><g transform="translate(884,220)" fill="none" stroke="#13294B" stroke-width="3" stroke-linejoin="round"><rect x="8" y="8" width="20" height="20" rx="3"/><rect x="14" y="14" width="8" height="8"/><path d="M13 2v6M23 2v6M13 28v6M23 28v6M2 13h6M2 23h6M28 13h6M28 23h6" stroke-linecap="round"/></g>
+<text x="944" y="230" font-size="30" font-weight="800" fill="#13294B">CTO</text>
+<text x="1017" y="229" font-size="13" font-weight="800" fill="#13294B" letter-spacing="2" opacity=".75">INNOVATE</text>
+<text x="944" y="254" font-size="16" font-weight="600" fill="#13294B">Chief Technology Officer</text>
+<rect x="40" y="300" width="1120" height="121" rx="10" fill="#1a1a1a"/>
+<rect x="40" y="314" width="4" height="93" rx="2" fill="url(#g)"/>
+<text x="60" y="334" font-size="19" font-weight="800" fill="#ffffff">Primary domain</text>
+<text x="270" y="334" font-size="18.5" fill="#dcdcdc">Internal systems, data, and</text>
+<text x="270" y="361" font-size="18.5" fill="#dcdcdc">the tools employees use to</text>
+<text x="270" y="388" font-size="18.5" fill="#dcdcdc">run the business</text>
+<text x="573" y="334" font-size="18.5" fill="#dcdcdc">Cyber risk across every</text>
+<text x="573" y="361" font-size="18.5" fill="#dcdcdc">system: policy, controls,</text>
+<text x="573" y="388" font-size="18.5" fill="#dcdcdc">compliance, incidents</text>
+<text x="876" y="334" font-size="18.5" fill="#dcdcdc">The product and platform</text>
+<text x="876" y="361" font-size="18.5" fill="#dcdcdc">customers use, and the team</text>
+<text x="876" y="388" font-size="18.5" fill="#dcdcdc">that builds it</text>
+<rect x="40" y="443" width="4" height="93" rx="2" fill="url(#g)"/>
+<text x="60" y="463" font-size="19" font-weight="800" fill="#ffffff">Core question</text>
+<text x="270" y="463" font-size="18.5" fill="#dcdcdc">Does the business run</text>
+<text x="270" y="490" font-size="18.5" fill="#dcdcdc">efficiently on its</text>
+<text x="270" y="517" font-size="18.5" fill="#dcdcdc">technology?</text>
+<text x="573" y="463" font-size="18.5" fill="#dcdcdc">What could go wrong, and</text>
+<text x="573" y="490" font-size="18.5" fill="#dcdcdc">are we ready when it does?</text>
+<text x="876" y="463" font-size="18.5" fill="#dcdcdc">What should we build next,</text>
+<text x="876" y="490" font-size="18.5" fill="#dcdcdc">and will it scale?</text>
+<rect x="40" y="558" width="1120" height="94" rx="10" fill="#1a1a1a"/>
+<rect x="40" y="572" width="4" height="66" rx="2" fill="url(#g)"/>
+<text x="60" y="592" font-size="19" font-weight="800" fill="#ffffff">Faces</text>
+<text x="270" y="592" font-size="18.5" fill="#dcdcdc">Inward: employees,</text>
+<text x="270" y="619" font-size="18.5" fill="#dcdcdc">operations, finance</text>
+<text x="573" y="592" font-size="18.5" fill="#dcdcdc">Across: board, auditors,</text>
+<text x="573" y="619" font-size="18.5" fill="#dcdcdc">insurers, customers</text>
+<text x="876" y="592" font-size="18.5" fill="#dcdcdc">Outward: customers and the</text>
+<text x="876" y="619" font-size="18.5" fill="#dcdcdc">market</text>
+<rect x="40" y="674" width="4" height="93" rx="2" fill="url(#g)"/>
+<text x="60" y="694" font-size="19" font-weight="800" fill="#ffffff">Owns in</text>
+<text x="60" y="718" font-size="19" font-weight="800" fill="#ffffff">security</text>
+<text x="270" y="694" font-size="18.5" fill="#dcdcdc">Runs the defenses: MFA,</text>
+<text x="270" y="721" font-size="18.5" fill="#dcdcdc">patching, backups, access</text>
+<text x="573" y="694" font-size="18.5" fill="#dcdcdc">Sets the rules and checks</text>
+<text x="573" y="721" font-size="18.5" fill="#dcdcdc">that everyone follows them</text>
+<text x="876" y="694" font-size="18.5" fill="#dcdcdc">Builds security into the</text>
+<text x="876" y="721" font-size="18.5" fill="#dcdcdc">product: code, cloud,</text>
+<text x="876" y="748" font-size="18.5" fill="#dcdcdc">releases</text>
+<rect x="40" y="789" width="1120" height="121" rx="10" fill="#1a1a1a"/>
+<rect x="40" y="803" width="4" height="93" rx="2" fill="url(#g)"/>
+<text x="60" y="823" font-size="19" font-weight="800" fill="#ffffff">Key actions</text>
+<text x="270" y="823" font-size="18.5" fill="#dcdcdc">Vendor contracts, ERP and</text>
+<text x="270" y="850" font-size="18.5" fill="#dcdcdc">CRM, help desk, IT budget</text>
+<text x="573" y="823" font-size="18.5" fill="#dcdcdc">Security reviews, audits,</text>
+<text x="573" y="850" font-size="18.5" fill="#dcdcdc">incident plan, cyber</text>
+<text x="573" y="877" font-size="18.5" fill="#dcdcdc">insurance</text>
+<text x="876" y="823" font-size="18.5" fill="#dcdcdc">Architecture, build vs buy,</text>
+<text x="876" y="850" font-size="18.5" fill="#dcdcdc">engineering hiring, AI</text>
+<text x="876" y="877" font-size="18.5" fill="#dcdcdc">features</text>
+<rect x="40" y="932" width="4" height="66" rx="2" fill="url(#g)"/>
+<text x="60" y="952" font-size="19" font-weight="800" fill="#ffffff">Measured by</text>
+<text x="270" y="952" font-size="18.5" fill="#dcdcdc">Uptime, cost per user,</text>
+<text x="270" y="979" font-size="18.5" fill="#dcdcdc">projects delivered</text>
+<text x="573" y="952" font-size="18.5" fill="#dcdcdc">Risk reduced, findings</text>
+<text x="573" y="979" font-size="18.5" fill="#dcdcdc">closed, time to respond</text>
+<text x="876" y="952" font-size="18.5" fill="#dcdcdc">Release speed, reliability,</text>
+<text x="876" y="979" font-size="18.5" fill="#dcdcdc">product revenue</text>
+<rect x="40" y="1020" width="1120" height="67" rx="10" fill="#1a1a1a"/>
+<rect x="40" y="1034" width="4" height="39" rx="2" fill="url(#g)"/>
+<text x="60" y="1054" font-size="19" font-weight="800" fill="#ffffff">Main driver</text>
+<text x="270" y="1054" font-size="18.5" fill="#dcdcdc">Efficiency and stability</text>
+<text x="573" y="1054" font-size="18.5" fill="#dcdcdc">Resilience and trust</text>
+<text x="876" y="1054" font-size="18.5" fill="#dcdcdc">Growth and speed to market</text>
+<rect x="40" y="1105" width="1120" height="92" rx="12" fill="none" stroke="#3a3222" stroke-width="2"/>
+<text x="600.0" y="1145" text-anchor="middle" font-size="24" font-weight="800" fill="#fff">One company. Three jobs. <tspan fill="#F7B51E">Often one seat.</tspan></text>
+<text x="600.0" y="1175" text-anchor="middle" font-size="17" fill="#bdbdbd">Most companies under a few hundred people need all three jobs done, not three executives.</text>
+<g transform="translate(480.0,1211)"><path d="M3 29V13L17 4l14 9v16M12 29v-9h10v9" fill="none" stroke="url(#g)" stroke-width="3" stroke-linejoin="round"/><text x="42" y="24" font-size="24" font-weight="800" fill="#fff">yellow coop</text><text x="186" y="24" font-size="17" fill="#9a9a9a">yellowcoop.com</text></g>
+</svg>

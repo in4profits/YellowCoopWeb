@@ -18,6 +18,10 @@ $active = $active ?? '';
 <meta property="og:title" content="<?= e($full_title) ?>">
 <meta property="og:description" content="<?= e($page_desc) ?>">
 <meta property="og:url" content="<?= e($site['url'] . $page_path) ?>">
+<?php if (!empty($page_image)): ?>
+<meta property="og:image" content="<?= e($site['url'] . $page_image) ?>">
+<meta name="twitter:card" content="summary_large_image">
+<?php endif; ?>
 <meta name="theme-color" content="#111111">
 <link rel="icon" href="/assets/mark.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/assets/site.css?v=1">

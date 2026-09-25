@@ -9,6 +9,7 @@ require __DIR__ . '/../includes/header.php';
   <span class="eyebrow">What we do</span>
   <h1>One technology seat. Three jobs.</h1>
   <p>Most companies under a few hundred people don't need three technology executives. They need one person who can run IT, own security, and set the product and AI roadmap, and who knows which of the three matters most this quarter.</p>
+  <p style="margin-top:14px"><a class="btn btn-ghost" href="/cio-vs-cto-vs-ciso/">CIO vs CTO vs CISO: see the differences</a></p>
 </section>
 
 <section class="pillar container" id="operate">

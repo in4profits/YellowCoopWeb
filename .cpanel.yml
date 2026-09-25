@@ -4,7 +4,7 @@ deployment:
     - export DEPLOYPATH=$HOME/public_html/
     - /bin/cp -f *.php *.html *.shtml *.xml *.txt *.jpeg $DEPLOYPATH
     - /bin/cp -Rf includes assets $DEPLOYPATH
-    - /bin/cp -Rf what-we-do how-we-engage about faq contact $DEPLOYPATH
+    - /bin/cp -Rf what-we-do how-we-engage about faq contact cio-vs-cto-vs-ciso $DEPLOYPATH
     - /bin/cp -Rf blog fractional-cto ai-solutions tech-projects technology-projects $DEPLOYPATH
     - /bin/mkdir -p $DEPLOYPATH/posts/images
     - /bin/cp -f posts/*.php $DEPLOYPATH/posts/
