@@ -62,6 +62,19 @@ $latest = array_slice(load_posts(__DIR__), 0, 3);
 
 <section class="section">
   <div class="container">
+    <h2>Track record</h2>
+    <div class="tr-stats">
+      <a class="tr-stat" href="/track-record/fedex-rfid-dock-automation.php"><span class="n">$50M</span><span class="l">saved annually</span><span class="s">FedEx</span></a>
+      <a class="tr-stat" href="/track-record/fedex-freight-dispatch-platform.php"><span class="n">$100M+</span><span class="l">platform delivered</span><span class="s">FedEx Freight</span></a>
+      <a class="tr-stat" href="/track-record/iso-tisax-certification.php"><span class="n">ISO 27001</span><span class="l">and TISAX certified</span><span class="s">Mid-size trucking &amp; logistics carrier</span></a>
+      <a class="tr-stat" href="/track-record/zero-trust-security-program.php"><span class="n">&minus;60%</span><span class="l">security incidents</span><span class="s">Agility Solutions</span></a>
+    </div>
+    <p style="margin-top:18px"><a class="btn btn-ghost" href="/track-record/">See the full track record</a></p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
     <h2>How an engagement runs</h2>
     <div class="grid-3">
       <div class="step"><span class="eyebrow">Step 1</span><h3>Assess</h3>Systems, spend, contracts, team, and risk. You get a written findings report in plain business language.</div>

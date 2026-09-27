@@ -31,6 +31,7 @@ require __DIR__ . '/../includes/header.php';
       <li>Staff use a different tool for the same job in every department</li>
     </ul></div>
   </div>
+  <p style="margin-top:18px"><a href="/track-record/fedex-freight-dispatch-platform.php">See it done: FedEx Freight $100M dispatch platform &rarr;</a></p>
 </section>
 
 <section class="pillar container" id="secure">
@@ -52,6 +53,7 @@ require __DIR__ . '/../includes/header.php';
       <li>No one knows who to call first during an outage or breach</li>
     </ul></div>
   </div>
+  <p style="margin-top:18px">See it done: <a href="/track-record/iso-tisax-certification.php">ISO 27001 &amp; TISAX certification for a logistics carrier</a> &middot; <a href="/track-record/zero-trust-security-program.php">Zero Trust security program</a></p>
 </section>
 
 <section class="pillar container" id="innovate">
@@ -73,6 +75,7 @@ require __DIR__ . '/../includes/header.php';
       <li>Investors or a buyer are about to look under the hood</li>
     </ul></div>
   </div>
+  <p style="margin-top:18px"><a href="/track-record/fedex-rfid-dock-automation.php">See it done: FedEx $200M RFID dock automation &rarr;</a></p>
 </section>
 
 <section class="section">

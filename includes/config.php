@@ -21,9 +21,9 @@ $nav = [
     'what-we-do'    => ['What We Do', '/what-we-do/'],
     'how-we-engage' => ['How We Engage', '/how-we-engage/'],
     'roles'         => ['CIO · CTO · CISO', '/cio-vs-cto-vs-ciso/'],
+    'track-record'  => ['Track Record', '/track-record/'],
     'insights'      => ['Insights', '/blog.php'],
     'about'         => ['About', '/about/'],
-    'faq'           => ['FAQ', '/faq/'],
 ];
 
 // Pillar for posts published before $pillar was added to the post template.

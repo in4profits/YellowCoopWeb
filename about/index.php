@@ -18,7 +18,7 @@ require __DIR__ . '/../includes/header.php';
     <p>The yellow is the light left on. Technology leadership isn't a project that ends. Someone has to own it every week, and we do.</p>
 
     <h2>Experience</h2>
-    <p>Yellow Coop is built on 25 years of technology leadership: running IT operations, building and managing engineering teams across multiple countries, and leading security and platform decisions for companies from mid-size to Fortune 500.</p>
+    <p>Yellow Coop is built on 25 years of technology leadership: running IT operations, building and managing engineering teams across multiple countries, and leading security and platform decisions for companies from mid-size to Fortune 500. <a href="/track-record/">See the track record &rarr;</a></p>
   </div></div>
 </section>
 
