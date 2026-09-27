@@ -21,7 +21,7 @@ $site = [
     // Leave a URL '' to hide it. Only list accounts that post at least weekly.
     'socials'     => [
         'x'        => 'https://x.com/YellowCoop',
-        'linkedin' => '',
+        'linkedin' => 'https://www.linkedin.com/company/yellow-coop-llc',
     ],
 ];
 
