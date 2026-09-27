@@ -134,6 +134,9 @@ h1, h2, h3 { color: var(--white); line-height: 1.2; }
 .foot-row nav { display: flex; gap: 18px; flex-wrap: wrap; }
 .foot-row nav a { color: #bbb; text-decoration: none; }
 .foot-row nav a:hover { color: var(--y); }
+.socials { display: flex; gap: 12px; margin-top: 10px; }
+.socials a { color: #bbb; display: inline-flex; }
+.socials a:hover { color: var(--y); }
 
 @media (max-width: 860px) {
   .hero h1 { font-size: 36px; }

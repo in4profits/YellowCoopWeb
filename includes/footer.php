@@ -16,6 +16,7 @@ $show_cta = $show_cta ?? true;
     <div>
       <a class="logo" href="/"><img src="/assets/mark.svg" alt="" width="24" height="20"><span>yellow coop</span></a>
       <p class="muted"><?= e($site['tagline']) ?></p>
+      <?php if ($__social = social_links($site)): ?><p class="socials"><?= $__social ?></p><?php endif; ?>
     </div>
     <nav aria-label="Footer">
       <a href="/what-we-do/">What We Do</a>

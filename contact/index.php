@@ -37,6 +37,7 @@ $has_form = $site['hs_portal'] !== '' && $site['hs_form'] !== '';
       <p class="muted" style="margin-bottom:14px">Get the weekly Yellow Coop brief on AI, security, and IT operations.</p>
       <a class="btn btn-ghost" href="<?= e($site['newsletter']) ?>" target="_blank" rel="noopener">Subscribe</a>
       <p class="muted small" style="margin-top:18px">Or email <a href="mailto:<?= e($site['email']) ?>"><?= e($site['email']) ?></a></p>
+      <?php if (($site['socials']['x'] ?? '') !== ''): ?><p class="muted small" style="margin-top:6px">Follow Yellow Coop on X: <a href="<?= e($site['socials']['x']) ?>" target="_blank" rel="noopener me">@<?= e($site['x_handle']) ?></a></p><?php endif; ?>
     </div>
   </div>
 </section>

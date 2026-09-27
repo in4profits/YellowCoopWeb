@@ -17,6 +17,12 @@ $site = [
     'hs_hub_id'   => '247327734',
     // X (Twitter) handle without the @, added to share posts as "via @handle". '' leaves it off.
     'x_handle'    => 'YellowCoop',
+    // Social profiles shown in the footer and contact page, and listed for Google (sameAs).
+    // Leave a URL '' to hide it. Only list accounts that post at least weekly.
+    'socials'     => [
+        'x'        => 'https://x.com/YellowCoop',
+        'linkedin' => '',
+    ],
 ];
 
 $nav = [
@@ -66,6 +72,7 @@ function org_schema($site) {
         'description' => 'Virtual, fractional, and interim CIO, CTO, and CISO leadership for companies that need a technology executive but not a full-time hire.',
         'areaServed' => 'US',
         'knowsAbout' => ['Fractional CIO', 'Fractional CTO', 'Fractional CISO', 'Virtual CIO', 'Interim CIO', 'IT strategy', 'Cybersecurity', 'AI adoption'],
+        'sameAs' => array_values(array_filter($site['socials'] ?? [])),
     ];
 }
 
@@ -78,6 +85,22 @@ function x_share_href($site, $text, $path) {
 
 function x_icon($size = 14) {
     return '<svg width="' . (int) $size . '" height="' . (int) $size . '" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><path d="M18.9 2H22l-6.8 7.8L23 22h-6.2l-4.8-6.3L6.4 22H3.3l7.3-8.3L1 2h6.3l4.4 5.8L18.9 2Zm-1.1 18h1.7L6.3 3.9H4.5L17.8 20Z"/></svg>';
+}
+
+// Icon links for the accounts set in $site['socials']. Returns '' when none are set.
+function social_links($site, $size = 18) {
+    $labels = ['x' => 'Yellow Coop on X', 'linkedin' => 'Yellow Coop on LinkedIn'];
+    $icons = [
+        'x' => '<path d="M18.9 2H22l-6.8 7.8L23 22h-6.2l-4.8-6.3L6.4 22H3.3l7.3-8.3L1 2h6.3l4.4 5.8L18.9 2Zm-1.1 18h1.7L6.3 3.9H4.5L17.8 20Z"/>',
+        'linkedin' => '<path d="M4.98 3.5A2.5 2.5 0 1 1 5 8.5a2.5 2.5 0 0 1-.02-5ZM3 9.75h4v11.5H3V9.75Zm6.5 0h3.84v1.57h.05c.53-1.01 1.84-2.07 3.8-2.07 4.06 0 4.81 2.67 4.81 6.15v5.85h-4v-5.19c0-1.24-.02-2.83-1.72-2.83-1.73 0-2 1.35-2 2.74v5.28h-4V9.75Z"/>',
+    ];
+    $out = '';
+    foreach (($site['socials'] ?? []) as $k => $url) {
+        if ($url === '' || !isset($icons[$k])) continue;
+        $out .= '<a href="' . e($url) . '" target="_blank" rel="noopener me" aria-label="' . e($labels[$k]) . '" title="' . e($labels[$k]) . '">'
+              . '<svg width="' . (int) $size . '" height="' . (int) $size . '" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor">' . $icons[$k] . '</svg></a>';
+    }
+    return $out;
 }
 
 function e($s) { return htmlspecialchars((string) $s, ENT_QUOTES, 'UTF-8'); }
