@@ -16,7 +16,7 @@ $site = [
     // HubSpot account (hub) ID for the site tracking code. '' turns tracking off.
     'hs_hub_id'   => '247327734',
     // X (Twitter) handle without the @, added to share posts as "via @handle". '' leaves it off.
-    'x_handle'    => '',
+    'x_handle'    => 'YellowCoop',
 ];
 
 $nav = [
