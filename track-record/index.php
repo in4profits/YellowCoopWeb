@@ -1,6 +1,6 @@
 <?php
 $page_title = 'Track Record';
-$page_desc = 'Results from FedEx, FedEx Freight, Agility Solutions and a logistics carrier: $50M saved a year, a $100M+ platform, ISO 27001, 60% fewer incidents.';
+$page_desc = 'Results from FedEx, Yellow Roadway, Agility Solutions and a logistics carrier: $50M saved a year, $37.8M in merger IT savings, ISO 27001, 60% fewer incidents.';
 $page_path = '/track-record/';
 $page_image = '/assets/track-record/fedex-rfid-dock-automation-og.png';
 $active = 'track-record';
@@ -10,7 +10,7 @@ require __DIR__ . '/../includes/header.php';
 <section class="container page-hero">
     <span class="eyebrow">Track record</span>
     <h1>Results from 25 years running technology in logistics and security.</h1>
-    <p>Delivered as a technology executive at FedEx, Agility Solutions and a mid-size trucking and logistics carrier. The same work Yellow Coop does for you, at enterprise scale.</p>
+    <p>Delivered as a technology executive at FedEx, Yellow Roadway, Agility Solutions and a mid-size trucking and logistics carrier. The same work Yellow Coop does for you, at enterprise scale.</p>
   </section>
   <section class="section">
     <div class="container" style="display:block">
@@ -33,6 +33,15 @@ require __DIR__ . '/../includes/header.php';
           <span class="tr-more">Read the case study &rarr;</span>
         </div>
       </a>
+      <a class="tr-card" href="/track-record/yellow-roadway-merger-it-integration.php">
+        <img src="/assets/track-record/yellow-roadway-merger-it-integration.webp" width="1000" height="750" loading="lazy" alt="Yellow-Roadway merger IT integration: kept in-cab dispatch and dock scanning, deferred PeopleSoft replacement, one shared SDLC. IT savings $5.4M year one, $8.1M per year after, $37.8M over five years.">
+        <div class="tr-body">
+          <span class="tr-tag">Operate &middot; Yellow Roadway</span>
+          <h3>Yellow&ndash;Roadway Merger IT Integration</h3>
+          <p class="tr-result">$37.8M IT savings over five years</p>
+          <span class="tr-more">Read the case study &rarr;</span>
+        </div>
+      </a>
       <a class="tr-card" href="/track-record/iso-tisax-certification.php">
         <img src="/assets/track-record/iso-tisax-certification.webp" width="1000" height="750" loading="lazy" alt="ISO and TISAX certification timeline: DR and contingency plan, controls in place, audit, certified. Compliance processes 30% leaner.">
         <div class="tr-body">
@@ -48,6 +57,15 @@ require __DIR__ . '/../includes/header.php';
           <span class="tr-tag">Secure &middot; Agility Solutions</span>
           <h3>Zero Trust Security Program</h3>
           <p class="tr-result">60% fewer incidents, 40% lower exposure</p>
+          <span class="tr-more">Read the case study &rarr;</span>
+        </div>
+      </a>
+      <a class="tr-card" href="/track-record/cloud-security-delivery-turnaround.php">
+        <img src="/assets/track-record/cloud-security-delivery-turnaround.webp" width="1000" height="750" loading="lazy" alt="Cloud, security and delivery turnaround: predictability 58% to 86-88%, change-failure rate 19% to 7%, recovery under 90 minutes, escaped defects about halved.">
+        <div class="tr-body">
+          <span class="tr-tag">Innovate &middot; Agility Solutions</span>
+          <h3>Cloud, Security &amp; Delivery Turnaround</h3>
+          <p class="tr-result">Delivery 58% &rarr; 86-88%; change failures 19% &rarr; 7%</p>
           <span class="tr-more">Read the case study &rarr;</span>
         </div>
       </a>
