@@ -107,6 +107,11 @@ h1, h2, h3 { color: var(--white); line-height: 1.2; }
 .post-card h3 { font-size: 17px; margin: 4px 0 6px; }
 .post-card:hover h3 { color: var(--y); }
 .post-card .date { color: #888; font-size: 13px; }
+.post-card .post-link { display: flex; flex-direction: column; flex: 1; text-decoration: none; color: inherit; }
+.post-card .post-link:hover { text-decoration: none; }
+.post-card .post-foot { display: flex; align-items: center; justify-content: space-between; padding: 0 16px 14px; }
+.share-x { display: inline-flex; align-items: center; gap: 6px; color: #bbb; font-size: 13px; font-weight: 600; text-decoration: none; border: 1px solid #333; border-radius: 999px; padding: 4px 10px; }
+.share-x:hover { color: #111; background: var(--y); border-color: var(--y); text-decoration: none; }
 .filters { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 22px; }
 .filters button { background: var(--bg2); border: 1px solid #333; color: #ddd; border-radius: 999px; padding: 7px 14px; font-weight: 600; font-size: 14px; cursor: pointer; }
 .filters button[aria-pressed="true"] { background: var(--y); color: #111; border-color: var(--y); }

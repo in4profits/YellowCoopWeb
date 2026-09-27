@@ -21,10 +21,13 @@ $posts = load_posts(__DIR__);
   </div>
   <div class="posts">
     <?php foreach ($posts as $p): ?>
-    <a class="post-card" href="<?= e($p['url']) ?>" data-pillar="<?= e($p['pillar']) ?>">
-      <?php if ($p['img']): ?><img src="<?= e($p['img']) ?>" alt="" loading="lazy" width="640" height="360"><?php else: ?><div class="ph"></div><?php endif; ?>
-      <div class="body"><span class="tag"><?= e($p['pillar']) ?></span><h3><?= e($p['title']) ?></h3><span class="date"><?= e($p['date']) ?></span></div>
-    </a>
+    <article class="post-card" data-pillar="<?= e($p['pillar']) ?>">
+      <a class="post-link" href="<?= e($p['url']) ?>">
+        <?php if ($p['img']): ?><img src="<?= e($p['img']) ?>" alt="" loading="lazy" width="640" height="360"><?php else: ?><div class="ph"></div><?php endif; ?>
+        <div class="body"><span class="tag"><?= e($p['pillar']) ?></span><h3><?= e($p['title']) ?></h3></div>
+      </a>
+      <div class="post-foot"><span class="date"><?= e($p['date']) ?></span><a class="share-x" href="<?= e(x_share_href($site, $p['title'], $p['url'])) ?>" target="_blank" rel="noopener" aria-label="Share on X: <?= e($p['title']) ?>"><?= x_icon(13) ?> Share</a></div>
+    </article>
     <?php endforeach; ?>
   </div>
 </section>

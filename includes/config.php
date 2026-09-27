@@ -15,6 +15,8 @@ $site = [
     'hs_form'     => '',
     // HubSpot account (hub) ID for the site tracking code. '' turns tracking off.
     'hs_hub_id'   => '247327734',
+    // X (Twitter) handle without the @, added to share posts as "via @handle". '' leaves it off.
+    'x_handle'    => '',
 ];
 
 $nav = [
@@ -65,6 +67,17 @@ function org_schema($site) {
         'areaServed' => 'US',
         'knowsAbout' => ['Fractional CIO', 'Fractional CTO', 'Fractional CISO', 'Virtual CIO', 'Interim CIO', 'IT strategy', 'Cybersecurity', 'AI adoption'],
     ];
+}
+
+// "Share on X" link for a page on this site. $path is site-relative, e.g. /posts/slug.php
+function x_share_href($site, $text, $path) {
+    $q = ['text' => $text, 'url' => $site['url'] . $path];
+    if (($site['x_handle'] ?? '') !== '') $q['via'] = $site['x_handle'];
+    return 'https://x.com/intent/post?' . http_build_query($q, '', '&', PHP_QUERY_RFC3986);
+}
+
+function x_icon($size = 14) {
+    return '<svg width="' . (int) $size . '" height="' . (int) $size . '" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><path d="M18.9 2H22l-6.8 7.8L23 22h-6.2l-4.8-6.3L6.4 22H3.3l7.3-8.3L1 2h6.3l4.4 5.8L18.9 2Zm-1.1 18h1.7L6.3 3.9H4.5L17.8 20Z"/></svg>';
 }
 
 function e($s) { return htmlspecialchars((string) $s, ENT_QUOTES, 'UTF-8'); }

@@ -13,6 +13,9 @@ require_once __DIR__ . '/config.php';
 .yc-cta{margin:36px 0 8px;padding:20px;border-radius:10px;background:linear-gradient(90deg,#F7B51E,#F0851F);color:#13294B}
 .yc-cta strong{color:#13294B!important}
 .yc-cta p{color:#13294B!important;margin:0 0 12px!important;font-size:17px!important}
+.yc-share{margin:32px 0 0!important;font-size:15px!important;color:#bbb!important}
+.yc-share a{display:inline-flex;align-items:center;gap:6px;margin-left:8px;border:1px solid #444;border-radius:999px;padding:5px 12px;color:#fff!important;font-weight:700;text-decoration:none}
+.yc-share a:hover{background:#F7B51E;border-color:#F7B51E;color:#111!important;text-decoration:none}
 .yc-cta a{display:inline-block;background:#13294B;color:#fff!important;padding:9px 14px;border-radius:6px;font-weight:700;text-decoration:none;font-size:14px;margin-right:8px}
 </style>
 <header class="yc-nav"><div class="row">
