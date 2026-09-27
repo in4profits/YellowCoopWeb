@@ -1,6 +1,6 @@
 <?php
 $page_title = 'Track Record';
-$page_desc = 'Results from FedEx, Yellow Roadway, Agility Solutions and a logistics carrier: $50M saved a year, $37.8M in merger IT savings, ISO 27001, 60% fewer incidents.';
+$page_desc = 'Results from FedEx, Yellow Roadway, Sprint, Agility Solutions and a logistics carrier: $50M saved a year, $37.8M in merger IT savings, ISO 27001.';
 $page_path = '/track-record/';
 $page_image = '/assets/track-record/fedex-rfid-dock-automation-og.png';
 $active = 'track-record';
@@ -10,7 +10,7 @@ require __DIR__ . '/../includes/header.php';
 <section class="container page-hero">
     <span class="eyebrow">Track record</span>
     <h1>Results from 25 years running technology in logistics and security.</h1>
-    <p>Delivered as a technology executive at FedEx, Yellow Roadway, Agility Solutions and a mid-size trucking and logistics carrier. The same work Yellow Coop does for you, at enterprise scale.</p>
+    <p>Delivered as a technology executive at FedEx, Yellow Roadway, Sprint, Agility Solutions and a mid-size trucking and logistics carrier. The same work Yellow Coop does for you, at enterprise scale.</p>
   </section>
   <section class="section">
     <div class="container" style="display:block">
@@ -42,6 +42,15 @@ require __DIR__ . '/../includes/header.php';
           <span class="tr-more">Read the case study &rarr;</span>
         </div>
       </a>
+      <a class="tr-card" href="/track-record/yellow-roadway-data-center-consolidation.php">
+        <img src="/assets/track-record/yellow-roadway-data-center-consolidation.webp" width="1000" height="750" loading="lazy" alt="Yellow-Roadway data center consolidation: 150+ logistics applications moved to one standardized environment. One data center eliminated; application operating and employee support costs each down 40%.">
+        <div class="tr-body">
+          <span class="tr-tag">Operate &middot; YRC Worldwide</span>
+          <h3>Yellow&ndash;Roadway Data Center Consolidation</h3>
+          <p class="tr-result">One data center closed; app and support costs each &minus;40%</p>
+          <span class="tr-more">Read the case study &rarr;</span>
+        </div>
+      </a>
       <a class="tr-card" href="/track-record/iso-tisax-certification.php">
         <img src="/assets/track-record/iso-tisax-certification.webp" width="1000" height="750" loading="lazy" alt="ISO and TISAX certification timeline: DR and contingency plan, controls in place, audit, certified. Compliance processes 30% leaner.">
         <div class="tr-body">
@@ -66,6 +75,15 @@ require __DIR__ . '/../includes/header.php';
           <span class="tr-tag">Innovate &middot; Agility Solutions</span>
           <h3>Cloud, Security &amp; Delivery Turnaround</h3>
           <p class="tr-result">Delivery 58% &rarr; 86-88%; change failures 19% &rarr; 7%</p>
+          <span class="tr-more">Read the case study &rarr;</span>
+        </div>
+      </a>
+      <a class="tr-card" href="/track-record/sprint-commerce-core-replacement.php">
+        <img src="/assets/track-record/sprint-commerce-core-replacement.webp" width="1000" height="750" loading="lazy" alt="Sprint $170M commerce core replacement: keep-vs-replace decision criteria, controlled cutover, capacity held through peak cycles, lower cost per shipped feature by year two.">
+        <div class="tr-body">
+          <span class="tr-tag">Innovate &middot; Sprint</span>
+          <h3>Sprint $170M Commerce Core Replacement</h3>
+          <p class="tr-result">Peak search and checkout held through launch</p>
           <span class="tr-more">Read the case study &rarr;</span>
         </div>
       </a>

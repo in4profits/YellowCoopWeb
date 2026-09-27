@@ -35,7 +35,7 @@ require __DIR__ . '/../includes/header.php';
     <p>Acquisitions, carve-outs and system consolidations all hit the same question: which system survives, and when. An Operate engagement applies the same decision filter (customer continuity first, reversible steps, one change process) before anyone signs a replacement contract. <a href="/what-we-do/#operate">See the Operate work &rarr;</a></p>
     <div class="tr-next">
       <a href="/track-record/">&larr; All results</a>
-      <a href="/track-record/iso-tisax-certification.php">Next: ISO 27001 &amp; TISAX Certification for a Logistics Carrier &rarr;</a>
+      <a href="/track-record/yellow-roadway-data-center-consolidation.php">Next: Yellow&ndash;Roadway Data Center Consolidation &rarr;</a>
     </div>
   </div></section>
 <section class="container">
