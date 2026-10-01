@@ -36,7 +36,7 @@ Copy an existing post (for example `posts/process-knowledge-map-before-ai-agents
 - The line right before `</article>` must be: `<?php include __DIR__ . '/../includes/post-cta.php'; ?>`
 - The date goes in `<p class="meta">YYYY-MM-DD</p>`. The blog list reads it from there.
 - Audience: CEOs, owners, and operators of small and mid-size companies. Use "founder" only when the post is specifically about startups.
-- Internal links: `/what-we-do/`, `/what-we-do/#operate`, `/what-we-do/#secure`, `/what-we-do/#innovate`, `/how-we-engage/`, `/cio-vs-cto-vs-ciso/`, `/blog.php`, `/contact/`.
+- Internal links: `/what-we-do/`, `/what-we-do/#operate`, `/what-we-do/#secure`, `/what-we-do/#innovate`, `/how-we-engage/`, `/cio-vs-cto-vs-ciso/`, `/track-record/` (or a case study such as `/track-record/iso-tisax-certification.php` when the post's topic matches one), `/blog.php`, `/contact/`.
 
 Commit message format: `Publish <short title> post (<Mon DD> A|B)`.
 Push to `main`, then report to JP: commit SHA, post URL, files changed.
