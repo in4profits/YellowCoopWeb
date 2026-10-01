@@ -162,7 +162,7 @@ $pillar = 'Secure';
 
                 <h2>Soft next step</h2>
                 <p><a href="/what-we-do/">Yellow Coop</a> helps owners and operators put fractional CTO / CISO-shaped judgment around AI vendors, access tiers, and the Secure pillar of technology leadership — including the unglamorous access reviews that keep privileged tools from becoming privileged accidents. If Fairwind-style offers are landing in your inbox, we can help you decide who should hold the keys. Start at <a href="/contact/">contact</a>.</p>
-                <p>Internal links: <a href="/what-we-do/#secure">Secure</a>, <a href="/what-we-do/">What We Do</a>, <a href="/how-we-engage/">How We Engage</a>, <a href="/blog.php">Insights</a>.</p>
+                <p>Internal links: <a href="/what-we-do/#secure">Secure</a>, <a href="/what-we-do/">What We Do</a>, <a href="/how-we-engage/">How We Engage</a>, <a href="/cio-vs-cto-vs-ciso/">CIO vs CTO vs CISO</a>, <a href="/blog.php">Insights</a>.</p>
 
                 <h2>Sources</h2>
                 <ul>
