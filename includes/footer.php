@@ -25,6 +25,7 @@ $show_cta = $show_cta ?? true;
       <a href="/track-record/">Track Record</a>
       <a href="/blog.php">Insights</a>
       <a href="/about/">About</a>
+      <a href="/about/story/">Our Story</a>
       <a href="/faq/">FAQ</a>
       <a href="/contact/">Contact</a>
       <a href="<?= e($site['newsletter']) ?>" target="_blank" rel="noopener">Subscribe</a>

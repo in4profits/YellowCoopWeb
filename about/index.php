@@ -14,8 +14,8 @@ require __DIR__ . '/../includes/header.php';
 <section class="section">
   <div class="container"><div class="prose">
     <h2>Why "Yellow Coop"</h2>
-    <p>A coop is a small structure built to protect what's inside and help it grow. That's the job: build the systems, security, and plans that protect the business, then help it grow into the next stage.</p>
-    <p>The yellow is the light left on. Technology leadership isn't a project that ends. Someone has to own it every week, and we do.</p>
+    <p>Because there is a real one. My three daughters pitched my wife and me on keeping chickens, then we built their dream coop together in our driveway. It's yellow. They still call it one of the best experiences of their lives, and that's the standard every Yellow Coop engagement is held to.</p>
+    <p><a class="btn btn-ghost" href="/about/story/">Read the real Yellow Coop story &rarr;</a></p>
 
     <h2>Experience</h2>
     <p>Yellow Coop is built on 25 years of technology leadership: running IT operations, building and managing engineering teams across multiple countries, and leading security and platform decisions for companies from mid-size to Fortune 500. <a href="/track-record/">See the track record &rarr;</a></p>
