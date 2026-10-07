@@ -197,13 +197,13 @@ $meta_keywords = 'autonomous operations, AI ops control plane, fractional CTO AI
                     <li><strong>Budget governance alongside tools.</strong> EY’s survey shows adoption is already ahead of oversight in large enterprises; mid-market should not copy the gap (<a href="https://www.prnewswire.com/news-releases/ey-survey-finds-that-autonomous-ai-implementation-outpaces-oversight-yielding-an-ai-governance-gap-302878162.html">EY survey</a>).</li>
                 </ol>
                 <p>Factory’s raise is a useful wake-up call: capital is betting that software will increasingly be built and maintained by agents. Your job is not to match the valuation narrative. Your job is to decide where agents earn their keep—and to install enough operational control that “software factory” does not mean “unattended chaos.”</p>
-                <p>If you want a clear <strong>fractional CTO AI strategy</strong>—build-vs-buy, pilot design, and a practical AI ops control plane—Yellow Coop helps mid-market teams turn agent hype into governed delivery. Explore <a href="https://yellowcoop.com/fractional-cto">fractional CTO</a>, <a href="https://yellowcoop.com/ai-solutions">AI solutions</a>, and <a href="https://yellowcoop.com/technology-projects">technology projects</a>.</p>
+                <p>If you want a clear <strong>fractional CTO AI strategy</strong>—build-vs-buy, pilot design, and a practical AI ops control plane—Yellow Coop helps mid-market teams turn agent hype into governed delivery. Explore <a href="/how-we-engage/">fractional CTO</a>, <a href="/what-we-do/#innovate">AI solutions</a>, and <a href="/what-we-do/">technology projects</a>.</p>
 
                 <h3>Internal link ideas</h3>
                 <ul>
-                    <li><a href="https://yellowcoop.com/fractional-cto">Fractional CTO</a></li>
-                    <li><a href="https://yellowcoop.com/ai-solutions">AI solutions</a></li>
-                    <li><a href="https://yellowcoop.com/technology-projects">Technology projects</a></li>
+                    <li><a href="/how-we-engage/">Fractional CTO</a></li>
+                    <li><a href="/what-we-do/#innovate">AI solutions</a></li>
+                    <li><a href="/what-we-do/">Technology projects</a></li>
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>

@@ -1,0 +1,26 @@
+# yellowcoop.com: plain PHP site. Deployed from the repo by .cpanel.yml; edit here, not in cPanel.
+
+# Real 404s instead of showing the homepage for every unknown URL
+ErrorDocument 404 /404.shtml
+
+# No folder listings
+Options -Indexes
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+
+# One address for every page: https://yellowcoop.com (no www, no http).
+# Search Console flagged the www and http copies as duplicates.
+RewriteCond %{HTTP_HOST} ^www\.yellowcoop\.com$ [NC]
+RewriteRule ^(.*)$ https://yellowcoop.com/$1 [R=301,L]
+
+RewriteCond %{HTTPS} !=on
+RewriteCond %{HTTP:X-Forwarded-Proto} !=https
+RewriteRule ^(.*)$ https://yellowcoop.com/$1 [R=301,L]
+
+# /index.php and the old Coming Soon page point to the homepage
+RewriteCond %{THE_REQUEST} \s/index\.php[\s?]
+RewriteRule ^index\.php$ / [R=301,L]
+RewriteRule ^home\.html$ / [R=301,L]
+</IfModule>

@@ -164,7 +164,7 @@ $meta_keywords = 'continuous compliance AI, sovereign security AI, fractional CT
 
                 <h2>Soft next step</h2>
                 <p>Yellow Coop works with founders who need fractional CTO leadership, practical AI architecture, and governance that fits a real company — not a white paper. If your AI stack grew faster than your control plane, we can help you close the gap without freezing shipping. Start at <a href="https://yellowcoop.com">yellowcoop.com</a>.</p>
-                <p>Internal links: <a href="https://yellowcoop.com/fractional-cto">fractional CTO</a>, <a href="https://yellowcoop.com/ai-solutions">AI solutions</a>, <a href="https://yellowcoop.com/tech-projects">tech projects</a>, <a href="https://yellowcoop.com/blog">blog</a>.</p>
+                <p>Internal links: <a href="/how-we-engage/">fractional CTO</a>, <a href="/what-we-do/#innovate">AI solutions</a>, <a href="/what-we-do/">tech projects</a>, <a href="/blog.php">blog</a>.</p>
 
                 <h2>Sources</h2>
                 <ul>

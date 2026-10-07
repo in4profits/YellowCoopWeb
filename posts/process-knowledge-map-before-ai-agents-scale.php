@@ -161,7 +161,7 @@ $meta_keywords = 'autonomous operations, AI ops control plane, build vs buy AI, 
 
                 <h2>Soft next step</h2>
                 <p>Yellow Coop helps founders and operators stand up fractional CTO coverage, AI solution design, and the unglamorous process plumbing that makes agents safe to scale. If your team has agents in pilot but no living process owner, that is the conversation to have before the next vendor demo. Start at <a href="https://yellowcoop.com">yellowcoop.com</a>.</p>
-                <p>Internal links: <a href="https://yellowcoop.com/fractional-cto">fractional CTO</a>, <a href="https://yellowcoop.com/ai-solutions">AI solutions</a>, <a href="https://yellowcoop.com/tech-projects">tech projects</a>, <a href="https://yellowcoop.com/blog">blog</a>.</p>
+                <p>Internal links: <a href="/how-we-engage/">fractional CTO</a>, <a href="/what-we-do/#innovate">AI solutions</a>, <a href="/what-we-do/">tech projects</a>, <a href="/blog.php">blog</a>.</p>
 
                 <h2>Sources</h2>
                 <ul>

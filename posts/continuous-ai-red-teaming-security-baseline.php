@@ -178,7 +178,7 @@ $meta_keywords = 'continuous compliance AI, sovereign security AI, AI infrastruc
 
                 <h2>Soft CTA</h2>
                 <p>If you are a founder staring at a SOC 2 calendar while shipping AI-connected features every week, continuous exposure management is now part of product risk—not an IT side quest. Yellow Coop helps leadership teams design the security and AI operating model that matches shipping speed: fractional CTO guidance, AI-aware architecture, and tech projects that close the loop from finding to fix. Start at <a href="https://yellowcoop.com">yellowcoop.com</a>.</p>
-                <p>Internal links: <a href="https://yellowcoop.com/fractional-cto">fractional CTO</a>, <a href="https://yellowcoop.com/ai-solutions">AI solutions</a>, <a href="https://yellowcoop.com/tech-projects">tech projects</a>, <a href="https://yellowcoop.com/blog">blog</a>.</p>
+                <p>Internal links: <a href="/how-we-engage/">fractional CTO</a>, <a href="/what-we-do/#innovate">AI solutions</a>, <a href="/what-we-do/">tech projects</a>, <a href="/blog.php">blog</a>.</p>
 
                 <h2>Sources</h2>
                 <ul>

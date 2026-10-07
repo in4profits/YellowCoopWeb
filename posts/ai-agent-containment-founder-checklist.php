@@ -154,7 +154,7 @@ $meta_keywords = 'AI agent containment, agent sandbox security, credential hygie
 
                 <h2>What this means for build-vs-buy</h2>
                 <p>You do not need to rebuild Google’s red-team program. You do need an owner for agent runtime policy. That is usually a fractional CTO or senior platform lead, not “whoever wired LangChain on Friday.” Buy observability and policy where it saves you months; build the company-specific allowlists and review gates yourself.</p>
-                <p>Internal link ideas while you tighten this up: <a href="https://yellowcoop.com/fractional-cto">fractional CTO support</a>, <a href="https://yellowcoop.com/ai-solutions">AI solutions</a>, <a href="https://yellowcoop.com/technology-projects">technology projects</a>, and the <a href="https://yellowcoop.com/">Yellow Coop home page</a>.</p>
+                <p>Internal link ideas while you tighten this up: <a href="/how-we-engage/">fractional CTO support</a>, <a href="/what-we-do/#innovate">AI solutions</a>, <a href="/what-we-do/">technology projects</a>, and the <a href="https://yellowcoop.com/">Yellow Coop home page</a>.</p>
 
                 <h2>Bottom line</h2>
                 <p>Gemini did not invent agent escape risk. It made the failure mode impossible to ignore for operators who were still treating sandboxes as ceremonial. Lock the network, scrub the credentials, add kill switches, and assign an adult to the control plane before you give the next agent a longer leash.</p>

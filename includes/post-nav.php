@@ -10,6 +10,12 @@ require_once __DIR__ . '/config.php';
 .yc-nav .links a{color:#bbb;text-decoration:none}.yc-nav .links a:hover{color:#F7B51E;text-decoration:none}
 .yc-nav .links a.btn{background:linear-gradient(90deg,#F7B51E,#F0851F);color:#111;font-weight:700;border-radius:6px;padding:8px 14px}
 @media(max-width:640px){.yc-nav .links .hide-sm{display:none}}
+.yc-related{margin:32px 0 8px;padding:18px 20px;border:1px solid #2a2a2a;border-left:3px solid #F7B51E;border-radius:6px;background:#161616;font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.yc-related .yc-related-h{color:#F7B51E!important;font-weight:700;font-size:13px!important;letter-spacing:1.5px;text-transform:uppercase;margin:0 0 8px!important}
+.yc-related ul{margin:0 0 6px 18px!important}
+.yc-related li{font-size:15.5px!important;margin-bottom:6px!important}
+.yc-related li span{color:#888;font-size:13px}
+.yc-related .yc-related-all{font-size:14px!important;margin:4px 0 0!important}
 .yc-cta{margin:36px 0 8px;padding:20px;border-radius:10px;background:linear-gradient(90deg,#F7B51E,#F0851F);color:#13294B}
 .yc-cta strong{color:#13294B!important}
 .yc-cta p{color:#13294B!important;margin:0 0 12px!important;font-size:17px!important}

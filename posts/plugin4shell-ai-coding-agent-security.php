@@ -165,7 +165,7 @@ $meta_keywords = 'AI coding agent security, Plugin4Shell, AI supply chain risk, 
                 <p>If you are experimenting with production agents in CRM, support, or ops, bake governance in now: identity for agents, least privilege, change windows for plugin updates, observability for weird behavior.</p>
 
                 <h2>Soft close</h2>
-                <p>Yellow Coop helps founders and operators put a grown-up tech spine under AI experiments—<a href="https://yellowcoop.com/fractional-cto">fractional CTO</a> coverage, <a href="https://yellowcoop.com/ai-solutions">AI solution</a> scoping, and pragmatic <a href="https://yellowcoop.com/tech-projects">tech project</a> delivery. If Plugin4Shell just made your "we'll secure agents later" plan feel thin, that is a useful signal. Later arrived.</p>
+                <p>Yellow Coop helps founders and operators put a grown-up tech spine under AI experiments—<a href="/how-we-engage/">fractional CTO</a> coverage, <a href="/what-we-do/#innovate">AI solution</a> scoping, and pragmatic <a href="/what-we-do/">tech project</a> delivery. If Plugin4Shell just made your "we'll secure agents later" plan feel thin, that is a useful signal. Later arrived.</p>
     <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
         </div>

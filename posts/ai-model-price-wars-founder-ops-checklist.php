@@ -168,7 +168,7 @@ $meta_keywords = 'build vs buy AI, fractional CTO AI strategy, AI infrastructure
 
                 <h2>Soft CTA</h2>
                 <p>If your team is drowning in model SKUs, invoices, and “which Claude/GPT should we use?” Slack threads, that is a fractional CTO problem dressed up as an AI problem. Yellow Coop helps founders install the routing, measurement, and build-vs-buy discipline so model releases become leverage—not chaos. Explore fractional CTO and AI solution help at <a href="https://yellowcoop.com">yellowcoop.com</a>.</p>
-                <p>Internal links: <a href="https://yellowcoop.com/fractional-cto">fractional CTO</a>, <a href="https://yellowcoop.com/ai-solutions">AI solutions</a>, <a href="https://yellowcoop.com/tech-projects">tech projects</a>, <a href="https://yellowcoop.com/blog">blog</a>.</p>
+                <p>Internal links: <a href="/how-we-engage/">fractional CTO</a>, <a href="/what-we-do/#innovate">AI solutions</a>, <a href="/what-we-do/">tech projects</a>, <a href="/blog.php">blog</a>.</p>
 
                 <h2>Sources</h2>
                 <ul>

@@ -160,7 +160,7 @@ $meta_keywords = 'AI agent observability, agent production failures, AI ops cont
                 </ol>
 
                 <h2>Soft close</h2>
-                <p>Yellow Coop works with founders and operators who want AI in the business—not just in the slide deck. If you need a <a href="https://yellowcoop.com/fractional-cto">fractional CTO</a> to design the control plane, an <a href="https://yellowcoop.com/ai-solutions">AI solutions</a> partner to ship a reliable first agent, or help on a messy <a href="https://yellowcoop.com/tech-projects">tech project</a> tying systems together, we are built for that. Production agents fail quietly. Your operating model should not.</p>
+                <p>Yellow Coop works with founders and operators who want AI in the business—not just in the slide deck. If you need a <a href="/how-we-engage/">fractional CTO</a> to design the control plane, an <a href="/what-we-do/#innovate">AI solutions</a> partner to ship a reliable first agent, or help on a messy <a href="/what-we-do/">tech project</a> tying systems together, we are built for that. Production agents fail quietly. Your operating model should not.</p>
     <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
         </div>
