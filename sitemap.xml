@@ -8,9 +8,15 @@
   </url>
   <url>
     <loc>https://yellowcoop.com/blog.php</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yellowcoop.com/posts/personal-agent-protocol-ai-agents-customer-access.php</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://yellowcoop.com/posts/sap-joule-work-20-percent-productivity-measure-ai-roi.php</loc>
