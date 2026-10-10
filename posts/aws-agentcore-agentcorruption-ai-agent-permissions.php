@@ -1,10 +1,10 @@
 <?php
-$title = 'Zenity Labs Took Over Every AWS AgentCore Agent in an Account and Region With One Prompt — Scope Each AI Agent\'s Permissions Like an Employee\'s — Yellow Coop';
+$title = 'Zenity Says One Prompt Took Over Every AWS AgentCore Agent in an Account and Region — Scope Each AI Agent\'s Permissions Like an Employee\'s — Yellow Coop';
 $year_start = 2025;
 $year_end = 2026;
 $email = 'info@yellowcoop.com';
 $newsletter = 'https://4393au.share-na2.hsforms.com/27zXzNBOAQ9OzMK-Nck6Hxw';
-$meta_description = 'One prompt to one public AWS AgentCore agent exposed every agent in its account and region. What owners and operators should check in their own AI agents.';
+$meta_description = 'Zenity says one prompt to one public AWS AgentCore agent reached every agent in its account and region. What owners and operators should check in their own AI agents.';
 $meta_keywords = 'AI agent security, AWS Bedrock AgentCore, least privilege AI agents, AgentCorruption, AI agent permissions, cloud credentials for AI agents';
 $pillar = 'Secure';
 ?>
@@ -120,11 +120,11 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/aws-agentcore-agentcorruption-ai-agent-permissions-hero.webp" alt="Zenity Labs Took Over Every AWS AgentCore Agent in an Account and Region With One Prompt — Scope Each AI Agent's Permissions Like an Employee's">
-                <h1>Zenity Labs Took Over Every AWS AgentCore Agent in an Account and Region With One Prompt — Scope Each AI Agent's Permissions Like an Employee's</h1>
+                <img class="hero" src="/posts/images/aws-agentcore-agentcorruption-ai-agent-permissions-hero.webp" alt="Zenity Says One Prompt Took Over Every AWS AgentCore Agent in an Account and Region — Scope Each AI Agent's Permissions Like an Employee's">
+                <h1>Zenity Says One Prompt Took Over Every AWS AgentCore Agent in an Account and Region — Scope Each AI Agent's Permissions Like an Employee's</h1>
                 <p class="meta">2026-10-10</p>
 
-                <p><strong>The takeaway:</strong> A customer-facing AI agent is only as safe as the permissions it carries. On October 8, 2026, security firm Zenity Labs showed that a single chat message to one public AWS agent could unlock every other agent in the same account and region, because they all shared one overly broad default role. AWS has since tightened that default, but the lesson applies to any agent you run: give each one only the access its job needs.</p>
+                <p><strong>The takeaway:</strong> A customer-facing AI agent is only as safe as the permissions it carries. On October 8, 2026, security firm Zenity Labs said that a single chat message to one public AWS agent could unlock every other agent in the same account and region, because they all shared one overly broad default role. AWS has since tightened that default, but the lesson applies to any agent you run: give each one only the access its job needs.</p>
 
                 <h2>What happened</h2>
                 <p>Amazon Bedrock AgentCore is AWS’s managed service for building and running AI agents. On October 8, 2026, Zenity Labs, an AI agent security vendor, disclosed a chain of flaws it calls “AgentCorruption” (<a href="https://zenity.io/press-release/zenity-labs-discloses-agentcorruption-a-chain-of-aws-agentcore-flaws">Zenity press release, Oct. 8, 2026</a>). The research was presented at the SecTor 2026 conference in Toronto (<a href="https://thenextweb.com/news/aws-agentcore-zenity-agentcorruption-one-prompt-agents">The Next Web, Oct. 8, 2026</a>).</p>
@@ -145,8 +145,8 @@ $pillar = 'Secure';
                     <li><strong>June 22, 2026:</strong> Zenity finds the default role unchanged.</li>
                     <li><strong>September 29, 2026:</strong> Zenity finds AWS has removed the permissions to invoke other agents, read conversations and access Secrets Manager.</li>
                 </ul>
-                <p>The Register independently reported the same sequence (<a href="https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436">The Register, Oct. 9, 2026</a>), and The Next Web noted the disclosure includes no CVE identifier (<a href="https://thenextweb.com/news/aws-agentcore-zenity-agentcorruption-one-prompt-agents">The Next Web, Oct. 8, 2026</a>).</p>
-                <p><strong>Important:</strong> the IMDSv2 change applies to <em>newly deployed</em> agents. If you deployed AgentCore agents before February 14, 2026, or customized their roles, don’t assume the new defaults reached you.</p>
+                <p>The Register reported Zenity’s timeline (<a href="https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436">The Register, Oct. 9, 2026</a>), and The Next Web noted the disclosure includes no CVE identifier (<a href="https://thenextweb.com/news/aws-agentcore-zenity-agentcorruption-one-prompt-agents">The Next Web, Oct. 8, 2026</a>). AWS calls the behavior “documented and expected” (<a href="https://labs.zenity.io/post/agentcorruption-how-a-single-prompt-collapsed-the-entire-cloud-security-model">Zenity Labs blog, Oct. 8, 2026</a>), and The Register reported that Amazon says Zenity’s research “misrepresents documented behavior as a vulnerability” (<a href="https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436">The Register, Oct. 9, 2026</a>).</p>
+                <p><strong>Important:</strong> the IMDSv2 change applied to <em>newly deployed</em> agents, but since June 30, 2026, AgentCore runtimes without MMDSv2 enabled can’t be invoked, per AWS’s runtime documentation (<a href="https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/runtime-security-best-practices.html">AWS AgentCore Runtime security best practices</a>). If you deployed AgentCore agents before February 14, 2026, or customized their roles, don’t assume the new defaults reached you.</p>
 
                 <h2>Why this matters beyond AWS</h2>
                 <p>AWS’s own documentation states the core risk plainly: “any code or actor running inside the VM can access these credentials by calling the metadata endpoint” (<a href="https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/security-credentials-management.html">AWS AgentCore credentials documentation</a>). An AI agent that can browse, run code or make web requests can be talked into doing things. The question is how much damage it can do once it is.</p>
@@ -155,7 +155,7 @@ $pillar = 'Secure';
                 <h2>What to check this week</h2>
                 <h3>If you run agents on AWS AgentCore</h3>
                 <ul>
-                    <li><strong>Redeploy or verify older agents</strong> so they run with IMDSv2 only (<a href="https://labs.zenity.io/post/agentcorruption-how-a-single-prompt-collapsed-the-entire-cloud-security-model">Zenity Labs blog, Oct. 8, 2026</a>).</li>
+                    <li><strong>Redeploy or verify older agents</strong> so they require MMDSv2; since June 30, 2026, AgentCore runtimes without MMDSv2 enabled can’t be invoked (<a href="https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/runtime-security-best-practices.html">AWS AgentCore Runtime security best practices</a>).</li>
                     <li><strong>Give each agent its own execution role</strong> with least privilege, and make sure that role has “equal or fewer privileges than the users who can invoke it” (<a href="https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/security-credentials-management.html">AWS AgentCore credentials documentation</a>).</li>
                     <li><strong>Restrict who can invoke agents</strong> and scope invoke permissions to specific runtime resources (<a href="https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/runtime-security-best-practices.html">AWS AgentCore Runtime security best practices</a>).</li>
                 </ul>
@@ -168,7 +168,7 @@ $pillar = 'Secure';
                 </ul>
 
                 <h2>Soft next step</h2>
-                <p>AgentCorruption is patched, but the design lesson isn’t AWS-specific. Treat every AI agent like a new hire: its own account, only the access its job needs, and someone watching what it does. If you’d like a second set of eyes on how your agents and cloud permissions are set up, <a href="/what-we-do/">Yellow Coop</a>’s <a href="/how-we-engage/">fractional CTO</a> and <a href="/what-we-do/#innovate">AI teams</a> can help you map the blast radius before someone else does.</p>
+                <p>Zenity says AgentCorruption is patched, but the design lesson isn’t AWS-specific. Treat every AI agent like a new hire: its own account, only the access its job needs, and someone watching what it does. If you’d like a second set of eyes on how your agents and cloud permissions are set up, <a href="/what-we-do/">Yellow Coop</a>’s <a href="/how-we-engage/">fractional CTO</a> and <a href="/what-we-do/#innovate">AI teams</a> can help you map the blast radius before someone else does.</p>
                 <p>See cloud and security work in our <a href="/track-record/">track record</a>, including the <a href="/track-record/cloud-security-delivery-turnaround.php">Cloud, Security &amp; Delivery Turnaround</a> and <a href="/track-record/zero-trust-security-program.php">Zero Trust Security Program</a> case studies; see <a href="/cio-vs-cto-vs-ciso/">who owns agent security</a>; or start at <a href="/contact/">contact</a>.</p>
                 <p>Internal links: <a href="/what-we-do/#secure">Secure</a>, <a href="/what-we-do/">What We Do</a>, <a href="/what-we-do/#innovate">Innovate</a>, <a href="/how-we-engage/">How We Engage</a>, <a href="/cio-vs-cto-vs-ciso/">CIO vs CTO vs CISO</a>, <a href="/track-record/">Track Record</a>, <a href="/track-record/cloud-security-delivery-turnaround.php">Cloud, Security &amp; Delivery Turnaround</a>, <a href="/track-record/zero-trust-security-program.php">Zero Trust Security Program</a>, <a href="/blog.php">Insights</a>.</p>
 
