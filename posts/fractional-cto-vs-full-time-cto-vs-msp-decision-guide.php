@@ -4,7 +4,7 @@ $year_start = 2025;
 $year_end = 2026;
 $email = 'info@yellowcoop.com';
 $newsletter = 'https://4393au.share-na2.hsforms.com/27zXzNBOAQ9OzMK-Nck6Hxw';
-$meta_description = 'Fractional CTO, full-time CTO, or a better MSP? A decision guide for mid-market owners and operators, with real cost math and red flags to watch.';
+$meta_description = 'Fractional CTO, full-time CTO, or a better MSP? A decision guide for mid-market owners and operators, with cost tradeoffs and red flags to watch.';
 $meta_keywords = 'fractional CTO, fractional CTO vs full-time CTO, when to hire a CTO, MSP vs CTO, CTO cost, technology leadership for mid-market companies, fractional CTO AI strategy, AI infrastructure strategy';
 $pillar = 'Operate';
 ?>
@@ -124,13 +124,13 @@ $pillar = 'Operate';
                 <h1>Fractional CTO, Full-Time CTO, or a Better MSP? A Decision Guide for Mid-Market Owners and Operators</h1>
                 <p class="meta">2026-10-13</p>
 
-                <p><strong>The takeaway:</strong> If your technology problem is “keep it running,” you need a strong managed service provider. If it’s “decide where we’re going” (AI, security ownership, a platform rebuild), you need executive-level technology judgment. For most mid-market companies, a fractional CTO is the cheapest way to get that judgment until there’s enough strategy work to fill a full-time seat.</p>
+                <p><strong>The takeaway:</strong> If your technology problem is “keep it running,” you need a strong managed service provider. If it’s “decide where we’re going” (AI, security ownership, a platform rebuild), you need executive-level technology judgment. For most mid-market companies, a fractional CTO gets you that judgment without the full salary until there’s enough strategy work to fill a full-time seat.</p>
 
                 <h2>Three options, in plain words</h2>
                 <ul>
                     <li><strong>Managed service provider (MSP):</strong> an outside firm that runs day-to-day IT. Think help desk, patching, backups, and device management. It executes; it usually doesn’t set strategy.</li>
                     <li><strong>Full-time CTO:</strong> a chief technology officer on payroll who owns technology direction, architecture, vendors, and the tech team.</li>
-                    <li><strong>Fractional CTO:</strong> the same senior judgment on a part-time basis, usually a set number of days a month or a retainer. You get the decisions and the accountability without the full salary.</li>
+                    <li><strong>Fractional CTO:</strong> the same senior judgment on a part-time basis, usually 1 to 4 days a week. You get the decisions and the accountability without the full salary.</li>
                 </ul>
                 <p>If the titles are blurry, our breakdown of <a href="/cio-vs-cto-vs-ciso/">CIO vs. CTO vs. CISO</a> roles is a good primer.</p>
 
@@ -147,7 +147,7 @@ $pillar = 'Operate';
                 <h3>3. Who owns cyber risk at the leadership table?</h3>
                 <p>NIST’s Cybersecurity Framework 2.0 added a new “Govern” function and says cybersecurity is a major enterprise risk that senior leaders should weigh alongside finance and reputation (<a href="https://www.nist.gov/news-events/news/2024/02/nist-releases-version-20-landmark-cybersecurity-framework">NIST, Feb. 26, 2024</a>). If the honest answer is “our MSP,” you have a gap. Your vendor shouldn’t be the only one grading its own homework.</p>
                 <h3>4. Is there enough strategy work to fill 40 hours a week?</h3>
-                <p>A full-time CTO makes sense when you’re building software as a core product, running a sizable engineering team, or going through a multi-year platform change. If the strategic work fits in a few days a month, you’d be paying full-time rates for part-time decisions.</p>
+                <p>A full-time CTO makes sense when you’re building software as a core product, running a sizable engineering team, or going through a multi-year platform change. If the strategic work fits in 1 to 4 days a week, you’d be paying full-time rates for part-time decisions.</p>
                 <h3>5. Do you need a bridge?</h3>
                 <p>Fractional work is often a bridge. A part-time CTO can steady things now, write the job description for the permanent hire, and help you interview for it.</p>
 
