@@ -44,6 +44,7 @@ require __DIR__ . '/../includes/header.php';
       <li>Written incident response plan and a tabletop exercise with leadership</li>
       <li>SOC 2 or similar readiness plan, when customers require it</li>
       <li>Vendor risk review for the systems that hold your data</li>
+      <li>Patching and vulnerability management: risk-based priorities for what gets fixed first</li>
       <li>AI use policy: which tools, which data, who approves</li>
     </ul></div>
     <div class="card"><h3>You need this when</h3><ul>
