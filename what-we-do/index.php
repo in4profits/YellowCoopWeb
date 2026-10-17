@@ -64,6 +64,7 @@ require __DIR__ . '/../includes/header.php';
     <div class="card"><h3>Typical deliverables</h3><ul>
       <li>Build vs buy decisions with cost and risk laid out side by side</li>
       <li>AI adoption plan tied to hours saved and headcount, not demos</li>
+      <li>AI data readiness: pick the use case, name data owners, fix quality and sharing permissions before turning on AI</li>
       <li>Architecture review of your product or platform</li>
       <li>Engineering team structure, hiring plan, and outsourced partner oversight</li>
       <li>Technology due diligence for acquisitions or investors</li>
