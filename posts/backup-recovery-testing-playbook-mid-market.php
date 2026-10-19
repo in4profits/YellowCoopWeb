@@ -187,7 +187,7 @@ $pillar = 'Secure';
                     <li><a href="https://csrc.nist.gov/pubs/sp/800/34/r1/upd1/final">Contingency Planning Guide for Federal Information Systems</a> — Marianne Swanson, Pauline Bowen, Amy Phillips, Dean Gallup, and David Lynes, NIST SP 800-34 Rev. 1, May 2010 (updated November 11, 2010), RTO and RPO definitions</li>
                     <li><a href="https://www.cisa.gov/sites/default/files/publications/data_backup_options.pdf">Data Backup Options</a> — Paul Ruggiero and Matthew A. Heckathorn, Carnegie Mellon University for US-CERT, 2012</li>
                     <li><a href="https://www.cisa.gov/stopransomware/ransomware-guide">#StopRansomware Guide</a> — CISA and MS-ISAC, September 2023, Part 1 backup, cloud backup, and incident response plan recommendations</li>
-                    <li><a href="https://csrc.nist.gov/pubs/ir/8374/r1/final">Ransomware Risk Management: A Cybersecurity Framework 2.0 Community Profile</a> — Murugiah Souppaya, William Fisher, William C. Barker, and Karen Kent, NIST IR 8374 Rev. 1, June 2026 (PR.DS-11, RC.RP-03)</li>
+                    <li><a href="https://csrc.nist.gov/pubs/ir/8374/r1/final">Ransomware Risk Management: A Cybersecurity Framework 2.0 Community Profile</a> — Murugiah Souppaya, William C. Barker, William Fisher, and Karen Kent, NIST IR 8374 Rev. 1, June 2026 (PR.DS-11, RC.RP-03)</li>
                     <li><a href="https://learn.microsoft.com/en-us/compliance/assurance/assurance-data-resiliency-overview">Data Resiliency in Microsoft 365</a> — Microsoft Service Assurance, Microsoft Learn (accessed October 19, 2026)</li>
                     <li><a href="/what-we-do/">What we do</a> and <a href="/how-we-engage/">How we engage</a> — Yellow Coop</li>
                 </ul>
