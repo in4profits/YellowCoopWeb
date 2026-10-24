@@ -182,7 +182,7 @@ $pillar = 'Secure';
 
                 <h2>The bottom line</h2>
 
-                <p>A free government checklist plus a free scanner removes most of the guesswork from Microsoft 365 security. The hard parts are prioritizing the fixes, rolling them out without locking anyone out, and keeping them in place. That’s the kind of work Yellow Coop’s fractional CTOs handle for growing companies. <a href="/contact/">Let’s talk</a>.</p>
+                <p>A free government checklist plus a free scanner removes most of the guesswork from Microsoft 365 security. The hard parts are prioritizing the fixes, rolling them out without locking anyone out, and keeping them in place. That’s the kind of work a Yellow Coop fractional CISO handles for growing companies. <a href="/contact/">Let’s talk</a>.</p>
 
                 <h2>Sources</h2>
                 <ul>
