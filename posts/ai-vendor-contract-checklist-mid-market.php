@@ -193,7 +193,7 @@ $pillar = 'Innovate';
 
                 <h2>The bottom line</h2>
 
-                <p>Good AI vendors won’t flinch at these questions, and vague answers tell you something too. If you’d like a seasoned second opinion on an AI vendor shortlist or contract, that’s the kind of work Yellow Coop’s fractional CTOs and AI solutions team take on. <a href="/contact/">Get in touch</a>.</p>
+                <p>Good AI vendors won’t flinch at these questions, and vague answers tell you something too. If you’d like a seasoned second opinion on an AI vendor shortlist or contract, that’s the kind of work a Yellow Coop fractional CTO takes on. <a href="/contact/">Get in touch</a>.</p>
 
                 <h2>Sources</h2>
                 <ul>
