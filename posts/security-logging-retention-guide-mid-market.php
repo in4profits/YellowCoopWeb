@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/security-logging-retention-guide-mid-market-hero.webp" alt="Security Logging for Mid-Market Companies: What to Log, How Long to Keep It, and Who Watches It">
+                <div class="yc-pager"><img class="hero" src="/posts/images/security-logging-retention-guide-mid-market-hero.webp" alt="Security Logging for Mid-Market Companies: What to Log, How Long to Keep It, and Who Watches It"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Security Logging for Mid-Market Companies: What to Log, How Long to Keep It, and Who Watches It</h1>
                 <p class="meta">2026-10-25</p>
 

@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/anthropic-oss-scanner-open-source-dependency-security-hero.webp" alt="Anthropic Will Scan Open Source for Free — Your Real Job Is Knowing Which Open Source You Run">
+                <div class="yc-pager"><img class="hero" src="/posts/images/anthropic-oss-scanner-open-source-dependency-security-hero.webp" alt="Anthropic Will Scan Open Source for Free — Your Real Job Is Knowing Which Open Source You Run"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Anthropic Will Scan Open Source for Free — Your Real Job Is Knowing Which Open Source You Run</h1>
                 <p class="meta">2026-10-09</p>
 

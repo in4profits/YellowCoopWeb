@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/crowdstrike-artex-ai-hacker-south-korea-banks-small-business-security-hero.webp" alt="One Hacker, a Free AI Pentest Tool, and Nine Banks — Your Security Plan Can't Assume Attackers Need a Team">
+                <div class="yc-pager"><img class="hero" src="/posts/images/crowdstrike-artex-ai-hacker-south-korea-banks-small-business-security-hero.webp" alt="One Hacker, a Free AI Pentest Tool, and Nine Banks — Your Security Plan Can't Assume Attackers Need a Team"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>One Hacker, a Free AI Pentest Tool, and Nine Banks — Your Security Plan Can't Assume Attackers Need a Team</h1>
                 <p class="meta">2026-10-09</p>
 

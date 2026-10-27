@@ -120,7 +120,7 @@ $pillar = 'Innovate';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/technical-debt-triage-mid-market-hero.webp" alt="Technical Debt Triage: How Mid-Market Owners and Operators Decide What to Fix, Fund, or Leave Alone">
+                <div class="yc-pager"><img class="hero" src="/posts/images/technical-debt-triage-mid-market-hero.webp" alt="Technical Debt Triage: How Mid-Market Owners and Operators Decide What to Fix, Fund, or Leave Alone"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Technical Debt Triage: How Mid-Market Owners and Operators Decide What to Fix, Fund, or Leave Alone</h1>
                 <p class="meta">2026-10-21</p>
 

@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/chatgpt-meetings-plugin-ai-note-taker-consent-policy-hero.webp" alt="ChatGPT Just Got a Meeting Note-Taker With No Bot in the Room — Your Consent Policy Has to Do the Talking">
+                <div class="yc-pager"><img class="hero" src="/posts/images/chatgpt-meetings-plugin-ai-note-taker-consent-policy-hero.webp" alt="ChatGPT Just Got a Meeting Note-Taker With No Bot in the Room — Your Consent Policy Has to Do the Talking"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>ChatGPT Just Got a Meeting Note-Taker With No Bot in the Room — Your Consent Policy Has to Do the Talking</h1>
                 <p class="meta">2026-10-07</p>
 

@@ -29,7 +29,7 @@ One commit per post, containing all of:
 Post template: copy an existing post (e.g. `posts/process-knowledge-map-before-ai-agents-scale.php`) and keep its structure:
 - PHP variables at the top: `$title` (ends with ` — Yellow Coop`), `$meta_description`, `$meta_keywords`, `$pillar` (exactly `'Operate'`, `'Secure'` or `'Innovate'`).
 - Before `</head>`: `<?php include __DIR__ . '/../includes/post-head.php'; ?>`
-- Hero: `<img class="hero" src="/posts/images/<slug>-hero.webp" ...>`
+- Hero, wrapped with the prev/next chevrons: `<div class="yc-pager"><img class="hero" src="/posts/images/<slug>-hero.webp" ...><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>`
 - After `<body>`: `<?php include __DIR__ . '/../includes/post-nav.php'; ?>`
 - Before `</article>`: `<?php include __DIR__ . '/../includes/post-cta.php'; ?>`
 - Date in `<p class="meta">YYYY-MM-DD</p>`.

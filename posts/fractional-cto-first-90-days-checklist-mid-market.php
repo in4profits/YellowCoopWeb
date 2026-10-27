@@ -120,7 +120,7 @@ $pillar = 'Operate';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/fractional-cto-first-90-days-checklist-mid-market-hero.webp" alt="What a Fractional CTO Should Deliver in the First 90 Days: A Checklist for Mid-Market Owners and Operators">
+                <div class="yc-pager"><img class="hero" src="/posts/images/fractional-cto-first-90-days-checklist-mid-market-hero.webp" alt="What a Fractional CTO Should Deliver in the First 90 Days: A Checklist for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>What a Fractional CTO Should Deliver in the First 90 Days: A Checklist for Mid-Market Owners and Operators</h1>
                 <p class="meta">2026-10-19</p>
 

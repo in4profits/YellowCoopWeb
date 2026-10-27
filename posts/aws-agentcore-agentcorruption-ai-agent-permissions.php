@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/aws-agentcore-agentcorruption-ai-agent-permissions-hero.webp" alt="Zenity Says One Prompt Took Over Every AWS AgentCore Agent in an Account and Region — Scope Each AI Agent's Permissions Like an Employee's">
+                <div class="yc-pager"><img class="hero" src="/posts/images/aws-agentcore-agentcorruption-ai-agent-permissions-hero.webp" alt="Zenity Says One Prompt Took Over Every AWS AgentCore Agent in an Account and Region — Scope Each AI Agent's Permissions Like an Employee's"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Zenity Says One Prompt Took Over Every AWS AgentCore Agent in an Account and Region — Scope Each AI Agent's Permissions Like an Employee's</h1>
                 <p class="meta">2026-10-10</p>
 

@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/spf-dkim-dmarc-email-authentication-playbook-mid-market-hero.webp" alt="SPF, DKIM, and DMARC Setup: An Email Authentication Playbook for Mid-Market Owners and Operators">
+                <div class="yc-pager"><img class="hero" src="/posts/images/spf-dkim-dmarc-email-authentication-playbook-mid-market-hero.webp" alt="SPF, DKIM, and DMARC Setup: An Email Authentication Playbook for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>SPF, DKIM, and DMARC Setup: An Email Authentication Playbook for Mid-Market Owners and Operators</h1>
                 <p class="meta">2026-10-18</p>
 

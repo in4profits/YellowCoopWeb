@@ -120,7 +120,7 @@ $pillar = 'Operate';
     <div class="page">
         <div class="wrap">
             <article>
-                                <img class="hero" src="/posts/images/ai-employees-founder-org-chart-hero.webp" alt="AI Employees Just Raised $77M — Do You Have an Org Chart for Them?">
+                                <div class="yc-pager"><img class="hero" src="/posts/images/ai-employees-founder-org-chart-hero.webp" alt="AI Employees Just Raised $77M — Do You Have an Org Chart for Them?"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>AI Employees Just Raised $77M — Do You Have an Org Chart for Them?</h1>
                 <p class="meta">2026-09-26</p>
 

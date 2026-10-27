@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/phishing-resistant-mfa-rollout-mid-market-hero.webp" alt="How to Roll Out Phishing-Resistant MFA Without Breaking Your Mid-Market Business">
+                <div class="yc-pager"><img class="hero" src="/posts/images/phishing-resistant-mfa-rollout-mid-market-hero.webp" alt="How to Roll Out Phishing-Resistant MFA Without Breaking Your Mid-Market Business"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>How to Roll Out Phishing-Resistant MFA Without Breaking Your Mid-Market Business</h1>
                 <p class="meta">2026-10-14</p>
 

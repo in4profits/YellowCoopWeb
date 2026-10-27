@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/nvidia-open-agent-safety-platform-containment-hero.webp" alt="Nvidia Just Made AI Agent Containment an Ops Problem — Treat It Like One">
+                <div class="yc-pager"><img class="hero" src="/posts/images/nvidia-open-agent-safety-platform-containment-hero.webp" alt="Nvidia Just Made AI Agent Containment an Ops Problem — Treat It Like One"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Nvidia Just Made AI Agent Containment an Ops Problem — Treat It Like One</h1>
                 <p class="meta">2026-09-28</p>
 

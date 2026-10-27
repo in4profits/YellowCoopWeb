@@ -119,7 +119,7 @@ $meta_keywords = 'build vs buy AI, fractional CTO AI strategy, AI infrastructure
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/ai-model-price-wars-founder-ops-checklist-hero.webp" alt="AI Model Price Wars Just Became a Founder Ops Problem">
+                <div class="yc-pager"><img class="hero" src="/posts/images/ai-model-price-wars-founder-ops-checklist-hero.webp" alt="AI Model Price Wars Just Became a Founder Ops Problem"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>AI Model Price Wars Just Became a Founder Ops Problem</h1>
                 <p class="meta">2026-09-23</p>
 

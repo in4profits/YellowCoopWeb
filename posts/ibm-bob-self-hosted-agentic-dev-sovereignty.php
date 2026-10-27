@@ -120,7 +120,7 @@ $pillar = 'Innovate';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/ibm-bob-self-hosted-agentic-dev-sovereignty-hero.webp" alt="IBM Just Made Bob Self-Hosted — Bring Agentic Dev Tools to the Data, Not the Other Way Around">
+                <div class="yc-pager"><img class="hero" src="/posts/images/ibm-bob-self-hosted-agentic-dev-sovereignty-hero.webp" alt="IBM Just Made Bob Self-Hosted — Bring Agentic Dev Tools to the Data, Not the Other Way Around"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>IBM Just Made Bob Self-Hosted — Bring Agentic Dev Tools to the Data, Not the Other Way Around</h1>
                 <p class="meta">2026-10-01</p>
 

@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/openai-dots-always-on-agents-approval-gates-hero.webp" alt="OpenAI Just Launched Dots — Make Always-On Agents an Approval Problem, Not a Magic Trick">
+                <div class="yc-pager"><img class="hero" src="/posts/images/openai-dots-always-on-agents-approval-gates-hero.webp" alt="OpenAI Just Launched Dots — Make Always-On Agents an Approval Problem, Not a Magic Trick"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>OpenAI Just Launched Dots — Make Always-On Agents an Approval Problem, Not a Magic Trick</h1>
                 <p class="meta">2026-09-30</p>
 

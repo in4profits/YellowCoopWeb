@@ -120,7 +120,7 @@ $pillar = 'Operate';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/move-off-spreadsheets-decision-guide-mid-market-hero.webp" alt="When to Move a Process Off Spreadsheets: A Decision Guide for Mid-Market Owners and Operators">
+                <div class="yc-pager"><img class="hero" src="/posts/images/move-off-spreadsheets-decision-guide-mid-market-hero.webp" alt="When to Move a Process Off Spreadsheets: A Decision Guide for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>When to Move a Process Off Spreadsheets: A Decision Guide for Mid-Market Owners and Operators</h1>
                 <p class="meta">2026-10-25</p>
 

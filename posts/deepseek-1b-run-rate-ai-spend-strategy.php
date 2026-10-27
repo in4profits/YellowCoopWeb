@@ -120,7 +120,7 @@ $pillar = 'Operate';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/deepseek-1b-run-rate-ai-spend-strategy-hero.webp" alt="DeepSeek Just Hit a $1B Run Rate — Your AI Bill Is Now a Strategy Decision">
+                <div class="yc-pager"><img class="hero" src="/posts/images/deepseek-1b-run-rate-ai-spend-strategy-hero.webp" alt="DeepSeek Just Hit a $1B Run Rate — Your AI Bill Is Now a Strategy Decision"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>DeepSeek Just Hit a $1B Run Rate — Your AI Bill Is Now a Strategy Decision</h1>
                 <p class="meta">2026-09-27</p>
 

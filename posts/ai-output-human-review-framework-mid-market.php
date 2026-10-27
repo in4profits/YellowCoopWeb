@@ -120,7 +120,7 @@ $pillar = 'Innovate';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/ai-output-human-review-framework-mid-market-hero.webp" alt="Where AI Output Needs a Human Check: A Review-Level Framework for Mid-Market Owners and Operators">
+                <div class="yc-pager"><img class="hero" src="/posts/images/ai-output-human-review-framework-mid-market-hero.webp" alt="Where AI Output Needs a Human Check: A Review-Level Framework for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Where AI Output Needs a Human Check: A Review-Level Framework for Mid-Market Owners and Operators</h1>
                 <p class="meta">2026-10-23</p>
 

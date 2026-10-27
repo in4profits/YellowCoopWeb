@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/openai-agent-sandbox-dns-leak-containment-hero.webp" alt="OpenAI’s Agent Sandbox Just Leaked Through DNS — Treat Yours the Same Way">
+                <div class="yc-pager"><img class="hero" src="/posts/images/openai-agent-sandbox-dns-leak-containment-hero.webp" alt="OpenAI’s Agent Sandbox Just Leaked Through DNS — Treat Yours the Same Way"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>OpenAI’s Agent Sandbox Just Leaked Through DNS — Treat Yours the Same Way</h1>
                 <p class="meta">2026-09-27</p>
 

@@ -120,7 +120,7 @@ $pillar = 'Innovate';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/gemini-4-argon-benchmarks-vs-real-work-model-evals-hero.webp" alt="Gemini 4 Argon Aced the Benchmarks and Still Got Side-Eye From Googlers — Test Models on Your Work, Not the Leaderboard">
+                <div class="yc-pager"><img class="hero" src="/posts/images/gemini-4-argon-benchmarks-vs-real-work-model-evals-hero.webp" alt="Gemini 4 Argon Aced the Benchmarks and Still Got Side-Eye From Googlers — Test Models on Your Work, Not the Leaderboard"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Gemini 4 Argon Aced the Benchmarks and Still Got Side-Eye From Googlers — Test Models on Your Work, Not the Leaderboard</h1>
                 <p class="meta">2026-10-05</p>
 

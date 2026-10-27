@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/business-email-compromise-payment-verification-playbook-mid-market-hero.webp" alt="How to Stop Business Email Compromise: A Payment Verification Playbook for Mid-Market Owners and Operators">
+                <div class="yc-pager"><img class="hero" src="/posts/images/business-email-compromise-payment-verification-playbook-mid-market-hero.webp" alt="How to Stop Business Email Compromise: A Payment Verification Playbook for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>How to Stop Business Email Compromise: A Payment Verification Playbook for Mid-Market Owners and Operators</h1>
                 <p class="meta">2026-10-20</p>
 

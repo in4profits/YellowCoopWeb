@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/saas-vendor-third-party-risk-review-playbook-mid-market-hero.webp" alt="How to Review Vendor and SaaS Risk: A Playbook for Mid-Market Owners and Operators">
+                <div class="yc-pager"><img class="hero" src="/posts/images/saas-vendor-third-party-risk-review-playbook-mid-market-hero.webp" alt="How to Review Vendor and SaaS Risk: A Playbook for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>How to Review Vendor and SaaS Risk: A Playbook for Mid-Market Owners and Operators</h1>
                 <p class="meta">2026-10-15</p>
 

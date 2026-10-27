@@ -119,7 +119,7 @@ $meta_keywords = 'autonomous operations, AI ops control plane, build vs buy AI, 
     <div class="page">
         <div class="wrap">
             <article>
-                                <img class="hero" src="/posts/images/process-knowledge-map-before-ai-agents-scale-hero.webp" alt="Process Knowledge Is the Missing Layer for Scaling AI Agents">
+                                <div class="yc-pager"><img class="hero" src="/posts/images/process-knowledge-map-before-ai-agents-scale-hero.webp" alt="Process Knowledge Is the Missing Layer for Scaling AI Agents"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Process Knowledge Is the Missing Layer for Scaling AI Agents</h1>
                 <p class="meta">2026-09-24</p>
 

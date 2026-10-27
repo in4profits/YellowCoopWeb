@@ -120,7 +120,7 @@ $pillar = 'Operate';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/legacy-system-modernization-decision-guide-mid-market-hero.webp" alt="Keep, Move, Replace, or Rebuild? A Legacy System Modernization Decision Guide for Mid-Market Owners and Operators">
+                <div class="yc-pager"><img class="hero" src="/posts/images/legacy-system-modernization-decision-guide-mid-market-hero.webp" alt="Keep, Move, Replace, or Rebuild? A Legacy System Modernization Decision Guide for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Keep, Move, Replace, or Rebuild? A Legacy System Modernization Decision Guide for Mid-Market Owners and Operators</h1>
                 <p class="meta">2026-10-16</p>
 

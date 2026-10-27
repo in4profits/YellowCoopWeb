@@ -119,7 +119,7 @@ $meta_keywords = 'silent agent failure, AI agent observability, agent production
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/silent-agent-failures-production-control-plane-hero.webp" alt="Silent Agent Failures Are the New Production Outage">
+                <div class="yc-pager"><img class="hero" src="/posts/images/silent-agent-failures-production-control-plane-hero.webp" alt="Silent Agent Failures Are the New Production Outage"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Silent Agent Failures Are the New Production Outage</h1>
                 <p class="meta">2026-09-21</p>
 

@@ -120,7 +120,7 @@ $pillar = 'Operate';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/fractional-cto-vs-full-time-cto-vs-msp-decision-guide-hero.webp" alt="Fractional CTO, Full-Time CTO, or a Better MSP? A Decision Guide for Mid-Market Owners and Operators">
+                <div class="yc-pager"><img class="hero" src="/posts/images/fractional-cto-vs-full-time-cto-vs-msp-decision-guide-hero.webp" alt="Fractional CTO, Full-Time CTO, or a Better MSP? A Decision Guide for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Fractional CTO, Full-Time CTO, or a Better MSP? A Decision Guide for Mid-Market Owners and Operators</h1>
                 <p class="meta">2026-10-13</p>
 

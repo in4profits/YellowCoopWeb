@@ -120,7 +120,7 @@ $pillar = 'Innovate';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/nous-hermes-for-businesses-open-source-agent-ownership-hero.webp" alt="Nous Is Taking Its Open-Source Hermes Agent to Business — Decide Which Parts of Your AI Stack You Own">
+                <div class="yc-pager"><img class="hero" src="/posts/images/nous-hermes-for-businesses-open-source-agent-ownership-hero.webp" alt="Nous Is Taking Its Open-Source Hermes Agent to Business — Decide Which Parts of Your AI Stack You Own"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Nous Is Taking Its Open-Source Hermes Agent to Business — Decide Which Parts of Your AI Stack You Own</h1>
                 <p class="meta">2026-10-12</p>
 

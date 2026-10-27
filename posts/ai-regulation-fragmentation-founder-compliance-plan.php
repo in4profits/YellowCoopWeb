@@ -119,7 +119,7 @@ $meta_keywords = 'continuous compliance AI, sovereign security AI, fractional CT
     <div class="page">
         <div class="wrap">
             <article>
-                                <img class="hero" src="/posts/images/ai-regulation-fragmentation-founder-compliance-plan-hero.webp" alt="AI Regulation Fragmentation Is Now a Founder Ops Problem">
+                                <div class="yc-pager"><img class="hero" src="/posts/images/ai-regulation-fragmentation-founder-compliance-plan-hero.webp" alt="AI Regulation Fragmentation Is Now a Founder Ops Problem"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>AI Regulation Fragmentation Is Now a Founder Ops Problem</h1>
                 <p class="meta">2026-09-24</p>
 

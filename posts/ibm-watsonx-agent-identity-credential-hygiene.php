@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/ibm-watsonx-agent-identity-credential-hygiene-hero.webp" alt="IBM Just Gave Agents Their Own Identity — Stop Sharing Service Accounts With Software">
+                <div class="yc-pager"><img class="hero" src="/posts/images/ibm-watsonx-agent-identity-credential-hygiene-hero.webp" alt="IBM Just Gave Agents Their Own Identity — Stop Sharing Service Accounts With Software"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>IBM Just Gave Agents Their Own Identity — Stop Sharing Service Accounts With Software</h1>
                 <p class="meta">2026-10-03</p>
 

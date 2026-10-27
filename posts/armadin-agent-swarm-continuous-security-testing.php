@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/armadin-agent-swarm-continuous-security-testing-hero.webp" alt="Mandiant's Founder Just Raised $255M for Always-On Agent Swarms — Treat Continuous Attack Simulation Like Prod Monitoring">
+                <div class="yc-pager"><img class="hero" src="/posts/images/armadin-agent-swarm-continuous-security-testing-hero.webp" alt="Mandiant's Founder Just Raised $255M for Always-On Agent Swarms — Treat Continuous Attack Simulation Like Prod Monitoring"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Mandiant's Founder Just Raised $255M for Always-On Agent Swarms — Treat Continuous Attack Simulation Like Prod Monitoring</h1>
                 <p class="meta">2026-10-02</p>
 

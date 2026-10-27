@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/archer-evolv-ai-compliance-runtime-guardrails-hero.webp" alt="Archer Turned Compliance Policy Into Runtime Guardrails — Stop Governing AI With a PDF">
+                <div class="yc-pager"><img class="hero" src="/posts/images/archer-evolv-ai-compliance-runtime-guardrails-hero.webp" alt="Archer Turned Compliance Policy Into Runtime Guardrails — Stop Governing AI With a PDF"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Archer Turned Compliance Policy Into Runtime Guardrails — Stop Governing AI With a PDF</h1>
                 <p class="meta">2026-10-05</p>
 

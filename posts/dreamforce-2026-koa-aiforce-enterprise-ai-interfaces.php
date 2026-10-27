@@ -119,7 +119,7 @@ $meta_keywords = 'Salesforce Agentforce, CRM reasoning model, enterprise AI inte
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/dreamforce-2026-koa-aiforce-enterprise-ai-interfaces-hero.webp" alt="Dreamforce 2026: Specialized Models and Agents Where Work Already Happens">
+                <div class="yc-pager"><img class="hero" src="/posts/images/dreamforce-2026-koa-aiforce-enterprise-ai-interfaces-hero.webp" alt="Dreamforce 2026: Specialized Models and Agents Where Work Already Happens"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Dreamforce 2026: Specialized Models and Agents Where Work Already Happens</h1>
                 <p class="meta">2026-09-15</p>
 

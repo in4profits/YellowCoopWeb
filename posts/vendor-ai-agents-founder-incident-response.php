@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                                <img class="hero" src="/posts/images/vendor-ai-agents-founder-incident-response-hero.webp" alt="Vendor AI Agents Just Became Your Incident Response Problem">
+                                <div class="yc-pager"><img class="hero" src="/posts/images/vendor-ai-agents-founder-incident-response-hero.webp" alt="Vendor AI Agents Just Became Your Incident Response Problem"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Vendor AI Agents Just Became Your Incident Response Problem</h1>
                 <p class="meta">2026-09-25</p>
 

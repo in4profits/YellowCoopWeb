@@ -120,7 +120,7 @@ $pillar = 'Innovate';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/ai-vendor-contract-checklist-mid-market-hero.webp" alt="Before You Sign an AI Vendor Contract: A Buyer’s Checklist for Mid-Market Owners and Operators">
+                <div class="yc-pager"><img class="hero" src="/posts/images/ai-vendor-contract-checklist-mid-market-hero.webp" alt="Before You Sign an AI Vendor Contract: A Buyer’s Checklist for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Before You Sign an AI Vendor Contract: A Buyer’s Checklist for Mid-Market Owners and Operators</h1>
                 <p class="meta">2026-10-24</p>
 

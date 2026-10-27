@@ -120,7 +120,7 @@ $pillar = 'Innovate';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/halluminate-finance-agent-training-environments-hero.webp" alt="Halluminate Just Raised $30M to Fail Finance Agents in Simulation First — Do Not Let Them Practice on Real Deals">
+                <div class="yc-pager"><img class="hero" src="/posts/images/halluminate-finance-agent-training-environments-hero.webp" alt="Halluminate Just Raised $30M to Fail Finance Agents in Simulation First — Do Not Let Them Practice on Real Deals"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Halluminate Just Raised $30M to Fail Finance Agents in Simulation First — Do Not Let Them Practice on Real Deals</h1>
                 <p class="meta">2026-10-03</p>
 

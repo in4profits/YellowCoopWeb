@@ -120,7 +120,7 @@ $pillar = 'Operate';
     <div class="page">
         <div class="wrap">
             <article>
-                <img class="hero" src="/posts/images/google-gemini-agent-workspace-spend-caps-ai-governance-hero.webp" alt="Google's Gemini Agent Picks the AI Model for Each Task — Set Spend Caps and Approval Rules Before It Reaches Your Workspace">
+                <div class="yc-pager"><img class="hero" src="/posts/images/google-gemini-agent-workspace-spend-caps-ai-governance-hero.webp" alt="Google's Gemini Agent Picks the AI Model for Each Task — Set Spend Caps and Approval Rules Before It Reaches Your Workspace"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Google's Gemini Agent Picks the AI Model for Each Task — Set Spend Caps and Approval Rules Before It Reaches Your Workspace</h1>
                 <p class="meta">2026-10-10</p>
 
