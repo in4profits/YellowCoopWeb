@@ -29,6 +29,7 @@ $show_cta = $show_cta ?? true;
       <a href="/faq/">FAQ</a>
       <a href="/contact/">Contact</a>
       <a href="<?= e($site['newsletter']) ?>" target="_blank" rel="noopener">Subscribe</a>
+      <a href="/privacy/">Privacy</a>
     </nav>
   </div>
   <div class="container muted small">&copy; <?= (int) $site['year_start'] ?>–<?= date('Y') ?> Yellow Coop LLC. All rights reserved.</div>
