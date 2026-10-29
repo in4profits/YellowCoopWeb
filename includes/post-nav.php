@@ -3,6 +3,7 @@
 require_once __DIR__ . '/config.php';
 ?>
 <style>
+img.hero{width:100%;height:auto}
 .yc-nav{border-bottom:1px solid #262626;background:#111;font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
 .yc-nav .row{max-width:1120px;margin:0 auto;padding:0 16px;min-height:60px;display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
 .yc-nav .logo{display:inline-flex;align-items:center;gap:8px;font-weight:800;font-size:18px;color:#fff;text-decoration:none}

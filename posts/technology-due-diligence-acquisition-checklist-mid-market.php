@@ -120,7 +120,7 @@ $pillar = 'Innovate';
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/technology-due-diligence-acquisition-checklist-mid-market-hero.webp" alt="Technology Due Diligence Before You Buy a Company: A Checklist for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/technology-due-diligence-acquisition-checklist-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Technology Due Diligence Before You Buy a Company: A Checklist for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Technology Due Diligence Before You Buy a Company: A Checklist for Mid-Market Owners and Operators</h1>
                 <p class="meta">2026-10-26</p>
 

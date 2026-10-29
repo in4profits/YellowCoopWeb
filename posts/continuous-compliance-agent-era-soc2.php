@@ -119,7 +119,7 @@ $meta_keywords = 'AI agent governance, agent sprawl, fractional CTO AI strategy,
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/continuous-compliance-agent-era-soc2-hero.webp" alt="Your SOC 2 Was Fine Until You Shipped Another Agent"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/continuous-compliance-agent-era-soc2-hero.webp" width="1280" height="720" fetchpriority="high" alt="Your SOC 2 Was Fine Until You Shipped Another Agent"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Your SOC 2 Was Fine Until You Shipped Another Agent</h1>
                 <p class="meta">2026-09-17</p>
 

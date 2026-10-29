@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/proactive-email-ai-inbox-automation-trigger-hero.webp" alt="Proactive Email AI Just Made Your Inbox an Automation Trigger"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/proactive-email-ai-inbox-automation-trigger-hero.webp" width="1280" height="720" fetchpriority="high" alt="Proactive Email AI Just Made Your Inbox an Automation Trigger"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Proactive Email AI Just Made Your Inbox an Automation Trigger</h1>
                 <p class="meta">2026-09-26</p>
 

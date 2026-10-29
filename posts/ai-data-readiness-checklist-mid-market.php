@@ -120,7 +120,7 @@ $pillar = 'Innovate';
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/ai-data-readiness-checklist-mid-market-hero.webp" alt="AI Data Readiness: A 6-Step Checklist for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/ai-data-readiness-checklist-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="AI Data Readiness: A 6-Step Checklist for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>AI Data Readiness: A 6-Step Checklist for Mid-Market Owners and Operators</h1>
                 <p class="meta">2026-10-17</p>
 

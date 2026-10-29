@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/google-gemini-4-argon-fairwind-privileged-ai-access-hero.webp" alt="Google Just Unlocked Guardrail-Free Gemini 4 Argon for Vetted Defenders — Treat Privileged AI Access Like Prod Access"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/google-gemini-4-argon-fairwind-privileged-ai-access-hero.webp" width="1280" height="720" fetchpriority="high" alt="Google Just Unlocked Guardrail-Free Gemini 4 Argon for Vetted Defenders — Treat Privileged AI Access Like Prod Access"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Google Just Unlocked Guardrail-Free Gemini 4 Argon for Vetted Defenders — Treat Privileged AI Access Like Prod Access</h1>
                 <p class="meta">2026-10-01</p>
 

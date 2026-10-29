@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/fortibleed-fortinet-firewall-credential-security-checklist-hero.webp" alt="The FBI Says 86,000+ Fortinet Firewalls Were Opened With Stolen Passwords — Treat Your Network Edge Like a Login Page"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/fortibleed-fortinet-firewall-credential-security-checklist-hero.webp" width="1280" height="720" fetchpriority="high" alt="The FBI Says 86,000+ Fortinet Firewalls Were Opened With Stolen Passwords — Treat Your Network Edge Like a Login Page"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>The FBI Says 86,000+ Fortinet Firewalls Were Opened With Stolen Passwords — Treat Your Network Edge Like a Login Page</h1>
                 <p class="meta">2026-10-08</p>
 

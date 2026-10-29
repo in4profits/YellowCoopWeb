@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/gdp-ts-compile-time-authorization-ai-generated-code-hero.webp" alt="Vercel's CEO Wants the Compiler to Catch Your AI Agent's Missing Auth Check — Make Security Rules Machine-Enforced"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/gdp-ts-compile-time-authorization-ai-generated-code-hero.webp" width="1280" height="720" fetchpriority="high" alt="Vercel's CEO Wants the Compiler to Catch Your AI Agent's Missing Auth Check — Make Security Rules Machine-Enforced"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Vercel's CEO Wants the Compiler to Catch Your AI Agent's Missing Auth Check — Make Security Rules Machine-Enforced</h1>
                 <p class="meta">2026-10-06</p>
 

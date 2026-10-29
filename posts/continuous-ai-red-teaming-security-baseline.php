@@ -119,7 +119,7 @@ $meta_keywords = 'continuous compliance AI, sovereign security AI, AI infrastruc
     <div class="page">
         <div class="wrap">
             <article>
-                                <div class="yc-pager"><img class="hero" src="/posts/images/continuous-ai-red-teaming-security-baseline-hero.webp" alt="Continuous AI Red Teaming Is the New Security Baseline"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                                <div class="yc-pager"><img class="hero" src="/posts/images/continuous-ai-red-teaming-security-baseline-hero.webp" width="1280" height="720" fetchpriority="high" alt="Continuous AI Red Teaming Is the New Security Baseline"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Continuous AI Red Teaming Is the New Security Baseline</h1>
                 <p class="meta">2026-09-23</p>
 

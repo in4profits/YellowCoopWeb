@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/security-awareness-training-phishing-evidence-mid-market-hero.webp" alt="Security Awareness Training: What the Evidence Says and How Mid-Market Owners and Operators Should Run It"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/security-awareness-training-phishing-evidence-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Security Awareness Training: What the Evidence Says and How Mid-Market Owners and Operators Should Run It"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Security Awareness Training: What the Evidence Says and How Mid-Market Owners and Operators Should Run It</h1>
                 <p class="meta">2026-10-23</p>
 

@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/openai-gpt-6-1-astra-safety-delay-release-gates-hero.webp" alt="OpenAI Just Held GPT-6.1 Astra — Make Your Agent Release Gate That Explicit"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/openai-gpt-6-1-astra-safety-delay-release-gates-hero.webp" width="1280" height="720" fetchpriority="high" alt="OpenAI Just Held GPT-6.1 Astra — Make Your Agent Release Gate That Explicit"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>OpenAI Just Held GPT-6.1 Astra — Make Your Agent Release Gate That Explicit</h1>
                 <p class="meta">2026-09-29</p>
 

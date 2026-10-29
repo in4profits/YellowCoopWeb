@@ -119,7 +119,7 @@ $meta_keywords = 'AI coding agent security, Plugin4Shell, AI supply chain risk, 
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/plugin4shell-ai-coding-agent-security-hero.webp" alt="Plugin4Shell Explained: Why AI Coding Agent Security Is Now a Board Issue"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/plugin4shell-ai-coding-agent-security-hero.webp" width="1280" height="720" fetchpriority="high" alt="Plugin4Shell Explained: Why AI Coding Agent Security Is Now a Board Issue"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Plugin4Shell Explained: Why AI Coding Agent Security Is Now a Board Issue</h1>
                 <p class="meta">2026-09-18</p>
 

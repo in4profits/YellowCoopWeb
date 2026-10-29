@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/meta-muse-tailscale-agent-network-access-hero.webp" alt="Meta’s Muse Just Joined Tailscale — Treat Agents on Your Network Like New Devices, Not Chatbots"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/meta-muse-tailscale-agent-network-access-hero.webp" width="1280" height="720" fetchpriority="high" alt="Meta’s Muse Just Joined Tailscale — Treat Agents on Your Network Like New Devices, Not Chatbots"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Meta’s Muse Just Joined Tailscale — Treat Agents on Your Network Like New Devices, Not Chatbots</h1>
                 <p class="meta">2026-10-04</p>
 

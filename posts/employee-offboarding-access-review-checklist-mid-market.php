@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/employee-offboarding-access-review-checklist-mid-market-hero.webp" alt="Employee Offboarding and Access Reviews: An IT Security Checklist for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/employee-offboarding-access-review-checklist-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Employee Offboarding and Access Reviews: An IT Security Checklist for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Employee Offboarding and Access Reviews: An IT Security Checklist for Mid-Market Owners and Operators</h1>
                 <p class="meta">2026-10-17</p>
 

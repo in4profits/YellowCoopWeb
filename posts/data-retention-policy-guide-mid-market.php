@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/data-retention-policy-guide-mid-market-hero.webp" alt="Data Retention Policy: How Mid-Market Owners and Operators Decide What to Keep and What to Delete"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/data-retention-policy-guide-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Data Retention Policy: How Mid-Market Owners and Operators Decide What to Keep and What to Delete"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Data Retention Policy: How Mid-Market Owners and Operators Decide What to Keep and What to Delete</h1>
                 <p class="meta">2026-10-29</p>
 

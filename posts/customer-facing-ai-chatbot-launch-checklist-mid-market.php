@@ -120,7 +120,7 @@ $pillar = 'Innovate';
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/customer-facing-ai-chatbot-launch-checklist-mid-market-hero.webp" alt="Before You Put an AI Chatbot in Front of Customers: A Launch Checklist for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/customer-facing-ai-chatbot-launch-checklist-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Before You Put an AI Chatbot in Front of Customers: A Launch Checklist for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Before You Put an AI Chatbot in Front of Customers: A Launch Checklist for Mid-Market Owners and Operators</h1>
                 <p class="meta">2026-10-27</p>
 

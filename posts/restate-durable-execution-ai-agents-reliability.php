@@ -120,7 +120,7 @@ $pillar = 'Innovate';
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/restate-durable-execution-ai-agents-reliability-hero.webp" alt="Restate Just Raised $20M to Keep AI Agents Alive When Software Breaks — Durability Is Not Optional Glue"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/restate-durable-execution-ai-agents-reliability-hero.webp" width="1280" height="720" fetchpriority="high" alt="Restate Just Raised $20M to Keep AI Agents Alive When Software Breaks — Durability Is Not Optional Glue"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Restate Just Raised $20M to Keep AI Agents Alive When Software Breaks — Durability Is Not Optional Glue</h1>
                 <p class="meta">2026-10-02</p>
 

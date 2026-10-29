@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/openai-textgrain-eu-watermark-ai-disclosure-policy-hero.webp" alt="OpenAI Just Started Watermarking ChatGPT Text in the EU — Your AI Disclosure Policy Can't Be Invisible Ink"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/openai-textgrain-eu-watermark-ai-disclosure-policy-hero.webp" width="1280" height="720" fetchpriority="high" alt="OpenAI Just Started Watermarking ChatGPT Text in the EU — Your AI Disclosure Policy Can't Be Invisible Ink"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>OpenAI Just Started Watermarking ChatGPT Text in the EU — Your AI Disclosure Policy Can't Be Invisible Ink</h1>
                 <p class="meta">2026-10-06</p>
 

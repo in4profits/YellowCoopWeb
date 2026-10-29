@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/personal-agent-protocol-ai-agents-customer-access-hero.webp" alt="Meta and Sierra Want a Standard Front Door for AI Agents — Decide What Your Customers' Bots Can Touch Before They Knock"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/personal-agent-protocol-ai-agents-customer-access-hero.webp" width="1280" height="720" fetchpriority="high" alt="Meta and Sierra Want a Standard Front Door for AI Agents — Decide What Your Customers' Bots Can Touch Before They Knock"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Meta and Sierra Want a Standard Front Door for AI Agents — Decide What Your Customers' Bots Can Touch Before They Knock</h1>
                 <p class="meta">2026-10-08</p>
 

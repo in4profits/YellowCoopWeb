@@ -120,7 +120,7 @@ $pillar = 'Innovate';
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/ai-agent-permissions-least-privilege-checklist-mid-market-hero.webp" alt="AI Agent Permissions: A Least-Privilege Checklist Before AI Acts on Your Systems"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/ai-agent-permissions-least-privilege-checklist-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="AI Agent Permissions: A Least-Privilege Checklist Before AI Acts on Your Systems"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>AI Agent Permissions: A Least-Privilege Checklist Before AI Acts on Your Systems</h1>
                 <p class="meta">2026-10-28</p>
 

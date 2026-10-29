@@ -120,7 +120,7 @@ $pillar = 'Innovate';
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/sap-joule-work-20-percent-productivity-measure-ai-roi-hero.webp" alt="SAP Says Joule Made Its Own Staff 20% More Productive — Measure Your AI Gains Before You Buy the Number"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/sap-joule-work-20-percent-productivity-measure-ai-roi-hero.webp" width="1280" height="720" fetchpriority="high" alt="SAP Says Joule Made Its Own Staff 20% More Productive — Measure Your AI Gains Before You Buy the Number"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>SAP Says Joule Made Its Own Staff 20% More Productive — Measure Your AI Gains Before You Buy the Number</h1>
                 <p class="meta">2026-10-07</p>
 

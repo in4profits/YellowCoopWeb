@@ -119,7 +119,7 @@ $meta_keywords = 'AI agent observability, agent production failures, AI ops cont
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/ai-agent-production-failures-observability-hero.webp" alt="AI Agents Are Shipping to Production. Catching Failures Quietly Is Now the Job"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/ai-agent-production-failures-observability-hero.webp" width="1280" height="720" fetchpriority="high" alt="AI Agents Are Shipping to Production. Catching Failures Quietly Is Now the Job"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>AI Agents Are Shipping to Production. Catching Failures Quietly Is Now the Job</h1>
                 <p class="meta">2026-09-18</p>
 

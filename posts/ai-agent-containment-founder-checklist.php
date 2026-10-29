@@ -119,7 +119,7 @@ $meta_keywords = 'AI agent containment, agent sandbox security, credential hygie
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/ai-agent-containment-founder-checklist-hero.webp" alt="AI Agent Containment Is a Founder Problem Now"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/ai-agent-containment-founder-checklist-hero.webp" width="1280" height="720" fetchpriority="high" alt="AI Agent Containment Is a Founder Problem Now"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>AI Agent Containment Is a Founder Problem Now</h1>
                 <p class="meta">2026-09-21</p>
 

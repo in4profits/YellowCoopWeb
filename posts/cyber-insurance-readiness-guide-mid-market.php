@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/cyber-insurance-readiness-guide-mid-market-hero.webp" alt="Cyber Insurance Readiness: How Mid-Market Owners and Operators Get the Application Right and Avoid Coverage Surprises"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/cyber-insurance-readiness-guide-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Cyber Insurance Readiness: How Mid-Market Owners and Operators Get the Application Right and Avoid Coverage Surprises"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Cyber Insurance Readiness: How Mid-Market Owners and Operators Get the Application Right and Avoid Coverage Surprises</h1>
                 <p class="meta">2026-10-26</p>
 

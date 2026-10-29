@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/ai-self-police-accord-vendor-checklist-hero.webp" alt="AI Labs Just Signed a Self-Police Accord — Your Vendor Checklist Still Has to Be Real"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/ai-self-police-accord-vendor-checklist-hero.webp" width="1280" height="720" fetchpriority="high" alt="AI Labs Just Signed a Self-Police Accord — Your Vendor Checklist Still Has to Be Real"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>AI Labs Just Signed a Self-Police Accord — Your Vendor Checklist Still Has to Be Real</h1>
                 <p class="meta">2026-09-30</p>
 

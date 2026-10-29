@@ -120,7 +120,7 @@ $pillar = 'Innovate';
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/mckinsey-build-vs-buy-ai-coding-agents-saas-hero.webp" alt="McKinsey Survey: 32% of Respondents Say Their Organization Skipped Buying Software It Could Build With AI — Run the Build-vs-Buy Math Before You Renew"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/mckinsey-build-vs-buy-ai-coding-agents-saas-hero.webp" width="1280" height="720" fetchpriority="high" alt="McKinsey Survey: 32% of Respondents Say Their Organization Skipped Buying Software It Could Build With AI — Run the Build-vs-Buy Math Before You Renew"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>McKinsey Survey: 32% of Respondents Say Their Organization Skipped Buying Software It Could Build With AI — Run the Build-vs-Buy Math Before You Renew</h1>
                 <p class="meta">2026-10-11</p>
 

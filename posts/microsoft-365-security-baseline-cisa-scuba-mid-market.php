@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/microsoft-365-security-baseline-cisa-scuba-mid-market-hero.webp" alt="Microsoft 365 Security Baseline: How Mid-Market Owners and Operators Can Use CISA’s Free SCuBA Checklist"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/microsoft-365-security-baseline-cisa-scuba-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Microsoft 365 Security Baseline: How Mid-Market Owners and Operators Can Use CISA’s Free SCuBA Checklist"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Microsoft 365 Security Baseline: How Mid-Market Owners and Operators Can Use CISA’s Free SCuBA Checklist</h1>
                 <p class="meta">2026-10-24</p>
 

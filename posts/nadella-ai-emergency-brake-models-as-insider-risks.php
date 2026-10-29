@@ -120,7 +120,7 @@ $pillar = 'Secure';
     <div class="page">
         <div class="wrap">
             <article>
-                <div class="yc-pager"><img class="hero" src="/posts/images/nadella-ai-emergency-brake-models-as-insider-risks-hero.webp" alt="Microsoft's CEO Says Treat AI Models Like Insider Risks — Give Your Agents an Emergency Brake Before You Give Them Access"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
+                <div class="yc-pager"><img class="hero" src="/posts/images/nadella-ai-emergency-brake-models-as-insider-risks-hero.webp" width="1280" height="720" fetchpriority="high" alt="Microsoft's CEO Says Treat AI Models Like Insider Risks — Give Your Agents an Emergency Brake Before You Give Them Access"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Microsoft's CEO Says Treat AI Models Like Insider Risks — Give Your Agents an Emergency Brake Before You Give Them Access</h1>
                 <p class="meta">2026-10-11</p>
 
