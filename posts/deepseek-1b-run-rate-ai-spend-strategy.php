@@ -123,7 +123,7 @@ $pillar = 'Operate';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/deepseek-1b-run-rate-ai-spend-strategy-hero.webp" width="1280" height="720" fetchpriority="high" alt="DeepSeek Just Hit a $1B Run Rate — Your AI Bill Is Now a Strategy Decision"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>DeepSeek Just Hit a $1B Run Rate — Your AI Bill Is Now a Strategy Decision</h1>
-                <p class="meta">2026-09-27</p>
+                <p class="meta">2026-09-27 · By the Yellow Coop Team</p>
 
                 <p>DeepSeek’s annualised revenue run rate has reportedly hit about <strong>$1 billion</strong> — more than double from a few months earlier — according to <a href="https://www.reuters.com/world/asia-pacific/chinas-deepseek-annualised-revenue-hits-1-billion-information-reports-2026-09-24/">Reuters covering The Information</a> (Sep 24, 2026). Part of that jump came from raising model pricing by <strong>2.3 to 4.5 times</strong>.</p>
                 <p>Reuters could not independently verify the figure. Treat it as reported, not audited gospel. Even so, operators should read the signal the same way: <strong>your AI bill is no longer a line item for Finance to shrug at. It is a strategy decision</strong> about vendor concentration, build vs buy, and when a fractional CTO should force a cost-and-control review.</p>

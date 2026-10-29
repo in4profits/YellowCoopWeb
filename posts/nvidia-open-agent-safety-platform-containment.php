@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/nvidia-open-agent-safety-platform-containment-hero.webp" width="1280" height="720" fetchpriority="high" alt="Nvidia Just Made AI Agent Containment an Ops Problem — Treat It Like One"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Nvidia Just Made AI Agent Containment an Ops Problem — Treat It Like One</h1>
-                <p class="meta">2026-09-28</p>
+                <p class="meta">2026-09-28 · By the Yellow Coop Team</p>
 
                 <p>If your AI agents can open tickets, touch production data, or call APIs with real credentials, containment is no longer a research hobby. On September 28, 2026, Nvidia put a clearer stake in the ground: agent safety is becoming platform infrastructure, not a slide in a security all-hands.</p>
                 <p>That is the useful takeaway for founders and operators. You do not need to buy every Nvidia product tomorrow. You do need a written policy for what agents may do, where they run, and who gets paged when they try to leave the box.</p>

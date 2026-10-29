@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/microsoft-365-security-baseline-cisa-scuba-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Microsoft 365 Security Baseline: How Mid-Market Owners and Operators Can Use CISA’s Free SCuBA Checklist"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Microsoft 365 Security Baseline: How Mid-Market Owners and Operators Can Use CISA’s Free SCuBA Checklist</h1>
-                <p class="meta">2026-10-24</p>
+                <p class="meta">2026-10-24 · By the Yellow Coop Team</p>
 
                 <p><strong>Takeaway:</strong> If your company runs on Microsoft 365, you don’t have to invent a security standard. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) already publishes one, called SCuBA, plus a free tool that grades your setup against it. Run the report, fix the handful of settings attackers lean on most, and write down why you’re skipping anything you skip.</p>
 

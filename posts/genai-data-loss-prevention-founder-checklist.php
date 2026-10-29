@@ -122,7 +122,7 @@ $meta_keywords = 'AI data loss prevention, GenAI data security, continuous compl
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/genai-data-loss-prevention-founder-checklist-hero.webp" width="1280" height="720" fetchpriority="high" alt="GenAI Data Loss Prevention Belongs on the Founder Checklist"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>GenAI Data Loss Prevention Belongs on the Founder Checklist</h1>
-                <p class="meta">2026-09-22</p>
+                <p class="meta">2026-09-22 · By the Yellow Coop Team</p>
 
                 <p>Your GenAI stack can ship useful work and still quietly walk customer data out the side door. That is the takeaway for operators this week: AI-native data loss prevention is no longer a niche security purchase. It is becoming table stakes for any company that lets people—or agents—paste real work into models.</p>
 

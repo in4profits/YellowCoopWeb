@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/data-retention-policy-guide-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Data Retention Policy: How Mid-Market Owners and Operators Decide What to Keep and What to Delete"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Data Retention Policy: How Mid-Market Owners and Operators Decide What to Keep and What to Delete</h1>
-                <p class="meta">2026-10-29</p>
+                <p class="meta">2026-10-29 · By the Yellow Coop Team</p>
 
                 <p>Data you no longer need can’t help you, but it can still be stolen. The cheapest record to protect is the one you deleted on schedule.</p>
 

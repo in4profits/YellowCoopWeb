@@ -123,7 +123,7 @@ $pillar = 'Innovate';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/technical-debt-triage-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Technical Debt Triage: How Mid-Market Owners and Operators Decide What to Fix, Fund, or Leave Alone"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Technical Debt Triage: How Mid-Market Owners and Operators Decide What to Fix, Fund, or Leave Alone</h1>
-                <p class="meta">2026-10-21</p>
+                <p class="meta">2026-10-21 · By the Yellow Coop Team</p>
 
                 <p><strong>The takeaway:</strong> Technical debt triage beats a big rewrite. Most companies don’t need to pay off all their tech debt, and shouldn’t try. List it system by system, price the “interest” each one charges you every month, fix the few systems that cost the most, and leave the cheap stuff alone on purpose.</p>
 

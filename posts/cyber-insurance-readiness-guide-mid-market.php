@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/cyber-insurance-readiness-guide-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Cyber Insurance Readiness: How Mid-Market Owners and Operators Get the Application Right and Avoid Coverage Surprises"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Cyber Insurance Readiness: How Mid-Market Owners and Operators Get the Application Right and Avoid Coverage Surprises</h1>
-                <p class="meta">2026-10-26</p>
+                <p class="meta">2026-10-26 · By the Yellow Coop Team</p>
 
                 <p><strong>Takeaway:</strong> A cyber insurance application is a signed statement about your security, not a sales form. Answer it from evidence, close gaps before renewal, and read the exclusions and sublimits before you need them. A policy you can’t collect on is just an expensive receipt.</p>
 

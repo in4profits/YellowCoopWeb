@@ -122,7 +122,7 @@ $meta_keywords = 'silent agent failure, AI agent observability, agent production
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/silent-agent-failures-production-control-plane-hero.webp" width="1280" height="720" fetchpriority="high" alt="Silent Agent Failures Are the New Production Outage"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Silent Agent Failures Are the New Production Outage</h1>
-                <p class="meta">2026-09-21</p>
+                <p class="meta">2026-09-21 · By the Yellow Coop Team</p>
 
                 <p>Most software fails loudly. Agents often fail politely. They keep answering, keep calling tools, and keep sounding confident while they quietly burn money, mis-route customers, or invent steps nobody asked for.</p>
                 <p>That is why Raindrop’s mid-September funding news matters to founders who are past the demo stage. The company announced a Series A that brings total funding to <a href="https://www.raindrop.ai/blog/series-a/">$50 million</a>, led by CRV, with Lightspeed and Y Combinator participating. Coverage from <a href="https://thenextweb.com/news/raindrop-series-a-50m-crv-agent-failures-simulations">The Next Web</a> and Axios put the round itself around $35 million. Alongside the raise, Raindrop launched Simulations: replay real production traffic against a proposed agent change, then flag semantic anomalies before the PR ships. X summarized the same signal in <a href="https://x.com/i/trending/2100718510951325756">this news cluster</a>.</p>

@@ -123,7 +123,7 @@ $pillar = 'Operate';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/move-off-spreadsheets-decision-guide-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="When to Move a Process Off Spreadsheets: A Decision Guide for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>When to Move a Process Off Spreadsheets: A Decision Guide for Mid-Market Owners and Operators</h1>
-                <p class="meta">2026-10-25</p>
+                <p class="meta">2026-10-25 · By the Yellow Coop Team</p>
 
                 <p><strong>Takeaway:</strong> Spreadsheets aren’t the problem. Business-critical spreadsheets with no owner, no second checker, and a manual copy-paste step are. Find the handful your company actually runs on, score them, and give each one of three fates: govern it, rebuild what feeds it, or replace it with a real system.</p>
 

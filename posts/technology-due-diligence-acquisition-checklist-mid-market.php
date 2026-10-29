@@ -123,7 +123,7 @@ $pillar = 'Innovate';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/technology-due-diligence-acquisition-checklist-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Technology Due Diligence Before You Buy a Company: A Checklist for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Technology Due Diligence Before You Buy a Company: A Checklist for Mid-Market Owners and Operators</h1>
-                <p class="meta">2026-10-26</p>
+                <p class="meta">2026-10-26 · By the Yellow Coop Team</p>
 
                 <p><strong>Takeaway:</strong> When you buy a company, you buy its technology: the systems, the contracts, the shortcuts, and possibly an intruder who is already inside. Before closing, get written answers in six areas: systems and contracts, security history, people, data, integration cost, and deal terms. Then keep checking after closing, because the risk doesn’t end at signing.</p>
 

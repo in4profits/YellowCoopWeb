@@ -122,7 +122,7 @@ $meta_keywords = 'continuous compliance AI, sovereign security AI, fractional CT
             <article>
                                 <div class="yc-pager"><img class="hero" src="/posts/images/ai-regulation-fragmentation-founder-compliance-plan-hero.webp" width="1280" height="720" fetchpriority="high" alt="AI Regulation Fragmentation Is Now a Founder Ops Problem"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>AI Regulation Fragmentation Is Now a Founder Ops Problem</h1>
-                <p class="meta">2026-09-24</p>
+                <p class="meta">2026-09-24 · By the Yellow Coop Team</p>
 
                 <p>On September 23, 2026, OpenAI’s Sam Altman and Anthropic’s Dario Amodei briefed the UN Security Council on AI risk. Amodei warned that poorly managed AI “could be a risk to humanity as a whole.” Altman said the world could “lose control of the future of AI” and argued that the biggest decisions should not be left to labs in San Francisco alone (<a href="https://press.un.org/en/sc/16462.doc.htm">UN press coverage</a>; <a href="https://www.pbs.org/newshour/world/ai-firm-leaders-tell-un-security-council-that-it-could-be-a-risk-to-all-humanity">PBS/AP</a>; <a href="https://www.theguardian.com/world/2026/sep/23/unga-sam-altman-dario-amodei">The Guardian</a>).</p>
                 <p>Then the United States drew a hard line. White House science adviser Michael Kratsios told the Council that international dialogue “cannot be allowed to drift towards global governance,” and that Washington “totally rejects” attempts at centralized global control of advanced AI (<a href="https://press.un.org/en/sc/16462.doc.htm">UN press coverage</a>).</p>

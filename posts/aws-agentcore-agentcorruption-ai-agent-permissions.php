@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/aws-agentcore-agentcorruption-ai-agent-permissions-hero.webp" width="1280" height="720" fetchpriority="high" alt="Zenity Says One Prompt Took Over Every AWS AgentCore Agent in an Account and Region — Scope Each AI Agent's Permissions Like an Employee's"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Zenity Says One Prompt Took Over Every AWS AgentCore Agent in an Account and Region — Scope Each AI Agent's Permissions Like an Employee's</h1>
-                <p class="meta">2026-10-10</p>
+                <p class="meta">2026-10-10 · By the Yellow Coop Team</p>
 
                 <p><strong>The takeaway:</strong> A customer-facing AI agent is only as safe as the permissions it carries. On October 8, 2026, security firm Zenity Labs said that a single chat message to one public AWS agent could unlock every other agent in the same account and region, because they all shared one overly broad default role. AWS has since tightened that default, but the lesson applies to any agent you run: give each one only the access its job needs.</p>
 

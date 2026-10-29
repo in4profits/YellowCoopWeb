@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/anthropic-oss-scanner-open-source-dependency-security-hero.webp" width="1280" height="720" fetchpriority="high" alt="Anthropic Will Scan Open Source for Free — Your Real Job Is Knowing Which Open Source You Run"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Anthropic Will Scan Open Source for Free — Your Real Job Is Knowing Which Open Source You Run</h1>
-                <p class="meta">2026-10-09</p>
+                <p class="meta">2026-10-09 · By the Yellow Coop Team</p>
 
                 <p><strong>Takeaway:</strong> On October 8, 2026, Anthropic started offering free, AI-generated vulnerability scans to important open-source projects. More bugs found upstream means more patches flowing downstream to you. If you can’t say which open-source packages your product runs on, this is the week to fix that.</p>
 

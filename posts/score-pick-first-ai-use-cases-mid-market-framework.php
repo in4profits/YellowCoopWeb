@@ -123,7 +123,7 @@ $pillar = 'Innovate';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/score-pick-first-ai-use-cases-mid-market-framework-hero.webp" width="1280" height="720" fetchpriority="high" alt="How to Score and Pick Your First AI Use Cases: A Practical Framework for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>How to Score and Pick Your First AI Use Cases: A Practical Framework for Mid-Market Owners and Operators</h1>
-                <p class="meta">2026-10-14</p>
+                <p class="meta">2026-10-14 · By the Yellow Coop Team</p>
 
                 <p><strong>The takeaway:</strong> Don’t start AI with a vendor demo list. Score each candidate use case on business value, data readiness, and risk — then pilot the top one or two with a written go/no-go gate. NIST’s AI Risk Management Framework (AI RMF 1.0) puts that context work in the Map function: without it, Measure and Manage are guessing.</p>
                 <p>Mid-market owners and operators already hear that AI will change everything. What they need is a shortlist that fits the budget, the data they actually have, and the risk they can accept. This is a half-day scoring worksheet — not a strategy deck.</p>

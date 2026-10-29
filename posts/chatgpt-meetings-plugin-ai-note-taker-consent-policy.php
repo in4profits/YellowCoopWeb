@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/chatgpt-meetings-plugin-ai-note-taker-consent-policy-hero.webp" width="1280" height="720" fetchpriority="high" alt="ChatGPT Just Got a Meeting Note-Taker With No Bot in the Room — Your Consent Policy Has to Do the Talking"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>ChatGPT Just Got a Meeting Note-Taker With No Bot in the Room — Your Consent Policy Has to Do the Talking</h1>
-                <p class="meta">2026-10-07</p>
+                <p class="meta">2026-10-07 · By the Yellow Coop Team</p>
 
                 <p>On October 6, OpenAI announced a Meetings plugin for the ChatGPT desktop app on Mac. It listens to your calls and in-person conversations, writes a summary, and suggests follow-up tasks it can start for you. There is one design choice every operator should notice: no bot joins the call (<a href="https://www.cultofmac.com/news/chatgpt-for-mac-takes-granola-meeting-notes-action">Cult of Mac, October 6, 2026</a>).</p>
                 <p><strong>The takeaway for operators:</strong> when the note-taker is invisible, the only thing telling people they are being recorded is your policy. If you don’t have one, you have a liability with a nice summary attached.</p>

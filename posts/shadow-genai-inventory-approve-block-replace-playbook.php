@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/shadow-genai-inventory-approve-block-replace-playbook-hero.webp" width="1280" height="720" fetchpriority="high" alt="How to Inventory Shadow GenAI: Approve, Block, or Replace for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>How to Inventory Shadow GenAI: Approve, Block, or Replace for Mid-Market Owners and Operators</h1>
-                <p class="meta">2026-10-15</p>
+                <p class="meta">2026-10-15 · By the Yellow Coop Team</p>
 
                 <p><strong>The takeaway:</strong> Assume staff already use unsanctioned GenAI. Inventory what is in use, classify data that can leave, decide approve / block / replace, and write boundaries into policy and contracts. <a href="https://doi.org/10.6028/NIST.AI.600-1">NIST AI 600-1</a> (July 26, 2024) tells organizations to enumerate generative AI (GAI) systems. CISA’s joint <a href="https://www.cisa.gov/resources-tools/resources/ai-data-security-best-practices-securing-data-used-train-operate-ai-systems"><em>AI Data Security</em></a> guidance (May 2025) and the <a href="https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/01/ai-companies-uphold-your-privacy-confidentiality-commitments">FTC’s January 9, 2024 tech note</a> explain why data entering a model-as-a-service product is a business risk.</p>
                 <p>Owners and operators do not need a “shadow AI” panic. They need a 30-day discovery pass and a short decision table.</p>

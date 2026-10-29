@@ -123,7 +123,7 @@ $pillar = 'Operate';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/erp-replacement-guide-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="ERP Replacement Without the Wreckage: A Decision and Rollout Guide for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>ERP Replacement Without the Wreckage: A Decision and Rollout Guide for Mid-Market Owners and Operators</h1>
-                <p class="meta">2026-10-22</p>
+                <p class="meta">2026-10-22 · By the Yellow Coop Team</p>
 
                 <p><strong>The takeaway:</strong> Most of the risk in an ERP replacement isn’t in the software. It’s in your processes, your people, and your go-live plan. Decide which processes will change before you pick a vendor, keep customization on a short leash, and treat cutover as a business event, not an IT task.</p>
 

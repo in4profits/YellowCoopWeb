@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/spf-dkim-dmarc-email-authentication-playbook-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="SPF, DKIM, and DMARC Setup: An Email Authentication Playbook for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>SPF, DKIM, and DMARC Setup: An Email Authentication Playbook for Mid-Market Owners and Operators</h1>
-                <p class="meta">2026-10-18</p>
+                <p class="meta">2026-10-18 · By the Yellow Coop Team</p>
 
                 <p><strong>The takeaway:</strong> Unless you tell the world’s mail servers how to check, anyone can send email that claims to come from your domain. Three DNS records do the telling: SPF, DKIM, and DMARC. Set up the first two for every service that sends mail as you, publish DMARC in monitoring mode, read the reports for at least a month, then tighten the policy in stages. Jump straight to “reject” without reading reports, and the first email you block may be your own invoice.</p>
 

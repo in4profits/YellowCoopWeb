@@ -123,7 +123,7 @@ $pillar = 'Innovate';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/gemini-4-argon-benchmarks-vs-real-work-model-evals-hero.webp" width="1280" height="720" fetchpriority="high" alt="Gemini 4 Argon Aced the Benchmarks and Still Got Side-Eye From Googlers — Test Models on Your Work, Not the Leaderboard"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Gemini 4 Argon Aced the Benchmarks and Still Got Side-Eye From Googlers — Test Models on Your Work, Not the Leaderboard</h1>
-                <p class="meta">2026-10-05</p>
+                <p class="meta">2026-10-05 · By the Yellow Coop Team</p>
 
                 <p>Google’s new flagship model, <strong>Gemini 4 Argon</strong>, arrived on September 30 with leading scores on several benchmark tests. The same day, Bloomberg reported that some Google employees who have actually put it to work say it is uneven at coding and not especially strong at front-end design (<a href="https://www.bloomberg.com/news/articles/2026-09-30/google-grapples-with-employee-skepticism-about-new-gemini-model">Bloomberg</a>). Google pushes back hard on that characterization.</p>
                 <p>You do not need to pick a side in that fight. You need to notice what it proves: <strong>a leaderboard is somebody else’s test. The only score that matters for your business is how a model does on your work.</strong></p>

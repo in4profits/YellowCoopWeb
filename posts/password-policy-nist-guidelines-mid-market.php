@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/password-policy-nist-guidelines-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Password Policy for Mid-Market Companies: What NIST’s Current Guidelines Say to Stop Doing and Start Doing"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Password Policy for Mid-Market Companies: What NIST’s Current Guidelines Say to Stop Doing and Start Doing</h1>
-                <p class="meta">2026-10-22</p>
+                <p class="meta">2026-10-22 · By the Yellow Coop Team</p>
 
                 <p><strong>The takeaway:</strong> If your password policy still forces quarterly changes and demands a capital letter, a number, and a symbol, it’s built on advice the U.S. National Institute of Standards and Technology (NIST) now tells its own audience not to follow. A modern password policy is shorter to write and easier to live with: require long passwords, screen them against known-compromised lists, hand everyone a business password manager, and pair passwords with multifactor authentication (MFA).</p>
 

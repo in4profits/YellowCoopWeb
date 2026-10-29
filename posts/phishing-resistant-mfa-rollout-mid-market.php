@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/phishing-resistant-mfa-rollout-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="How to Roll Out Phishing-Resistant MFA Without Breaking Your Mid-Market Business"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>How to Roll Out Phishing-Resistant MFA Without Breaking Your Mid-Market Business</h1>
-                <p class="meta">2026-10-14</p>
+                <p class="meta">2026-10-14 · By the Yellow Coop Team</p>
 
                 <p><strong>The takeaway:</strong> Treat phishing-resistant MFA as a phased rollout, not a weekend switch. Start with email, single sign-on (SSO), remote access, and identity systems; enroll IT admins and help desk first; use FIDO/WebAuthn (security keys or platform authenticators) as the default. SMS codes and unprotected push prompts are stopgaps — CISA says so in plain language.</p>
                 <p>Owners and operators often believe “we have MFA” means the account problem is closed. It isn’t. Some MFA methods still fall to phishing pages, push bombing, SIM swaps, and related tricks. This playbook is how mid-market companies move to phishing-resistant MFA without freezing the business.</p>

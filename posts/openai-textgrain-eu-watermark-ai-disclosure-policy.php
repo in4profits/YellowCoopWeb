@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/openai-textgrain-eu-watermark-ai-disclosure-policy-hero.webp" width="1280" height="720" fetchpriority="high" alt="OpenAI Just Started Watermarking ChatGPT Text in the EU — Your AI Disclosure Policy Can't Be Invisible Ink"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>OpenAI Just Started Watermarking ChatGPT Text in the EU — Your AI Disclosure Policy Can't Be Invisible Ink</h1>
-                <p class="meta">2026-10-06</p>
+                <p class="meta">2026-10-06 · By the Yellow Coop Team</p>
 
                 <p>On October 5, OpenAI said it will start adding an invisible watermark to text that ChatGPT and Codex produce for users in the European Union. It is doing this to meet the EU AI Act, the European law that requires AI providers to make generated text identifiable by machines (<a href="https://openai.com/index/eu-text-provenance">OpenAI</a>).</p>
                 <p><strong>The takeaway for operators:</strong> a vendor watermark is the vendor’s compliance, not yours. It cannot tell anyone why your team used AI, who checked the output, or whether you followed your own rules. You still need a disclosure policy that a human can read.</p>

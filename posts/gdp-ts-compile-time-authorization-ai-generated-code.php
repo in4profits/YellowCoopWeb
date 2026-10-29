@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/gdp-ts-compile-time-authorization-ai-generated-code-hero.webp" width="1280" height="720" fetchpriority="high" alt="Vercel's CEO Wants the Compiler to Catch Your AI Agent's Missing Auth Check — Make Security Rules Machine-Enforced"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Vercel's CEO Wants the Compiler to Catch Your AI Agent's Missing Auth Check — Make Security Rules Machine-Enforced</h1>
-                <p class="meta">2026-10-06</p>
+                <p class="meta">2026-10-06 · By the Yellow Coop Team</p>
 
                 <p>On October 5, Guillermo Rauch, CEO of the web hosting company Vercel, released <strong>gdp-ts</strong>, an open-source tool that makes the code itself refuse to compile when a sensitive action skips its permission check (<a href="https://x.com/rauchg/status/2107119811444748555">Guillermo Rauch on X</a>).</p>
                 <p>His reason is the headline for every operator: “Agents are writing more code than we can review, and they <em>thrive</em> in tight loops with hard constraints that would frustrate us.”</p>

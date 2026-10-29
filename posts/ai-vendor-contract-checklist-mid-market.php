@@ -123,7 +123,7 @@ $pillar = 'Innovate';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/ai-vendor-contract-checklist-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Before You Sign an AI Vendor Contract: A Buyer’s Checklist for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Before You Sign an AI Vendor Contract: A Buyer’s Checklist for Mid-Market Owners and Operators</h1>
-                <p class="meta">2026-10-24</p>
+                <p class="meta">2026-10-24 · By the Yellow Coop Team</p>
 
                 <p><strong>Takeaway:</strong> The demo shows you what an AI tool can do. The contract decides what happens to your data, whether you can test the thing honestly, and how painful it will be to leave. Before you sign, settle five things in writing: data use, testing rights, change notice, exit terms, and pricing.</p>
 

@@ -122,7 +122,7 @@ $meta_keywords = 'continuous compliance AI, sovereign security AI, AI infrastruc
             <article>
                                 <div class="yc-pager"><img class="hero" src="/posts/images/continuous-ai-red-teaming-security-baseline-hero.webp" width="1280" height="720" fetchpriority="high" alt="Continuous AI Red Teaming Is the New Security Baseline"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Continuous AI Red Teaming Is the New Security Baseline</h1>
-                <p class="meta">2026-09-23</p>
+                <p class="meta">2026-09-23 · By the Yellow Coop Team</p>
 
                 <h2>The takeaway</h2>
                 <p>On September 22, 2026, Palo Alto Networks’ Unit 42 announced <strong>Continuous Frontier AI Defense</strong>—an always-on offensive security service that uses gated cyber-specialized models (including Anthropic’s Claude Mythos and OpenAI’s GPT-5.6-Cyber) to find, validate, and push remediation for exposures as your estate changes (<a href="https://www.paloaltonetworks.com/company/press/2026/palo-alto-networks-delivers-anthropic-s-mythos-and-openai-s-gpt-5-6-to-customers-with-unit-42-continuous-frontier-ai-defense">Palo Alto Networks</a>, <a href="https://thenextweb.com/news/palo-alto-networks-unit-42">The Next Web</a>).</p>

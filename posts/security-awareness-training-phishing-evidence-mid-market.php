@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/security-awareness-training-phishing-evidence-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Security Awareness Training: What the Evidence Says and How Mid-Market Owners and Operators Should Run It"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Security Awareness Training: What the Evidence Says and How Mid-Market Owners and Operators Should Run It</h1>
-                <p class="meta">2026-10-23</p>
+                <p class="meta">2026-10-23 · By the Yellow Coop Team</p>
 
                 <p><strong>The takeaway:</strong> Keep security awareness training, but stop expecting it to stop phishing on its own. A study of more than 19,500 employees, which UC San Diego calls the largest of its kind to date, found that common training formats barely moved click rates. Train for a handful of specific behaviors, measure reporting instead of clicks, and put technical controls behind your people so one bad click doesn’t become a breach.</p>
 

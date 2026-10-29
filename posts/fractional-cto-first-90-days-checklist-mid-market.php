@@ -123,7 +123,7 @@ $pillar = 'Operate';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/fractional-cto-first-90-days-checklist-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="What a Fractional CTO Should Deliver in the First 90 Days: A Checklist for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>What a Fractional CTO Should Deliver in the First 90 Days: A Checklist for Mid-Market Owners and Operators</h1>
-                <p class="meta">2026-10-19</p>
+                <p class="meta">2026-10-19 · By the Yellow Coop Team</p>
 
                 <p><strong>The takeaway:</strong> Ninety days is long enough to judge a fractional CTO, and you should judge them on paper. By day 90 you should hold four things: a written inventory of your systems, spend, and contracts; a security baseline measured against a public framework; a roadmap where every item has an owner, a budget, and a date; and at least one fix that’s already done. If what you have instead is a stack of meeting notes and a vague “strategy,” that’s your answer.</p>
                 <p>A fractional CTO is a part-time technology executive who sits on your leadership team and owns the technology function, typically for 1 to 4 days a week at Yellow Coop (<a href="/how-we-engage/">how we engage</a>). Part-time means the first three months have to be tightly run. Here’s what each month should produce.</p>

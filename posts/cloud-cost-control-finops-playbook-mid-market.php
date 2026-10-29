@@ -123,7 +123,7 @@ $pillar = 'Operate';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/cloud-cost-control-finops-playbook-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="How to Cut Cloud Waste: A FinOps Playbook for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>How to Cut Cloud Waste: A FinOps Playbook for Mid-Market Owners and Operators</h1>
-                <p class="meta">2026-10-20</p>
+                <p class="meta">2026-10-20 · By the Yellow Coop Team</p>
 
                 <p><strong>The takeaway:</strong> Most cloud overspend isn’t one big mistake. It’s a hundred small ones nobody owns. Give every dollar an owner, set alerts that reach a real person, clean up idle resources before you sign any discount commitment, put AI experiments on their own budget, and review one business-level cost number every month. That’s the core of FinOps, and you don’t need a FinOps team to start.</p>
 

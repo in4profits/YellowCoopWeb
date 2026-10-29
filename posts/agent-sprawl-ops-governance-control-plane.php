@@ -122,7 +122,7 @@ $meta_keywords = 'AI agent governance, agent sprawl, autonomous operations, AI o
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/agent-sprawl-ops-governance-control-plane-hero.webp" width="1280" height="720" fetchpriority="high" alt="Agent Sprawl Without a Control Plane Is How You Buy Outages"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Agent Sprawl Without a Control Plane Is How You Buy Outages</h1>
-                <p class="meta">2026-09-15</p>
+                <p class="meta">2026-09-15 · By the Yellow Coop Team</p>
 
                 <h2>Buying more point agents is not a strategy</h2>
                 <p>If your team spent the last year bolting an AI agent onto every ops tool you own, congratulations: you may have sped up the silos. You did not necessarily connect them.</p>

@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/nadella-ai-emergency-brake-models-as-insider-risks-hero.webp" width="1280" height="720" fetchpriority="high" alt="Microsoft's CEO Says Treat AI Models Like Insider Risks — Give Your Agents an Emergency Brake Before You Give Them Access"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Microsoft's CEO Says Treat AI Models Like Insider Risks — Give Your Agents an Emergency Brake Before You Give Them Access</h1>
-                <p class="meta">2026-10-11</p>
+                <p class="meta">2026-10-11 · By the Yellow Coop Team</p>
 
                 <p><strong>Takeaway:</strong> On October 10, 2026, Microsoft CEO Satya Nadella argued that companies should “assume a model is compromised and contain it from the start,” with an authorized person always able to pause or stop it mid-task. It’s an essay, not a product, but it’s a practical checklist for any business letting AI agents touch real systems.</p>
 

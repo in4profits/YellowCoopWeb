@@ -123,7 +123,7 @@ $pillar = 'Innovate';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/restate-durable-execution-ai-agents-reliability-hero.webp" width="1280" height="720" fetchpriority="high" alt="Restate Just Raised $20M to Keep AI Agents Alive When Software Breaks — Durability Is Not Optional Glue"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Restate Just Raised $20M to Keep AI Agents Alive When Software Breaks — Durability Is Not Optional Glue</h1>
-                <p class="meta">2026-10-02</p>
+                <p class="meta">2026-10-02 · By the Yellow Coop Team</p>
 
                 <p>Restate just raised a $20 million Series A — led by Singular, with Redpoint and Capital One Ventures — to sell a boring-sounding idea that suddenly matters for every team shipping agents: <strong>durable execution</strong>. Total funding sits at $27 million. The pitch is simple: when a long-running process crashes mid-flight, the system should remember what already happened and continue correctly, instead of ghosting you with a half-finished workflow (<a href="https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/">TechCrunch</a>, <a href="https://restate.dev/blog/announcing-series-a">Restate</a>).</p>
                 <p>If your “AI strategy” is a demo that works until Wi-Fi hiccups, this fundraising round is your gentle warning shot.</p>

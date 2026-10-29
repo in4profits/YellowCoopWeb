@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/fortibleed-fortinet-firewall-credential-security-checklist-hero.webp" width="1280" height="720" fetchpriority="high" alt="The FBI Says 86,000+ Fortinet Firewalls Were Opened With Stolen Passwords — Treat Your Network Edge Like a Login Page"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>The FBI Says 86,000+ Fortinet Firewalls Were Opened With Stolen Passwords — Treat Your Network Edge Like a Login Page</h1>
-                <p class="meta">2026-10-08</p>
+                <p class="meta">2026-10-08 · By the Yellow Coop Team</p>
 
                 <p>On October 6, 2026, the FBI and the U.S. Secret Service published a joint advisory warning that <strong>FortiBleed</strong>, a credential-theft campaign aimed at Fortinet FortiGate firewalls and VPN gateways, is still active. Citing security firm SOCRadar, the agencies say more than 86,644 devices across 194 countries have been compromised (<a href="https://www.ic3.gov/CSA/2026/261006.pdf">FBI and USSS advisory JCSA-20261006-01, October 6, 2026</a>).</p>
                 <p>Quick definitions: a FortiGate is Fortinet’s firewall, the box that sits between your network and the internet. Many also run an <em>SSL VPN</em>, the login portal remote staff use to get inside.</p>

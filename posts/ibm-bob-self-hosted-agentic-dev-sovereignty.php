@@ -123,7 +123,7 @@ $pillar = 'Innovate';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/ibm-bob-self-hosted-agentic-dev-sovereignty-hero.webp" width="1280" height="720" fetchpriority="high" alt="IBM Just Made Bob Self-Hosted — Bring Agentic Dev Tools to the Data, Not the Other Way Around"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>IBM Just Made Bob Self-Hosted — Bring Agentic Dev Tools to the Data, Not the Other Way Around</h1>
-                <p class="meta">2026-10-01</p>
+                <p class="meta">2026-10-01 · By the Yellow Coop Team</p>
 
                 <p>Most AI coding tools still have an unspoken migration plan: send your context to their cloud. On October 1, 2026, IBM flipped that script for IBM Bob — its agentic software development platform — with general availability of a <strong>self-hosted deployment</strong> for on-prem, private cloud, sovereign cloud, and air-gapped environments (<a href="https://www.ibm.com/new/announcements/ibm-bob-expands-to-self-hosted-environments-for-sensitive-and-mission-critical-enterprise-software">IBM announcement</a>; <a href="https://www.prnewswire.com/news-releases/ibm-introduces-self-hosted-deployment-for-ibm-bob-to-help-enterprises-advance-ai-sovereignty-and-governance-302893486.html">PR Newswire</a>).</p>
                 <p>If you are an owner or operator in a regulated or IP-heavy shop, this is not an IBM fan letter. It is a reminder that <strong>where the agent runs</strong> belongs in the architecture review — right next to model quality and price.</p>

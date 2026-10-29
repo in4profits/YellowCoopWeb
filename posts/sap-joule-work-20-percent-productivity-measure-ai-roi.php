@@ -123,7 +123,7 @@ $pillar = 'Innovate';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/sap-joule-work-20-percent-productivity-measure-ai-roi-hero.webp" width="1280" height="720" fetchpriority="high" alt="SAP Says Joule Made Its Own Staff 20% More Productive — Measure Your AI Gains Before You Buy the Number"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>SAP Says Joule Made Its Own Staff 20% More Productive — Measure Your AI Gains Before You Buy the Number</h1>
-                <p class="meta">2026-10-07</p>
+                <p class="meta">2026-10-07 · By the Yellow Coop Team</p>
 
                 <p>At its SAP Connect conference in Las Vegas on October 6, SAP said its new AI interface, Joule Work, is live with 110,000 of its own employees, “with the company seeing 20% productivity gains across finance, HR and procurement” (<a href="https://news.sap.com/2026/10/sap-connect-sap-puts-autonomous-enterprise-to-work/">SAP News Center, October 6, 2026</a>).</p>
                 <p>That’s a big, clean number. It’s also a number with no published method behind it.</p>

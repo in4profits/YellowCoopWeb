@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/archer-evolv-ai-compliance-runtime-guardrails-hero.webp" width="1280" height="720" fetchpriority="high" alt="Archer Turned Compliance Policy Into Runtime Guardrails — Stop Governing AI With a PDF"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Archer Turned Compliance Policy Into Runtime Guardrails — Stop Governing AI With a PDF</h1>
-                <p class="meta">2026-10-05</p>
+                <p class="meta">2026-10-05 · By the Yellow Coop Team</p>
 
                 <p>Risk and compliance teams already write the rules for what may enter a model. For most companies, those rules still live in documents. <strong>Archer</strong>, the governance, risk, and compliance (GRC) software provider, now sells a product that turns them into runtime controls: Amazon Bedrock Guardrails that block non-compliant prompts before a model can answer, with every block traced back to the regulation or policy that required it (<a href="https://www.archerirm.com/press-releases/archer-launches-archer-evolv-ai-compliance">Archer</a>). It launched in mid-September and is drawing fresh coverage this week as enterprises figure out how to govern employees and agents at the same time (<a href="https://fintech.global/2026/10/05/archer-evolv-puts-runtime-guardrails-on-enterprise-ai-use/">FinTech Global</a>).</p>
                 <p>The takeaway for owners and operators is blunt: <strong>if your AI policy still stops at a PDF and an acceptable-use slide, you are governing access while ignoring intent.</strong></p>

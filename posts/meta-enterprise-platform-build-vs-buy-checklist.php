@@ -123,7 +123,7 @@ $pillar = 'Operate';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/meta-enterprise-platform-build-vs-buy-checklist-hero.webp" width="1280" height="720" fetchpriority="high" alt="Meta Just Hired for Enterprise AI — Run Build-vs-Buy Before You Rewrite the Stack"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Meta Just Hired for Enterprise AI — Run Build-vs-Buy Before You Rewrite the Stack</h1>
-                <p class="meta">2026-09-29</p>
+                <p class="meta">2026-09-29 · By the Yellow Coop Team</p>
 
                 <p>On September 28, 2026, Meta said it is standing up <a href="https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/">Meta Enterprise Platform</a> as a new business pillar, and hired Chirantan “CJ” Desai—fresh from the MongoDB CEO seat—as Chief Enterprise Platform Officer reporting to Mark Zuckerberg. <a href="https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/">TechCrunch</a> covered the same move and the market reaction at MongoDB.</p>
                 <p>The headline writes itself. The useful question for operators is narrower: <strong>does this change what you buy this quarter, or only what you watch on the roadmap?</strong></p>

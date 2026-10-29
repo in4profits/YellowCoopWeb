@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/saas-vendor-third-party-risk-review-playbook-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="How to Review Vendor and SaaS Risk: A Playbook for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>How to Review Vendor and SaaS Risk: A Playbook for Mid-Market Owners and Operators</h1>
-                <p class="meta">2026-10-15</p>
+                <p class="meta">2026-10-15 · By the Yellow Coop Team</p>
 
                 <p><strong>The takeaway:</strong> Treat every SaaS and third-party tool like a supply-chain decision: rank by criticality, demand product-security evidence (not only SOC logos), write residual risk you will accept, and keep reviewing after the contract is signed. <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-161r1-upd1.pdf">NIST SP 800-161 Rev. 1</a> (updated November 1, 2024) frames cybersecurity supply chain risk management (C-SCRM) as frame → assess → respond → monitor. CISA’s <a href="https://www.cisa.gov/resources-tools/resources/secure-demand-guide">Secure by Demand Guide</a> (August 2024) gives you the buyer questions that make that loop real.</p>
                 <p>Mid-market owners and operators rarely have a full third-party risk team. You still buy tools that hold customer data or sit on the path to production. A short, repeatable review beats a spreadsheet nobody finishes.</p>

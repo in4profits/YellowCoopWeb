@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/soc-2-readiness-guide-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="SOC 2 Readiness for Mid-Market Companies: What to Do Before You Call an Auditor"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>SOC 2 Readiness for Mid-Market Companies: What to Do Before You Call an Auditor</h1>
-                <p class="meta">2026-10-28</p>
+                <p class="meta">2026-10-28 · By the Yellow Coop Team</p>
 
                 <p><strong>Takeaway:</strong> SOC 2 is not a badge you buy. It’s a CPA firm’s opinion on your security controls, and the cheapest path is to decide your scope, write down what you already do, and run your controls for real before an auditor ever shows up.</p>
 

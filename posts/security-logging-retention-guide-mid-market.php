@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/security-logging-retention-guide-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Security Logging for Mid-Market Companies: What to Log, How Long to Keep It, and Who Watches It"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Security Logging for Mid-Market Companies: What to Log, How Long to Keep It, and Who Watches It</h1>
-                <p class="meta">2026-10-25</p>
+                <p class="meta">2026-10-25 · By the Yellow Coop Team</p>
 
                 <p><strong>Takeaway:</strong> Most mid-market companies already generate the logs they’d need to investigate a breach. The trouble is that nobody chose which ones matter, the defaults delete them too soon, and nobody looks at them until it’s too late. Pick your high-value sources, keep them long enough to be useful, store them where an attacker can’t quietly erase them, and give one person the job of watching.</p>
 

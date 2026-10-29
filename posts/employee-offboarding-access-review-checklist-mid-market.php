@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/employee-offboarding-access-review-checklist-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Employee Offboarding and Access Reviews: An IT Security Checklist for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Employee Offboarding and Access Reviews: An IT Security Checklist for Mid-Market Owners and Operators</h1>
-                <p class="meta">2026-10-17</p>
+                <p class="meta">2026-10-17 · By the Yellow Coop Team</p>
 
                 <p><strong>The takeaway:</strong> Turning off someone’s email isn’t offboarding. When a person leaves, disable every account that day, end their live sessions, collect devices and badges, hand their files to a named owner, and change any shared password they knew. Then review who has access to what every quarter. The Cybersecurity and Infrastructure Security Agency’s (CISA) Cross-Sector Cybersecurity Performance Goals 2.0, released December 11, 2025 and aimed at businesses “of all sizes,” call for the core of this: a defined, enforced offboarding process that revokes all access, plus quarterly access reviews (<a href="https://www.cisa.gov/cybersecurity-performance-goals-2-0-cpg-2-0">CISA CPG 2.0</a>; <a href="https://www.cisa.gov/news-events/news/cisa-unveils-enhanced-cross-sector-cybersecurity-performance-goals">release, Dec 11, 2025</a>).</p>
 

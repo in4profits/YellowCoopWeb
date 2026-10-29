@@ -123,7 +123,7 @@ $pillar = 'Operate';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/legacy-system-modernization-decision-guide-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Keep, Move, Replace, or Rebuild? A Legacy System Modernization Decision Guide for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Keep, Move, Replace, or Rebuild? A Legacy System Modernization Decision Guide for Mid-Market Owners and Operators</h1>
-                <p class="meta">2026-10-16</p>
+                <p class="meta">2026-10-16 · By the Yellow Coop Team</p>
 
                 <p><strong>The takeaway:</strong> Don’t start a modernization by picking new technology. Start by scoring every aging system on business value and risk, give each one of five moves (retire, keep with guardrails, move, replace, or rebuild in slices), and write a plan that names milestones, the work, and the date the old system turns off. When the U.S. Government Accountability Office (GAO) checked plans for the 11 federal legacy systems most in need of modernization, only three had all three of those elements (<a href="https://www.gao.gov/products/gao-25-107795">GAO-25-107795, July 17, 2025</a>).</p>
                 <p>Every mid-market company has one: the order system built in 2009, the server nobody wants to reboot. Here’s how to decide its fate without a big-bang rewrite.</p>

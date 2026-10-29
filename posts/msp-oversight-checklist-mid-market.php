@@ -123,7 +123,7 @@ $pillar = 'Operate';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/msp-oversight-checklist-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="How to Manage Your Managed Service Provider: An MSP Oversight Checklist for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>How to Manage Your Managed Service Provider: An MSP Oversight Checklist for Mid-Market Owners and Operators</h1>
-                <p class="meta">2026-10-27</p>
+                <p class="meta">2026-10-27 · By the Yellow Coop Team</p>
 
                 <p><strong>Takeaway:</strong> Your managed service provider (MSP), the outside firm that runs your IT, probably holds admin access to almost everything you own. That makes it one of your biggest security risks as well as one of your most useful vendors. Write down who owns which security job, lock down the MSP’s own accounts, require logs and incident notice you can see, and review the arrangement on a schedule instead of waiting for something to break.</p>
 

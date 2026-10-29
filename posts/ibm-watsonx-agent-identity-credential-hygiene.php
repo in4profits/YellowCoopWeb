@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/ibm-watsonx-agent-identity-credential-hygiene-hero.webp" width="1280" height="720" fetchpriority="high" alt="IBM Just Gave Agents Their Own Identity — Stop Sharing Service Accounts With Software"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>IBM Just Gave Agents Their Own Identity — Stop Sharing Service Accounts With Software</h1>
-                <p class="meta">2026-10-03</p>
+                <p class="meta">2026-10-03 · By the Yellow Coop Team</p>
 
                 <p>IBM just made a quiet but important move in watsonx Orchestrate: <strong>Agent Identity</strong>, now in preview, gives each agent a unique, verifiable identity managed through the identity provider your security team already runs — IBM Verify or Microsoft Entra in the private preview (<a href="https://www.ibm.com/new/announcements/new-in-ibm-watsonx-orchestrate-expanded-third-party-agent-management-and-agent-identities">IBM</a>).</p>
                 <p>Same release also stretches the AI Gateway across Microsoft Foundry and Google Gemini Enterprise Agent Platform (on top of Amazon Bedrock), so multi-cloud agent sprawl can sit in one inventory with one policy set. The headline owners and operators should hear is not “IBM shipped another control plane.” It is: <strong>stop letting agents borrow human credentials and hope the audit log sorts it out later.</strong></p>

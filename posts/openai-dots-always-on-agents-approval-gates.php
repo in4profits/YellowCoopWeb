@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/openai-dots-always-on-agents-approval-gates-hero.webp" width="1280" height="720" fetchpriority="high" alt="OpenAI Just Launched Dots — Make Always-On Agents an Approval Problem, Not a Magic Trick"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>OpenAI Just Launched Dots — Make Always-On Agents an Approval Problem, Not a Magic Trick</h1>
-                <p class="meta">2026-09-30</p>
+                <p class="meta">2026-09-30 · By the Yellow Coop Team</p>
 
                 <p>OpenAI just shipped always-on personal agents. The product pitch is magic. Your job is approvals, scopes, and blast radius.</p>
                 <p>At DevDay, OpenAI launched <strong>dots</strong> — always-on personal AI assistants powered by GPT-6 Astra that connect to 4,000+ apps, including Slack and Teams, and work toward user goals around the clock (<a href="https://www.aljazeera.com/economy/2026/09/30/openai-launches-dots-personal-ai-assistant-built-to-handle-everything">Al Jazeera</a>). That sits next to Meta’s Muse and Google’s Gemini Spark in the same race: agents that keep moving when you’re not watching.</p>

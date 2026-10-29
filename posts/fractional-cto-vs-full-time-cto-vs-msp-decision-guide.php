@@ -123,7 +123,7 @@ $pillar = 'Operate';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/fractional-cto-vs-full-time-cto-vs-msp-decision-guide-hero.webp" width="1280" height="720" fetchpriority="high" alt="Fractional CTO, Full-Time CTO, or a Better MSP? A Decision Guide for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Fractional CTO, Full-Time CTO, or a Better MSP? A Decision Guide for Mid-Market Owners and Operators</h1>
-                <p class="meta">2026-10-13</p>
+                <p class="meta">2026-10-13 · By the Yellow Coop Team</p>
 
                 <p><strong>The takeaway:</strong> If your technology problem is “keep it running,” you need a strong managed service provider. If it’s “decide where we’re going” (AI, security ownership, a platform rebuild), you need executive-level technology judgment. For most mid-market companies, a fractional CTO gets you that judgment without the full salary until there’s enough strategy work to fill a full-time seat.</p>
 

@@ -123,7 +123,7 @@ $pillar = 'Innovate';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/measure-ai-pilot-roi-before-scaling-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="How to Measure AI Pilot ROI Before You Scale: A 6-Step Framework for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>How to Measure AI Pilot ROI Before You Scale: A 6-Step Framework for Mid-Market Owners and Operators</h1>
-                <p class="meta">2026-10-18</p>
+                <p class="meta">2026-10-18 · By the Yellow Coop Team</p>
 
                 <p><strong>The takeaway:</strong> An AI pilot that “feels faster” isn’t a business case. Before you scale one into production, measure one unit of work against a baseline and a comparison group, check quality as well as speed, decide in advance where the saved hours will go, and count every cost, including the time people spend checking the AI’s work. Research shows real but uneven gains, and a gap between what people <em>say</em> they saved and what shows up in the numbers.</p>
 

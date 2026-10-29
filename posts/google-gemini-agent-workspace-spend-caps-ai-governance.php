@@ -123,7 +123,7 @@ $pillar = 'Operate';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/google-gemini-agent-workspace-spend-caps-ai-governance-hero.webp" width="1280" height="720" fetchpriority="high" alt="Google's Gemini Agent Picks the AI Model for Each Task — Set Spend Caps and Approval Rules Before It Reaches Your Workspace"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Google's Gemini Agent Picks the AI Model for Each Task — Set Spend Caps and Approval Rules Before It Reaches Your Workspace</h1>
-                <p class="meta">2026-10-10</p>
+                <p class="meta">2026-10-10 · By the Yellow Coop Team</p>
 
                 <p><strong>The takeaway:</strong> Google’s new Gemini agent is designed to take objectives, not step-by-step instructions, and to choose which AI model does each job. That’s useful, and it also means costs and data access get harder to predict. If your company runs on Google Workspace, decide your budget limits, data boundaries and approval rules now, while it’s still in preview.</p>
 

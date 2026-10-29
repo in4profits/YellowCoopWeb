@@ -121,7 +121,7 @@ $meta_keywords = 'AI agent governance, agent sprawl, fractional CTO AI strategy,
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/continuous-compliance-agent-era-soc2-hero.webp" width="1280" height="720" fetchpriority="high" alt="Your SOC 2 Was Fine Until You Shipped Another Agent"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Your SOC 2 Was Fine Until You Shipped Another Agent</h1>
-                <p class="meta">2026-09-17</p>
+                <p class="meta">2026-09-17 · By the Yellow Coop Team</p>
 
                 <p>Point-in-time compliance was built for software that changed on a release train. Agents change on a Tuesday afternoon.</p>
                 <p>If you already let AI agents touch customer data, rotate permissions, or ship code, your last SOC 2 report is useful theater—not a live picture of risk. The takeaway for founders and operators: treat compliance as a <strong>living control plane</strong>, not a binder you refresh once a year.</p>

@@ -123,7 +123,7 @@ $pillar = 'Innovate';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/halluminate-finance-agent-training-environments-hero.webp" width="1280" height="720" fetchpriority="high" alt="Halluminate Just Raised $30M to Fail Finance Agents in Simulation First — Do Not Let Them Practice on Real Deals"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Halluminate Just Raised $30M to Fail Finance Agents in Simulation First — Do Not Let Them Practice on Real Deals</h1>
-                <p class="meta">2026-10-03</p>
+                <p class="meta">2026-10-03 · By the Yellow Coop Team</p>
 
                 <p>Nine-person Halluminate just raised a <strong>$30 million Series A</strong> led by Oak HC/FT — total funding $38.5 million — to build specialized training environments and benchmarks for AI doing financial knowledge work. Four of the top five closed-source U.S. AI labs are already paying customers, and the company says it has crossed mid–eight figures in annualized revenue run rate while staying profitable (<a href="https://fortune.com/2026/10/01/halluminate-raises-30-million-series-a-oakhc-ft/">Fortune</a>).</p>
                 <p>If you are an owner or operator, do not read that as “another RL lab for model companies.” Read it as the market pricing a blunt truth: <strong>agents that look fine in a chat demo still fail messy, multi-day finance workflows — and those failures are cheaper in a simulation than in a live data room.</strong></p>

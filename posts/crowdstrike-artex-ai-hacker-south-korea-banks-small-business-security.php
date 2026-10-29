@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/crowdstrike-artex-ai-hacker-south-korea-banks-small-business-security-hero.webp" width="1280" height="720" fetchpriority="high" alt="One Hacker, a Free AI Pentest Tool, and Nine Banks — Your Security Plan Can't Assume Attackers Need a Team"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>One Hacker, a Free AI Pentest Tool, and Nine Banks — Your Security Plan Can't Assume Attackers Need a Team</h1>
-                <p class="meta">2026-10-09</p>
+                <p class="meta">2026-10-09 · By the Yellow Coop Team</p>
 
                 <p><strong>Takeaway:</strong> CrowdStrike says a likely lone, financially motivated attacker used an open-source AI hacking agent plus commercial AI models to break into South Korean financial firms between late September and early October 2026. The lesson for operators: the attacker headcount you planned for just shrank to one. Your basics need to hold up against a machine that never gets tired.</p>
 

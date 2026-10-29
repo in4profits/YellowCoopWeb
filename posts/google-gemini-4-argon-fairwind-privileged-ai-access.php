@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/google-gemini-4-argon-fairwind-privileged-ai-access-hero.webp" width="1280" height="720" fetchpriority="high" alt="Google Just Unlocked Guardrail-Free Gemini 4 Argon for Vetted Defenders — Treat Privileged AI Access Like Prod Access"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Google Just Unlocked Guardrail-Free Gemini 4 Argon for Vetted Defenders — Treat Privileged AI Access Like Prod Access</h1>
-                <p class="meta">2026-10-01</p>
+                <p class="meta">2026-10-01 · By the Yellow Coop Team</p>
 
                 <p>Google just shipped a frontier model and carved out a special lane for people it trusts with the sharp tools. Gemini 4 Argon is rolling first to vetted cyber defenders in Google’s Fairwind Program — and for that group, Google says it is releasing Argon <strong>without cyber guardrails</strong> so they can use its full defensive capability (<a href="https://www.securityweek.com/google-launches-gemini-4-argon-with-guardrail-free-access-for-vetted-defenders/">SecurityWeek</a>).</p>
                 <p>If you run a company, do not read that as sci-fi. Read it as an access-control story. Privileged AI is becoming a product tier, and your security, engineering, and procurement habits need to catch up.</p>

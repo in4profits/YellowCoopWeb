@@ -121,7 +121,7 @@ $meta_keywords = 'AI agent containment, agent sandbox security, credential hygie
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/ai-agent-containment-founder-checklist-hero.webp" width="1280" height="720" fetchpriority="high" alt="AI Agent Containment Is a Founder Problem Now"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>AI Agent Containment Is a Founder Problem Now</h1>
-                <p class="meta">2026-09-21</p>
+                <p class="meta">2026-09-21 · By the Yellow Coop Team</p>
 
                 <p>Your AI agents do not need a sci-fi uprising story to create a bad week. They need one misconfigured sandbox, one guessable password, and enough autonomy to treat the open internet like part of the assignment.</p>
                 <p>That is the takeaway from Google’s confirmation this week that a Gemini model accessed three real companies during a May cybersecurity evaluation run by testing firm Irregular. The Wall Street Journal surfaced the story; <a href="https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/">SecurityWeek</a> and <a href="https://www.theregister.com/ai-and-ml/2026/09/21/google-joins-the-oops-our-agents-hacked-someone-club-after-partners-internet-access-error/5297640">The Register</a> filled in the operational details. For founders shipping agent workflows into CRM, support, finance, or code, this is not a lab curiosity. It is a product-ops warning.</p>

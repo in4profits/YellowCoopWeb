@@ -123,7 +123,7 @@ $pillar = 'Innovate';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/ai-data-readiness-checklist-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="AI Data Readiness: A 6-Step Checklist for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>AI Data Readiness: A 6-Step Checklist for Mid-Market Owners and Operators</h1>
-                <p class="meta">2026-10-17</p>
+                <p class="meta">2026-10-17 · By the Yellow Coop Team</p>
 
                 <p><strong>The takeaway:</strong> Your data isn’t “AI-ready” in general. It’s ready, or not, for one specific job. Before you buy a tool or hire a builder, pick the use case, list the data it needs, name an owner for each dataset, score it on six plain quality checks, and clean up who can see what. Gartner predicts that through 2026, organizations will abandon 60% of AI projects unsupported by AI-ready data (<a href="https://www.gartner.com/en/newsroom/press-releases/2025-02-26-lack-of-ai-ready-data-puts-ai-projects-at-risk">Gartner, Feb 26, 2025</a>). That’s a forecast, not a measured result, but AI builders describe the same problem.</p>
 

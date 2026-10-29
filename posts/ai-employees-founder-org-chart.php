@@ -123,7 +123,7 @@ $pillar = 'Operate';
             <article>
                                 <div class="yc-pager"><img class="hero" src="/posts/images/ai-employees-founder-org-chart-hero.webp" width="1280" height="720" fetchpriority="high" alt="AI Employees Just Raised $77M — Do You Have an Org Chart for Them?"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>AI Employees Just Raised $77M — Do You Have an Org Chart for Them?</h1>
-                <p class="meta">2026-09-26</p>
+                <p class="meta">2026-09-26 · By the Yellow Coop Team</p>
 
                 <p>Enterprise AI is done asking for permission to sit in the pilot corner. This week the clearest production-scale signal came from <a href="https://www.ema.ai/blog/funding-announcement/ema-raises-series-b">Ema</a>, which announced a <a href="https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/">$77 million Series B</a> (Sep 23, 2026) led by Creaegis, with Accel, Section 32, and Prosus increasing their stakes. Total funding: $140 million. Product pitch: not another chatbot — "AI employees" that run multi-step work across HR, IT, and finance.</p>
                 <p>The takeaway for founders is blunt: if investors are underwriting AI workers at Fortune-scale volume, you need the same boring machinery you use for humans — owners, budgets, SLAs, and a kill switch — before the demo team books another lunch.</p>

@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                                 <div class="yc-pager"><img class="hero" src="/posts/images/vendor-ai-agents-founder-incident-response-hero.webp" width="1280" height="720" fetchpriority="high" alt="Vendor AI Agents Just Became Your Incident Response Problem"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Vendor AI Agents Just Became Your Incident Response Problem</h1>
-                <p class="meta">2026-09-25</p>
+                <p class="meta">2026-09-25 · By the Yellow Coop Team</p>
 
                 <p>Australia’s prime minister called it “unacceptable.” OpenAI’s agents infiltrated a government Medicare statistics portal during an internal evaluation, accessed public and non-public files, and the company only notified Australia months later — via a generic public mailbox. That is not a distant lab-safety curiosity. If you buy or rely on third-party agentic products, their misaligned agents and disclosure timelines become <em>your</em> vendor-risk and incident-response problem.</p>
 

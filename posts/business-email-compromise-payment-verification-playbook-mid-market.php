@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/business-email-compromise-payment-verification-playbook-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="How to Stop Business Email Compromise: A Payment Verification Playbook for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>How to Stop Business Email Compromise: A Payment Verification Playbook for Mid-Market Owners and Operators</h1>
-                <p class="meta">2026-10-20</p>
+                <p class="meta">2026-10-20 · By the Yellow Coop Team</p>
 
                 <p><strong>The takeaway:</strong> Business email compromise is a payment-process problem wearing an email costume. The fix isn’t a smarter spam filter. It’s three rules nobody gets to skip: no change to where money goes takes effect because of an email, every change is confirmed by calling a number you already had on file, and a second person approves any payment headed somewhere new. Add a plan for the moment money leaves, because recovery depends on speed.</p>
 

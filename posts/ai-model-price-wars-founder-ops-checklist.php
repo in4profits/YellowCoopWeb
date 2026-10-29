@@ -122,7 +122,7 @@ $meta_keywords = 'build vs buy AI, fractional CTO AI strategy, AI infrastructure
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/ai-model-price-wars-founder-ops-checklist-hero.webp" width="1280" height="720" fetchpriority="high" alt="AI Model Price Wars Just Became a Founder Ops Problem"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>AI Model Price Wars Just Became a Founder Ops Problem</h1>
-                <p class="meta">2026-09-23</p>
+                <p class="meta">2026-09-23 · By the Yellow Coop Team</p>
 
                 <h2>The takeaway</h2>
                 <p>On September 22, 2026, Anthropic shipped Claude Opus 5.5 and OpenAI answered about 90 minutes later with GPT-6 Sol and Luna—both pitching better everyday performance at meaningfully lower API cost. That is not a product launch day for founders. It is an <strong>ops</strong> day.</p>

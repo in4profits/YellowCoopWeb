@@ -122,7 +122,7 @@ $meta_keywords = 'AI coding agent security, Plugin4Shell, AI supply chain risk, 
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/plugin4shell-ai-coding-agent-security-hero.webp" width="1280" height="720" fetchpriority="high" alt="Plugin4Shell Explained: Why AI Coding Agent Security Is Now a Board Issue"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Plugin4Shell Explained: Why AI Coding Agent Security Is Now a Board Issue</h1>
-                <p class="meta">2026-09-18</p>
+                <p class="meta">2026-09-18 · By the Yellow Coop Team</p>
 
                 <p>If your engineers are shipping with Claude Code, Codex, Copilot, or Gemini CLI, treat this week's Plugin4Shell disclosure like a production incident—not a "security newsletter." Air Security researchers detailed a zero-click remote code execution path that hits the plugin supply chain those agents rely on. The uncomfortable punchline: doing the "right" thing (review a plugin, pin a commit) was not enough.</p>
 

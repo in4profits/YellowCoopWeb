@@ -122,7 +122,7 @@ $meta_keywords = 'Salesforce Agentforce, CRM reasoning model, enterprise AI inte
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/dreamforce-2026-koa-aiforce-enterprise-ai-interfaces-hero.webp" width="1280" height="720" fetchpriority="high" alt="Dreamforce 2026: Specialized Models and Agents Where Work Already Happens"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Dreamforce 2026: Specialized Models and Agents Where Work Already Happens</h1>
-                <p class="meta">2026-09-15</p>
+                <p class="meta">2026-09-15 · By the Yellow Coop Team</p>
 
                 <h2>The interface war is over. Context won.</h2>
                 <p>For two years, enterprise AI demos lived in a chat box that knew nothing about your pipeline or your approvals. Dreamforce 2026 made that look old.</p>

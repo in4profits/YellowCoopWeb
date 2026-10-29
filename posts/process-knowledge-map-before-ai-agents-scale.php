@@ -122,7 +122,7 @@ $meta_keywords = 'autonomous operations, AI ops control plane, build vs buy AI, 
             <article>
                                 <div class="yc-pager"><img class="hero" src="/posts/images/process-knowledge-map-before-ai-agents-scale-hero.webp" width="1280" height="720" fetchpriority="high" alt="Process Knowledge Is the Missing Layer for Scaling AI Agents"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Process Knowledge Is the Missing Layer for Scaling AI Agents</h1>
-                <p class="meta">2026-09-24</p>
+                <p class="meta">2026-09-24 · By the Yellow Coop Team</p>
 
                 <p>Your AI pilots are not stalling because the model is dumb. They stall because nobody wrote down how the work actually runs — including the messy exceptions your best people keep in their heads.</p>
                 <p>That is the blunt message from UiPath FUSION 2026. CEO Daniel Dines launched <a href="https://thenextweb.com/news/uipath-cartographer-daniel-dines-fusion-keynote">UiPath Cartographer</a> to build what the company calls a Map of Work: a governed, living manual of how processes really operate. Diginomica’s coverage of the keynote puts it plainly — enterprises are wiring agents into workflows that still live in stale SOPs, old process-mining diagrams, Slack archaeology, and tribal memory (<a href="https://diginomica.com/uipath-maps-missing-layer-enterprise-ai-cartographer">diginomica</a>).</p>

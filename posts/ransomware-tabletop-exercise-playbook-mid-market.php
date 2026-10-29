@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/ransomware-tabletop-exercise-playbook-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="How to Run a 90-Minute Ransomware Tabletop Exercise: A Playbook for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>How to Run a 90-Minute Ransomware Tabletop Exercise: A Playbook for Mid-Market Owners and Operators</h1>
-                <p class="meta">2026-10-13</p>
+                <p class="meta">2026-10-13 · By the Yellow Coop Team</p>
 
                 <p><strong>The takeaway:</strong> A written incident response plan you’ve never rehearsed is a guess. A 90-minute tabletop exercise, a guided “what would we do?” walk-through of a fake attack, will show you who can make decisions, whether your backups really restore, and which vendor calls nobody knows how to make. Run one this quarter, then keep running them.</p>
 

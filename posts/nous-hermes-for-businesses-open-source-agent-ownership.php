@@ -123,7 +123,7 @@ $pillar = 'Innovate';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/nous-hermes-for-businesses-open-source-agent-ownership-hero.webp" width="1280" height="720" fetchpriority="high" alt="Nous Is Taking Its Open-Source Hermes Agent to Business — Decide Which Parts of Your AI Stack You Own"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Nous Is Taking Its Open-Source Hermes Agent to Business — Decide Which Parts of Your AI Stack You Own</h1>
-                <p class="meta">2026-10-12</p>
+                <p class="meta">2026-10-12 · By the Yellow Coop Team</p>
 
                 <p>Nous Research, maker of the open-source Hermes Agent, has raised $90 million and is building business editions of the agent. For owners and operators, this makes “own your agent stack” a funded option next to the big walled-garden platforms. It doesn’t mean open source is automatically the right fit for you. Decide what you need to own and what you’re happy to rent.</p>
 

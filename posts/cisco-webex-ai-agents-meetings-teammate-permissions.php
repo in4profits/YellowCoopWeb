@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/cisco-webex-ai-agents-meetings-teammate-permissions-hero.webp" width="1280" height="720" fetchpriority="high" alt="Cisco Is Bringing AI Agents Into Webex Meetings — Give Them Teammate Permissions, Not Chatbot Access"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Cisco Is Bringing AI Agents Into Webex Meetings — Give Them Teammate Permissions, Not Chatbot Access</h1>
-                <p class="meta">2026-10-12</p>
+                <p class="meta">2026-10-12 · By the Yellow Coop Team</p>
 
                 <p>Cisco’s pitch at WebexOne 2026 is that AI agents should sit in the same spaces, meetings, and calls as your staff and do real multi-step work. If that’s where collaboration software is going, owners and operators should manage these agents the way they manage new hires: a named role, limited access, a manager, and a record of what they did.</p>
 

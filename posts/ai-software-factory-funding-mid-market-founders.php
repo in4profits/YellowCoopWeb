@@ -122,7 +122,7 @@ $meta_keywords = 'autonomous operations, AI ops control plane, fractional CTO AI
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/ai-software-factory-funding-mid-market-founders-hero.webp" width="1280" height="720" fetchpriority="high" alt="Factory’s $5B Bet: What an AI Software Factory Means for Mid-Market Founders"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Factory’s $5B Bet: What an AI Software Factory Means for Mid-Market Founders</h1>
-                <p class="meta">2026-09-16</p>
+                <p class="meta">2026-09-16 · By the Yellow Coop Team</p>
 
                 <h2>The takeaway</h2>
                 <p>On September 15, 2026, Factory—an AI coding-agent platform for enterprise engineering—<a href="https://www.reuters.com/business/ai-coding-agent-startup-factory-triples-valuation-5-billion-latest-funding-round-2026-09-15/">raised $200 million and tripled its valuation to $5 billion</a>. Backers include Blackstone, Khosla Ventures, Sequoia Capital, and Insight Partners, among others (<a href="https://www.reuters.com/business/ai-coding-agent-startup-factory-triples-valuation-5-billion-latest-funding-round-2026-09-15/">Reuters</a>; <a href="https://www.finsmes.com/2026/09/factory-raises-200m-in-funding.html">Finsmes</a>).</p>

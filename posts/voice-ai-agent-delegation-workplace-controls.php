@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                                 <div class="yc-pager"><img class="hero" src="/posts/images/voice-ai-agent-delegation-workplace-controls-hero.webp" width="1280" height="720" fetchpriority="high" alt="Voice AI With Agent Delegation Is Now a Workplace Control Problem"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Voice AI With Agent Delegation Is Now a Workplace Control Problem</h1>
-                <p class="meta">2026-09-25</p>
+                <p class="meta">2026-09-25 · By the Yellow Coop Team</p>
 
                 <p>ChatGPT can now talk full-duplex while kicking off tools and agentic work in the background. That sounds like a productivity win — and it is — until someone starts a voice session that can touch customer data, open Codex tasks, or drive connected apps from a hallway conversation. Natural speech plus background agents is not just a UX upgrade. It is a workplace control problem.</p>
 

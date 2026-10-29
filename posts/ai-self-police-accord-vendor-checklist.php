@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/ai-self-police-accord-vendor-checklist-hero.webp" width="1280" height="720" fetchpriority="high" alt="AI Labs Just Signed a Self-Police Accord — Your Vendor Checklist Still Has to Be Real"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>AI Labs Just Signed a Self-Police Accord — Your Vendor Checklist Still Has to Be Real</h1>
-                <p class="meta">2026-09-30</p>
+                <p class="meta">2026-09-30 · By the Yellow Coop Team</p>
 
                 <p>A White House photo op is not your vendor diligence. When frontier labs sign a voluntary self-police accord, translate it into questions you can ask — and controls you can run.</p>
                 <p>On September 29–30, 2026, President Trump announced a voluntary AI accord signed with Anthropic CEO Dario Amodei, Google CEO Sundar Pichai, Meta CEO Mark Zuckerberg, OpenAI President Greg Brockman, Nvidia CEO Jensen Huang, and Elon Musk (xAI / SpaceX) (<a href="https://www.npr.org/2026/09/30/nx-s1-5985699/trump-self-police-ai-development">NPR / AP</a>). Trump called it <strong>“morally binding,”</strong> floated a roughly 10-person oversight committee, and again rejected “guardrails” / slowdown framing for U.S. AI development.</p>

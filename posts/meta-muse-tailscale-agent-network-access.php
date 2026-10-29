@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/meta-muse-tailscale-agent-network-access-hero.webp" width="1280" height="720" fetchpriority="high" alt="Meta’s Muse Just Joined Tailscale — Treat Agents on Your Network Like New Devices, Not Chatbots"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Meta’s Muse Just Joined Tailscale — Treat Agents on Your Network Like New Devices, Not Chatbots</h1>
-                <p class="meta">2026-10-04</p>
+                <p class="meta">2026-10-04 · By the Yellow Coop Team</p>
 
                 <p>Meta’s personal agent <strong>Muse</strong> can now join your Tailscale network as its own node. That is not a cute chatbot trick. It is a network membership event — and network membership is how agents turn into privileged devices with paths into your private services.</p>
                 <p>Tailscale’s Andrew Cunningham walked through the integration: after IdP login, Muse joins the tailnet as a separate node (even if you are already signed into Tailscale on phone or laptop), stays outbound-only by default, asks for explicit confirmation the first time it connects to a device, and supports standing or one-time access you can revoke (<a href="https://tailscale.com/blog/meta-muse-ai-agent-tailscale">Tailscale</a>). Grants and tags apply to Muse like any other node, so deny-by-default least privilege is available on top of Meta’s defaults (<a href="https://tailscale.com/blog/meta-muse-ai-agent-tailscale">Tailscale</a>; <a href="https://tailscale.com/docs/features/access-control/grants">Tailscale grants docs</a>).</p>

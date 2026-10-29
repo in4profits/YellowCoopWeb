@@ -122,7 +122,7 @@ $meta_keywords = 'AI cloud compute, AI infrastructure strategy, build vs buy AI,
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/ai-cloud-compute-founder-buy-strategy-hero.webp" width="1280" height="720" fetchpriority="high" alt="AI Cloud Compute Is Critical Infrastructure for Founders Now"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>AI Cloud Compute Is Critical Infrastructure for Founders Now</h1>
-                <p class="meta">2026-09-22</p>
+                <p class="meta">2026-09-22 · By the Yellow Coop Team</p>
 
                 <p>GPU scarcity is no longer someone else's procurement drama. If your product roadmap depends on training, fine-tuning, or high-volume inference, compute capacity is now part of how you ship—and how you miss quarters.</p>
 

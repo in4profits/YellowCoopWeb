@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/proactive-email-ai-inbox-automation-trigger-hero.webp" width="1280" height="720" fetchpriority="high" alt="Proactive Email AI Just Made Your Inbox an Automation Trigger"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Proactive Email AI Just Made Your Inbox an Automation Trigger</h1>
-                <p class="meta">2026-09-26</p>
+                <p class="meta">2026-09-26 · By the Yellow Coop Team</p>
 
                 <p>Most AI tools wait for you to ask. A new wave does not. <a href="https://hellosol.app/here-comes-the-sun">Sol</a> (from Sol Foundry Inc.) emerged from stealth with <a href="https://indianstartupnews.com/funding/sol-emerges-from-stealth-with-4-million-for-ai-that-starts-working-on-promises-made-over-email-12567058">$4 million</a> led by General Catalyst and Nexus Venture Partners (coverage Sep 22–26, 2026), built around a simple idea: if you already promised something in email, the AI should start the work and come back for approval.</p>
                 <p>That sounds like a gift for overloaded founders. It is also a new control surface. Once software watches your Gmail for commitments and spins up research, decks, and meeting proposals, your inbox is no longer just communication — it is an automation trigger.</p>

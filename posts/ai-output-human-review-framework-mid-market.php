@@ -123,7 +123,7 @@ $pillar = 'Innovate';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/ai-output-human-review-framework-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Where AI Output Needs a Human Check: A Review-Level Framework for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Where AI Output Needs a Human Check: A Review-Level Framework for Mid-Market Owners and Operators</h1>
-                <p class="meta">2026-10-23</p>
+                <p class="meta">2026-10-23 · By the Yellow Coop Team</p>
 
                 <p><strong>The takeaway:</strong> Don’t put a human reviewer on every AI output, and don’t put one on none. Sort each AI use by who sees the result and what a mistake would cost you, then assign one of four review levels. That way your people’s limited review time goes to the outputs that can actually hurt you.</p>
 

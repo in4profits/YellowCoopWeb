@@ -123,7 +123,7 @@ $pillar = 'Operate';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/claude-opus-5-5-agentic-coding-cost-strategy-hero.webp" width="1280" height="720" fetchpriority="high" alt="Claude Opus 5.5 Just Cut Agentic Coding Costs — Your Workflow Still Decides the Bill"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Claude Opus 5.5 Just Cut Agentic Coding Costs — Your Workflow Still Decides the Bill</h1>
-                <p class="meta">2026-09-28</p>
+                <p class="meta">2026-09-28 · By the Yellow Coop Team</p>
 
                 <p>Anthropic released <a href="https://www.anthropic.com/claude-opus-5-5">Claude Opus 5.5</a> on September 22, 2026, and the headline numbers are easy to screenshot: frontier-ish coding performance with roughly <strong>40% lower cost</strong> than Opus 5 on typical workloads, plus faster generation. If you run agents all day, that is real money.</p>
                 <p>Here is the less tweetable takeaway: a cheaper model ID does not fix a sloppy agent harness. Teams that win on Opus 5.5 will be the ones who already know which jobs deserve autonomy, which need human review, and how they will notice silent failure.</p>

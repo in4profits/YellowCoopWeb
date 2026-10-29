@@ -123,7 +123,7 @@ $pillar = 'Innovate';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/ai-agent-permissions-least-privilege-checklist-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="AI Agent Permissions: A Least-Privilege Checklist Before AI Acts on Your Systems"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>AI Agent Permissions: A Least-Privilege Checklist Before AI Acts on Your Systems</h1>
-                <p class="meta">2026-10-28</p>
+                <p class="meta">2026-10-28 · By the Yellow Coop Team</p>
 
                 <p><strong>Takeaway:</strong> An AI agent should get the smallest set of tools, the narrowest access, and the least freedom to act alone that its job requires. Enforce those limits in your systems, not in the prompt, and require a human yes for anything you can’t undo.</p>
 

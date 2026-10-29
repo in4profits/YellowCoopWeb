@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/incident-response-plan-guide-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="How to Write an Incident Response Plan: A Practical Guide for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>How to Write an Incident Response Plan: A Practical Guide for Mid-Market Owners and Operators</h1>
-                <p class="meta">2026-10-29</p>
+                <p class="meta">2026-10-29 · By the Yellow Coop Team</p>
 
                 <p>An incident response plan is mostly names, phone numbers, and decisions you made in advance. If yours lives only on the network it is supposed to protect, or it works only when one IT person picks up the phone, you don’t have a plan yet. You have a hope with a file name.</p>
 

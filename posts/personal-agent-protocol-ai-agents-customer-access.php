@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/personal-agent-protocol-ai-agents-customer-access-hero.webp" width="1280" height="720" fetchpriority="high" alt="Meta and Sierra Want a Standard Front Door for AI Agents — Decide What Your Customers' Bots Can Touch Before They Knock"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Meta and Sierra Want a Standard Front Door for AI Agents — Decide What Your Customers' Bots Can Touch Before They Knock</h1>
-                <p class="meta">2026-10-08</p>
+                <p class="meta">2026-10-08 · By the Yellow Coop Team</p>
 
                 <p>On October 6, 2026, Sierra, the enterprise AI startup co-founded by former Salesforce co-CEO Bret Taylor, announced the <strong>Personal Agent Protocol (PAP)</strong> with Meta. The partner list includes Genesys, Instinct, Rocket, Shopify, Stripe, and Walmart (<a href="https://sierra.ai/blog/introducing-personal-agent-protocol">Sierra, October 6, 2026</a>). The goal is shared rules for how <em>personal agents</em> (AI assistants that act for one consumer, like booking an appointment or changing an order) deal with businesses.</p>
                 <p>The same day, Decagon, which builds AI agents for customer-service teams, open-sourced a related protocol called PACT (<a href="https://decagon.ai/blog/introducing-the-personal-agent-consent-trust-protocol-pact">Decagon, October 6, 2026</a>).</p>

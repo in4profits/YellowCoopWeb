@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/armadin-agent-swarm-continuous-security-testing-hero.webp" width="1280" height="720" fetchpriority="high" alt="Mandiant's Founder Just Raised $255M for Always-On Agent Swarms — Treat Continuous Attack Simulation Like Prod Monitoring"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Mandiant's Founder Just Raised $255M for Always-On Agent Swarms — Treat Continuous Attack Simulation Like Prod Monitoring</h1>
-                <p class="meta">2026-10-02</p>
+                <p class="meta">2026-10-02 · By the Yellow Coop Team</p>
 
                 <p>Kevin Mandia — yes, that Mandiant — just raised another $255.5 million for Armadin at a valuation above $2.5 billion. Six months after a $190 million Series A, the company has pulled in more than $445 million to sell something that sounds dramatic and is actually very practical: <strong>always-on agentic swarms that chain vulnerabilities the way a patient attacker would</strong>, instead of a once-a-year pen test that expires the week after the report lands (<a href="https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/">TechCrunch</a>).</p>
                 <p>If you are an owner or operator, do not read the headline as “another cyber unicorn.” Read it as the market pricing a new default: continuous attack simulation belongs next to uptime monitoring, not in the annual compliance binder.</p>

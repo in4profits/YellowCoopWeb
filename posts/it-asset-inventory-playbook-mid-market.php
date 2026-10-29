@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/it-asset-inventory-playbook-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="IT Asset Inventory: A Starter Playbook for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>IT Asset Inventory: A Starter Playbook for Mid-Market Owners and Operators</h1>
-                <p class="meta">2026-10-21</p>
+                <p class="meta">2026-10-21 · By the Yellow Coop Team</p>
 
                 <p><strong>The takeaway:</strong> An IT asset inventory is the least glamorous security control and the one everything else depends on. You can’t patch, back up, insure, or retire what you don’t know you have. Start with a simple list of devices and software, give every row an owner, deal with unknown devices weekly, and flag anything the vendor no longer supports.</p>
 

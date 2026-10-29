@@ -123,7 +123,7 @@ $pillar = 'Secure';
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/openai-gpt-6-1-astra-safety-delay-release-gates-hero.webp" width="1280" height="720" fetchpriority="high" alt="OpenAI Just Held GPT-6.1 Astra — Make Your Agent Release Gate That Explicit"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>OpenAI Just Held GPT-6.1 Astra — Make Your Agent Release Gate That Explicit</h1>
-                <p class="meta">2026-09-29</p>
+                <p class="meta">2026-09-29 · By the Yellow Coop Team</p>
 
                 <p>OpenAI said it will not ship <a href="https://www.cnn.com/2026/09/28/business/openai-chatgpt-safety-concerns">GPT-6.1 Astra</a> on the planned October timeline because the model “didn’t quite meet the bar” on safety. That is rare for a frontier lab, and it is useful for operators who ship agents into real workflows.</p>
                 <p>The takeaway is blunt: if OpenAI can delay a headline model over scope, authorization, and how the system reports its own work, your company can delay an internal agent that books refunds, edits production code, or talks to customers. A written release gate beats a vibe check every time.</p>
