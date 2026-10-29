@@ -35,7 +35,8 @@ Post template: copy an existing post (e.g. `posts/process-knowledge-map-before-a
 - After `<body>`: `<?php include __DIR__ . '/../includes/post-nav.php'; ?>` (adds the skip link and the site nav)
 - Content wrapper: `<main id="main" class="wrap"> <article>...</article> </main>` (not a `div`). The skip link jumps to `#main`.
 - Before `</article>`: `<?php include __DIR__ . '/../includes/post-cta.php'; ?>`
-- Date in `<p class="meta">YYYY-MM-DD</p>`.
+- Date and byline, exactly: `<p class="meta">YYYY-MM-DD · By the Yellow Coop Team</p>`. No personal bylines or author names.
+- Structured data needs no per-post work: `includes/post-head.php` sets BlogPosting `author` and `publisher` to `{"@id":"https://yellowcoop.com/#org"}`. Never add a Person node.
 - Keep the footer links as in the template (Home · Contact · Subscribe · Privacy).
 - Audience: CEOs, owners and operators of small and mid-size companies.
 - Images are cached for a year. Never overwrite an existing image under the same file name; use a new name. Hero images should be 16:9 (1280x720).
