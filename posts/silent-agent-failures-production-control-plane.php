@@ -1,10 +1,11 @@
 <?php
 $title = 'Silent Agent Failures Are the New Production Outage — Yellow Coop';
+$seo_title = 'Catch Silent AI Agent Failures Before Customers Do | Yellow Coop';
 $year_start = 2025;
 $year_end = 2026;
 $email = 'info@yellowcoop.com';
 $newsletter = 'https://4393au.share-na2.hsforms.com/27zXzNBOAQ9OzMK-Nck6Hxw';
-$meta_description = 'Raindrop\'s $50M raise puts silent agent failures on the map. Here\'s how founders should detect, simulate, and cost-control agents before they scale.';
+$meta_description = 'AI agents fail politely, not loudly. Use traces, simulations and cost caps to catch silent failures early, with lessons from Raindrop\'s $50M raise.';
 $meta_keywords = 'silent agent failure, AI agent observability, agent production failures, AI agent simulations, AI ops control plane, fractional CTO AI strategy';
 ?>
 <!DOCTYPE html>
