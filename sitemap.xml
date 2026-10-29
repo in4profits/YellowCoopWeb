@@ -8,9 +8,15 @@
   </url>
   <url>
     <loc>https://yellowcoop.com/blog.php</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yellowcoop.com/posts/incident-response-plan-guide-mid-market.php</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://yellowcoop.com/posts/ai-agent-permissions-least-privilege-checklist-mid-market.php</loc>
