@@ -57,22 +57,28 @@ function hubspot_tracking($site) {
     return '<script id="hs-script-loader" async defer src="https://js-' . e($site['hs_region']) . '.hs-scripts.com/' . e($site['hs_hub_id']) . '.js"></script>';
 }
 
-// Organization structured data, shared by site pages and posts.
+// Organization structured data, shared by site pages and posts. Brand-level only:
+// no Person, founder, employee or credential properties.
 function org_schema($site) {
     return [
-        '@type' => 'ProfessionalService',
+        '@type' => ['Organization', 'ProfessionalService'],
         '@id' => $site['url'] . '/#org',
         'name' => 'Yellow Coop',
         'legalName' => 'Yellow Coop LLC',
         'url' => $site['url'] . '/',
-        'logo' => $site['url'] . '/assets/mark.svg',
+        'logo' => [
+            '@type' => 'ImageObject',
+            'url' => $site['url'] . '/assets/yellow-coop-logo-512.png',
+            'width' => 512,
+            'height' => 512,
+        ],
         'image' => $site['url'] . '/assets/cio-cto-ciso.png',
         'email' => $site['email'],
         'slogan' => 'Cooperate · Create · Grow',
         'description' => 'Virtual, fractional, and interim CIO, CTO, and CISO leadership for companies that need a technology executive but not a full-time hire.',
         'areaServed' => 'US',
-        'knowsAbout' => ['Fractional CIO', 'Fractional CTO', 'Fractional CISO', 'Virtual CIO', 'Interim CIO', 'IT strategy', 'Cybersecurity', 'AI adoption'],
         'sameAs' => array_values(array_filter($site['socials'] ?? [])),
+        'knowsAbout' => ['Fractional CIO', 'Fractional CTO', 'Fractional CISO', 'Virtual CIO', 'Interim CIO', 'IT strategy', 'Cybersecurity', 'AI adoption', 'AI solutions', 'ISO 27001', 'TISAX', 'Multi-factor authentication', 'IT merger integration', 'Logistics technology', 'Disaster recovery planning'],
     ];
 }
 
