@@ -5,6 +5,8 @@ $page_path = '/cio-vs-cto-vs-ciso/';
 $page_image = '/assets/cio-cto-ciso.png';
 $active = 'roles';
 require __DIR__ . '/../includes/header.php';
+$by_slug = [];
+foreach (load_posts(dirname(__DIR__)) as $__p) { $by_slug[$__p['slug']] = $__p; }
 
 // Comparison data: dimension => [CIO, CISO, CTO]
 $dims = [
@@ -274,6 +276,31 @@ $overlaps = [
       <div class="card"><div class="stat">4 days</div><p class="muted" style="margin-top:8px">US public companies generally have four business days to disclose a cyber incident once they decide it is material, and must describe management's cybersecurity expertise every year. <br><small>SEC cybersecurity disclosure rules, 2023</small></p></div>
       <div class="card"><div class="stat">1981</div><p class="muted" style="margin-top:8px">The year the CIO role was first formally defined, by William Synnott and William Gruber. The CTO title spread through the 1980s. The CISO is the youngest of the three. <br><small>Synnott &amp; Gruber, <i>Information Resource Management</i></small></p></div>
     </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <h2>From the roles to the work</h2>
+    <div class="grid-3">
+      <?php foreach ([
+        ['CIO · Operate', 'Systems, vendors, contracts, and IT spend.', '/what-we-do/#operate', 'See the Operate services', ['erp-replacement-guide-mid-market']],
+        ['CISO · Secure', 'Questionnaires, compliance, and incident readiness.', '/what-we-do/#secure', 'See the Secure services', ['soc-2-readiness-guide-mid-market', 'incident-response-plan-guide-mid-market']],
+        ['CTO · Innovate', 'Roadmap, AI adoption, and build vs buy.', '/what-we-do/#innovate', 'See the Innovate services', ['fractional-cto-vs-full-time-cto-vs-msp-decision-guide']],
+      ] as [$h, $line, $href, $label, $slugs]): ?>
+      <div class="card">
+        <h3><?= e($h) ?></h3>
+        <p class="muted"><?= e($line) ?></p>
+        <p style="margin-top:10px"><a href="<?= e($href) ?>"><?= e($label) ?> →</a></p>
+        <ul>
+          <?php foreach ($slugs as $slug): if (!isset($by_slug[$slug])) continue; ?>
+          <li><a href="<?= e($by_slug[$slug]['url']) ?>"><?= e($by_slug[$slug]['title']) ?></a></li>
+          <?php endforeach; ?>
+        </ul>
+      </div>
+      <?php endforeach; ?>
+    </div>
+    <p class="muted" style="margin-top:18px">Not sure which seat you need? See <a href="/how-we-engage/">how engagements work</a>, the <a href="/track-record/">track record</a>, or the <a href="/faq/">FAQ</a>.</p>
   </div>
 </section>
 
