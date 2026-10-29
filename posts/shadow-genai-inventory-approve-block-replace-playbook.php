@@ -119,7 +119,7 @@ $pillar = 'Secure';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/shadow-genai-inventory-approve-block-replace-playbook-hero.webp" width="1280" height="720" fetchpriority="high" alt="How to Inventory Shadow GenAI: Approve, Block, or Replace for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>How to Inventory Shadow GenAI: Approve, Block, or Replace for Mid-Market Owners and Operators</h1>
@@ -181,7 +181,7 @@ $pillar = 'Secure';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

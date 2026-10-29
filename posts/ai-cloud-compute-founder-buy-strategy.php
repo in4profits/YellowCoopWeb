@@ -118,7 +118,7 @@ $meta_keywords = 'AI cloud compute, AI infrastructure strategy, build vs buy AI,
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/ai-cloud-compute-founder-buy-strategy-hero.webp" width="1280" height="720" fetchpriority="high" alt="AI Cloud Compute Is Critical Infrastructure for Founders Now"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>AI Cloud Compute Is Critical Infrastructure for Founders Now</h1>
@@ -162,7 +162,7 @@ $meta_keywords = 'AI cloud compute, AI infrastructure strategy, build vs buy AI,
 
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

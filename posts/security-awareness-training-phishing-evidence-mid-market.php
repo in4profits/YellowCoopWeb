@@ -119,7 +119,7 @@ $pillar = 'Secure';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/security-awareness-training-phishing-evidence-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Security Awareness Training: What the Evidence Says and How Mid-Market Owners and Operators Should Run It"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Security Awareness Training: What the Evidence Says and How Mid-Market Owners and Operators Should Run It</h1>
@@ -201,7 +201,7 @@ $pillar = 'Secure';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

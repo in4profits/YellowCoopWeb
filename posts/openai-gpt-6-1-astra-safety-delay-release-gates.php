@@ -119,7 +119,7 @@ $pillar = 'Secure';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/openai-gpt-6-1-astra-safety-delay-release-gates-hero.webp" width="1280" height="720" fetchpriority="high" alt="OpenAI Just Held GPT-6.1 Astra — Make Your Agent Release Gate That Explicit"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>OpenAI Just Held GPT-6.1 Astra — Make Your Agent Release Gate That Explicit</h1>
@@ -191,7 +191,7 @@ $pillar = 'Secure';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

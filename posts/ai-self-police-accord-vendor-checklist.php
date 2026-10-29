@@ -119,7 +119,7 @@ $pillar = 'Secure';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/ai-self-police-accord-vendor-checklist-hero.webp" width="1280" height="720" fetchpriority="high" alt="AI Labs Just Signed a Self-Police Accord — Your Vendor Checklist Still Has to Be Real"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>AI Labs Just Signed a Self-Police Accord — Your Vendor Checklist Still Has to Be Real</h1>
@@ -208,7 +208,7 @@ $pillar = 'Secure';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

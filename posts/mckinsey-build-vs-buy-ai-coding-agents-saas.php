@@ -119,7 +119,7 @@ $pillar = 'Innovate';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/mckinsey-build-vs-buy-ai-coding-agents-saas-hero.webp" width="1280" height="720" fetchpriority="high" alt="McKinsey Survey: 32% of Respondents Say Their Organization Skipped Buying Software It Could Build With AI — Run the Build-vs-Buy Math Before You Renew"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>McKinsey Survey: 32% of Respondents Say Their Organization Skipped Buying Software It Could Build With AI — Run the Build-vs-Buy Math Before You Renew</h1>
@@ -182,7 +182,7 @@ $pillar = 'Innovate';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

@@ -119,7 +119,7 @@ $pillar = 'Operate';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/meta-enterprise-platform-build-vs-buy-checklist-hero.webp" width="1280" height="720" fetchpriority="high" alt="Meta Just Hired for Enterprise AI — Run Build-vs-Buy Before You Rewrite the Stack"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Meta Just Hired for Enterprise AI — Run Build-vs-Buy Before You Rewrite the Stack</h1>
@@ -181,7 +181,7 @@ $pillar = 'Operate';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

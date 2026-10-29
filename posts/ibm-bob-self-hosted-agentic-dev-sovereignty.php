@@ -119,7 +119,7 @@ $pillar = 'Innovate';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/ibm-bob-self-hosted-agentic-dev-sovereignty-hero.webp" width="1280" height="720" fetchpriority="high" alt="IBM Just Made Bob Self-Hosted — Bring Agentic Dev Tools to the Data, Not the Other Way Around"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>IBM Just Made Bob Self-Hosted — Bring Agentic Dev Tools to the Data, Not the Other Way Around</h1>
@@ -182,7 +182,7 @@ $pillar = 'Innovate';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

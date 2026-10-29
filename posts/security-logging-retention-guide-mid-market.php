@@ -119,7 +119,7 @@ $pillar = 'Secure';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/security-logging-retention-guide-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Security Logging for Mid-Market Companies: What to Log, How Long to Keep It, and Who Watches It"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Security Logging for Mid-Market Companies: What to Log, How Long to Keep It, and Who Watches It</h1>
@@ -190,7 +190,7 @@ $pillar = 'Secure';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

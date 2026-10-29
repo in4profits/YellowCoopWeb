@@ -119,7 +119,7 @@ $pillar = 'Secure';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/personal-agent-protocol-ai-agents-customer-access-hero.webp" width="1280" height="720" fetchpriority="high" alt="Meta and Sierra Want a Standard Front Door for AI Agents — Decide What Your Customers' Bots Can Touch Before They Knock"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Meta and Sierra Want a Standard Front Door for AI Agents — Decide What Your Customers' Bots Can Touch Before They Knock</h1>
@@ -179,7 +179,7 @@ $pillar = 'Secure';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

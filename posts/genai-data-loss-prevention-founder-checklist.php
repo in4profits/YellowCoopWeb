@@ -118,7 +118,7 @@ $meta_keywords = 'AI data loss prevention, GenAI data security, continuous compl
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/genai-data-loss-prevention-founder-checklist-hero.webp" width="1280" height="720" fetchpriority="high" alt="GenAI Data Loss Prevention Belongs on the Founder Checklist"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>GenAI Data Loss Prevention Belongs on the Founder Checklist</h1>
@@ -162,7 +162,7 @@ $meta_keywords = 'AI data loss prevention, GenAI data security, continuous compl
 
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

@@ -119,7 +119,7 @@ $pillar = 'Secure';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/openai-chatgpt-space-agent-workspace-governance-hero.webp" width="1280" height="720" fetchpriority="high" alt="OpenAI Just Made ChatGPT a Shared Office for Agents — Run Space Like a Drive, Not a Chat Window"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>OpenAI Just Made ChatGPT a Shared Office for Agents — Run Space Like a Drive, Not a Chat Window</h1>
@@ -169,7 +169,7 @@ $pillar = 'Secure';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

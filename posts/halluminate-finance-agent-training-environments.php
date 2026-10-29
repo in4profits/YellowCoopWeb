@@ -119,7 +119,7 @@ $pillar = 'Innovate';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/halluminate-finance-agent-training-environments-hero.webp" width="1280" height="720" fetchpriority="high" alt="Halluminate Just Raised $30M to Fail Finance Agents in Simulation First — Do Not Let Them Practice on Real Deals"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Halluminate Just Raised $30M to Fail Finance Agents in Simulation First — Do Not Let Them Practice on Real Deals</h1>
@@ -167,7 +167,7 @@ $pillar = 'Innovate';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

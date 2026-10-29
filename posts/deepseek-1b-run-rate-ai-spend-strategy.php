@@ -119,7 +119,7 @@ $pillar = 'Operate';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/deepseek-1b-run-rate-ai-spend-strategy-hero.webp" width="1280" height="720" fetchpriority="high" alt="DeepSeek Just Hit a $1B Run Rate — Your AI Bill Is Now a Strategy Decision"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>DeepSeek Just Hit a $1B Run Rate — Your AI Bill Is Now a Strategy Decision</h1>
@@ -187,7 +187,7 @@ $pillar = 'Operate';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

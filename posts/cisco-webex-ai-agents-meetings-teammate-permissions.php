@@ -119,7 +119,7 @@ $pillar = 'Secure';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/cisco-webex-ai-agents-meetings-teammate-permissions-hero.webp" width="1280" height="720" fetchpriority="high" alt="Cisco Is Bringing AI Agents Into Webex Meetings — Give Them Teammate Permissions, Not Chatbot Access"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Cisco Is Bringing AI Agents Into Webex Meetings — Give Them Teammate Permissions, Not Chatbot Access</h1>
@@ -169,7 +169,7 @@ $pillar = 'Secure';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

@@ -117,7 +117,7 @@ $meta_keywords = 'AI agent governance, agent sprawl, fractional CTO AI strategy,
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/continuous-compliance-agent-era-soc2-hero.webp" width="1280" height="720" fetchpriority="high" alt="Your SOC 2 Was Fine Until You Shipped Another Agent"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Your SOC 2 Was Fine Until You Shipped Another Agent</h1>
@@ -174,7 +174,7 @@ $meta_keywords = 'AI agent governance, agent sprawl, fractional CTO AI strategy,
                 <p>If your team is shipping agents faster than your controls can see them, that is an architecture problem and a leadership problem. Yellow Coop helps founders and operators design fractional CTO AI strategy, AI solutions, and the boring-but-vital control planes that keep autonomous operations from becoming accidental chaos. Continuous compliance is not a vibe. It is how you keep selling—and sleeping—when the agents keep shipping.</p>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

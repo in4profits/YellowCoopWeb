@@ -119,7 +119,7 @@ $pillar = 'Operate';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/legacy-system-modernization-decision-guide-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Keep, Move, Replace, or Rebuild? A Legacy System Modernization Decision Guide for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Keep, Move, Replace, or Rebuild? A Legacy System Modernization Decision Guide for Mid-Market Owners and Operators</h1>
@@ -185,7 +185,7 @@ $pillar = 'Operate';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

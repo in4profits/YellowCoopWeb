@@ -119,7 +119,7 @@ $pillar = 'Innovate';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/ai-output-human-review-framework-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Where AI Output Needs a Human Check: A Review-Level Framework for Mid-Market Owners and Operators"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Where AI Output Needs a Human Check: A Review-Level Framework for Mid-Market Owners and Operators</h1>
@@ -197,7 +197,7 @@ $pillar = 'Innovate';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

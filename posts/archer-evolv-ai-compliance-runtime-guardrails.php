@@ -119,7 +119,7 @@ $pillar = 'Secure';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/archer-evolv-ai-compliance-runtime-guardrails-hero.webp" width="1280" height="720" fetchpriority="high" alt="Archer Turned Compliance Policy Into Runtime Guardrails — Stop Governing AI With a PDF"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Archer Turned Compliance Policy Into Runtime Guardrails — Stop Governing AI With a PDF</h1>
@@ -170,7 +170,7 @@ $pillar = 'Secure';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

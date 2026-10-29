@@ -119,7 +119,7 @@ $pillar = 'Secure';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/ibm-watsonx-agent-identity-credential-hygiene-hero.webp" width="1280" height="720" fetchpriority="high" alt="IBM Just Gave Agents Their Own Identity — Stop Sharing Service Accounts With Software"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>IBM Just Gave Agents Their Own Identity — Stop Sharing Service Accounts With Software</h1>
@@ -164,7 +164,7 @@ $pillar = 'Secure';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

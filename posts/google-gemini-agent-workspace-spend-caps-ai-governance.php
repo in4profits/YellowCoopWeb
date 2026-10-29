@@ -119,7 +119,7 @@ $pillar = 'Operate';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/google-gemini-agent-workspace-spend-caps-ai-governance-hero.webp" width="1280" height="720" fetchpriority="high" alt="Google's Gemini Agent Picks the AI Model for Each Task — Set Spend Caps and Approval Rules Before It Reaches Your Workspace"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Google's Gemini Agent Picks the AI Model for Each Task — Set Spend Caps and Approval Rules Before It Reaches Your Workspace</h1>
@@ -175,7 +175,7 @@ $pillar = 'Operate';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

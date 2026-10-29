@@ -119,7 +119,7 @@ $pillar = 'Operate';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                                 <div class="yc-pager"><img class="hero" src="/posts/images/ai-employees-founder-org-chart-hero.webp" width="1280" height="720" fetchpriority="high" alt="AI Employees Just Raised $77M — Do You Have an Org Chart for Them?"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>AI Employees Just Raised $77M — Do You Have an Org Chart for Them?</h1>
@@ -181,7 +181,7 @@ $pillar = 'Operate';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

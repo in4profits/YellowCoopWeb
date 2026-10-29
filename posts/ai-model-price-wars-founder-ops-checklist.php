@@ -118,7 +118,7 @@ $meta_keywords = 'build vs buy AI, fractional CTO AI strategy, AI infrastructure
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/ai-model-price-wars-founder-ops-checklist-hero.webp" width="1280" height="720" fetchpriority="high" alt="AI Model Price Wars Just Became a Founder Ops Problem"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>AI Model Price Wars Just Became a Founder Ops Problem</h1>
@@ -182,7 +182,7 @@ $meta_keywords = 'build vs buy AI, fractional CTO AI strategy, AI infrastructure
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

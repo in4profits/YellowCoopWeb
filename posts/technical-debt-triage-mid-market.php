@@ -119,7 +119,7 @@ $pillar = 'Innovate';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/technical-debt-triage-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Technical Debt Triage: How Mid-Market Owners and Operators Decide What to Fix, Fund, or Leave Alone"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Technical Debt Triage: How Mid-Market Owners and Operators Decide What to Fix, Fund, or Leave Alone</h1>
@@ -201,7 +201,7 @@ $pillar = 'Innovate';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

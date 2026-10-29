@@ -119,7 +119,7 @@ $pillar = 'Operate';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/claude-opus-5-5-agentic-coding-cost-strategy-hero.webp" width="1280" height="720" fetchpriority="high" alt="Claude Opus 5.5 Just Cut Agentic Coding Costs — Your Workflow Still Decides the Bill"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Claude Opus 5.5 Just Cut Agentic Coding Costs — Your Workflow Still Decides the Bill</h1>
@@ -201,7 +201,7 @@ $pillar = 'Operate';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

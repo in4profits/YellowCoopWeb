@@ -119,7 +119,7 @@ $pillar = 'Secure';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/soc-2-readiness-guide-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="SOC 2 Readiness for Mid-Market Companies: What to Do Before You Call an Auditor"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>SOC 2 Readiness for Mid-Market Companies: What to Do Before You Call an Auditor</h1>
@@ -215,7 +215,7 @@ $pillar = 'Secure';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

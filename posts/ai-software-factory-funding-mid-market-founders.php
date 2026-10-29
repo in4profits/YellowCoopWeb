@@ -118,7 +118,7 @@ $meta_keywords = 'autonomous operations, AI ops control plane, fractional CTO AI
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/ai-software-factory-funding-mid-market-founders-hero.webp" width="1280" height="720" fetchpriority="high" alt="Factory’s $5B Bet: What an AI Software Factory Means for Mid-Market Founders"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Factory’s $5B Bet: What an AI Software Factory Means for Mid-Market Founders</h1>
@@ -208,7 +208,7 @@ $meta_keywords = 'autonomous operations, AI ops control plane, fractional CTO AI
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

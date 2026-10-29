@@ -119,7 +119,7 @@ $pillar = 'Secure';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/crowdstrike-artex-ai-hacker-south-korea-banks-small-business-security-hero.webp" width="1280" height="720" fetchpriority="high" alt="One Hacker, a Free AI Pentest Tool, and Nine Banks — Your Security Plan Can't Assume Attackers Need a Team"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>One Hacker, a Free AI Pentest Tool, and Nine Banks — Your Security Plan Can't Assume Attackers Need a Team</h1>
@@ -165,7 +165,7 @@ $pillar = 'Secure';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

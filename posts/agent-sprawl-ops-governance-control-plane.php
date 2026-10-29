@@ -118,7 +118,7 @@ $meta_keywords = 'AI agent governance, agent sprawl, autonomous operations, AI o
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/agent-sprawl-ops-governance-control-plane-hero.webp" width="1280" height="720" fetchpriority="high" alt="Agent Sprawl Without a Control Plane Is How You Buy Outages"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Agent Sprawl Without a Control Plane Is How You Buy Outages</h1>
@@ -179,7 +179,7 @@ $meta_keywords = 'AI agent governance, agent sprawl, autonomous operations, AI o
                 </ol>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

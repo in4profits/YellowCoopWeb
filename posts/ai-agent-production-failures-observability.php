@@ -118,7 +118,7 @@ $meta_keywords = 'AI agent observability, agent production failures, AI ops cont
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/ai-agent-production-failures-observability-hero.webp" width="1280" height="720" fetchpriority="high" alt="AI Agents Are Shipping to Production. Catching Failures Quietly Is Now the Job"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>AI Agents Are Shipping to Production. Catching Failures Quietly Is Now the Job</h1>
@@ -164,7 +164,7 @@ $meta_keywords = 'AI agent observability, agent production failures, AI ops cont
                 <p>Yellow Coop works with founders and operators who want AI in the business—not just in the slide deck. If you need a <a href="/how-we-engage/">fractional CTO</a> to design the control plane, an <a href="/what-we-do/#innovate">AI solutions</a> partner to ship a reliable first agent, or help on a messy <a href="/what-we-do/">tech project</a> tying systems together, we are built for that. Production agents fail quietly. Your operating model should not.</p>
     <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

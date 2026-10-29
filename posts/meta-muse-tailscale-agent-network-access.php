@@ -119,7 +119,7 @@ $pillar = 'Secure';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/meta-muse-tailscale-agent-network-access-hero.webp" width="1280" height="720" fetchpriority="high" alt="Meta’s Muse Just Joined Tailscale — Treat Agents on Your Network Like New Devices, Not Chatbots"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Meta’s Muse Just Joined Tailscale — Treat Agents on Your Network Like New Devices, Not Chatbots</h1>
@@ -169,7 +169,7 @@ $pillar = 'Secure';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

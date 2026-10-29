@@ -119,7 +119,7 @@ $pillar = 'Secure';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/cyber-insurance-readiness-guide-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Cyber Insurance Readiness: How Mid-Market Owners and Operators Get the Application Right and Avoid Coverage Surprises"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Cyber Insurance Readiness: How Mid-Market Owners and Operators Get the Application Right and Avoid Coverage Surprises</h1>
@@ -174,7 +174,7 @@ $pillar = 'Secure';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

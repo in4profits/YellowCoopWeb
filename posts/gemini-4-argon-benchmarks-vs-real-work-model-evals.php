@@ -119,7 +119,7 @@ $pillar = 'Innovate';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/gemini-4-argon-benchmarks-vs-real-work-model-evals-hero.webp" width="1280" height="720" fetchpriority="high" alt="Gemini 4 Argon Aced the Benchmarks and Still Got Side-Eye From Googlers — Test Models on Your Work, Not the Leaderboard"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Gemini 4 Argon Aced the Benchmarks and Still Got Side-Eye From Googlers — Test Models on Your Work, Not the Leaderboard</h1>
@@ -171,7 +171,7 @@ $pillar = 'Innovate';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

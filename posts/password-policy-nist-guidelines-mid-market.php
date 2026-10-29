@@ -119,7 +119,7 @@ $pillar = 'Secure';
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/password-policy-nist-guidelines-mid-market-hero.webp" width="1280" height="720" fetchpriority="high" alt="Password Policy for Mid-Market Companies: What NIST’s Current Guidelines Say to Stop Doing and Start Doing"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Password Policy for Mid-Market Companies: What NIST’s Current Guidelines Say to Stop Doing and Start Doing</h1>
@@ -185,7 +185,7 @@ $pillar = 'Secure';
                 </ul>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>

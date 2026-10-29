@@ -118,7 +118,7 @@ $meta_keywords = 'silent agent failure, AI agent observability, agent production
 <body>
 <?php include __DIR__ . '/../includes/post-nav.php'; ?>
     <div class="page">
-        <div class="wrap">
+        <main id="main" class="wrap">
             <article>
                 <div class="yc-pager"><img class="hero" src="/posts/images/silent-agent-failures-production-control-plane-hero.webp" width="1280" height="720" fetchpriority="high" alt="Silent Agent Failures Are the New Production Outage"><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>
                 <h1>Silent Agent Failures Are the New Production Outage</h1>
@@ -161,7 +161,7 @@ $meta_keywords = 'silent agent failure, AI agent observability, agent production
                 <p>Yellow Coop helps operators stand up that layer without hiring a twenty-person AI platform team. Useful starting points: <a href="/what-we-do/#innovate">AI solutions</a>, <a href="/how-we-engage/">fractional CTO</a>, <a href="/what-we-do/">technology projects</a>, and <a href="https://yellowcoop.com/">yellowcoop.com</a>.</p>
                 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
-        </div>
+        </main>
         <footer>
             <div class="links">
                 <a href="/">Home</a>
