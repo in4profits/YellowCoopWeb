@@ -4,7 +4,18 @@ $page_desc = 'Fractional, virtual, and interim CIO, CTO, and CISO leadership for
 $page_path = '/';
 $active = '';
 require __DIR__ . '/includes/header.php';
-$latest = array_slice(load_posts(__DIR__), 0, 3);
+$all_posts = load_posts(__DIR__);
+$latest = array_slice($all_posts, 0, 3);
+// Key guides, linked from the homepage. A slug that no longer exists is skipped.
+$by_slug = [];
+foreach ($all_posts as $__p) { $by_slug[$__p['slug']] = $__p; }
+$start_here = array_values(array_filter(array_map(function ($slug) use ($by_slug) { return $by_slug[$slug] ?? null; }, [
+    'fractional-cto-vs-full-time-cto-vs-msp-decision-guide',
+    'soc-2-readiness-guide-mid-market',
+    'incident-response-plan-guide-mid-market',
+    'cyber-insurance-readiness-guide-mid-market',
+    'silent-agent-failures-production-control-plane',
+])));
 ?>
 <section class="container hero">
   <h1>Executive technology leadership, <span class="grad">sized to the job.</span></h1>
@@ -83,6 +94,19 @@ $latest = array_slice(load_posts(__DIR__), 0, 3);
     </div>
   </div>
 </section>
+
+<?php if ($start_here): ?>
+<section class="section">
+  <div class="container">
+    <h2>Start with these guides</h2>
+    <ul class="start-list">
+      <?php foreach ($start_here as $p): ?>
+      <li><a href="<?= e($p['url']) ?>"><?= e($p['title']) ?></a> <span class="muted small"><?= e($p['pillar']) ?></span></li>
+      <?php endforeach; ?>
+    </ul>
+  </div>
+</section>
+<?php endif; ?>
 
 <?php if ($latest): ?>
 <section class="section">

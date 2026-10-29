@@ -120,6 +120,9 @@ h1, h2, h3 { color: var(--white); line-height: 1.2; }
 .filters a[aria-current="true"] { background: var(--y); color: #111; border-color: var(--y); }
 .page-nav { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-top: 28px; }
 
+.start-list { list-style: none; display: grid; gap: 10px; }
+.start-list a { font-weight: 600; }
+
 /* FAQ */
 .faq details { border-bottom: 1px solid var(--line); padding: 16px 0; }
 .faq summary { cursor: pointer; font-weight: 600; color: var(--white); font-size: 17px; }

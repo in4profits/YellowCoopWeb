@@ -28,7 +28,7 @@ $page_image = $page_image ?? '/assets/cio-cto-ciso.png';
 <?php endif; ?>
 <meta name="theme-color" content="#111111">
 <link rel="icon" href="/assets/mark.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/assets/site.css?v=4">
+<link rel="stylesheet" href="/assets/site.css?v=5">
 <script type="application/ld+json"><?= json_encode(['@context' => 'https://schema.org'] + org_schema($site), JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_HEX_TAG) ?></script>
 </head>
 <body>
