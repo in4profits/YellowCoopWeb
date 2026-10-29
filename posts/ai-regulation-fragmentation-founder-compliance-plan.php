@@ -1,5 +1,6 @@
 <?php
 $title = 'AI Regulation Fragmentation Is Now a Founder Ops Problem — Yellow Coop';
+$seo_title = 'AI Regulation Fragmentation: A Compliance Plan | Yellow Coop';
 $year_start = 2025;
 $year_end = 2026;
 $email = 'info@yellowcoop.com';
@@ -12,7 +13,7 @@ $meta_keywords = 'continuous compliance AI, sovereign security AI, fractional CT
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo htmlspecialchars($title, ENT_QUOTES, 'UTF-8'); ?></title>
+    <title><?php echo htmlspecialchars($seo_title ?? $title, ENT_QUOTES, 'UTF-8'); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($meta_description, ENT_QUOTES, 'UTF-8'); ?>">
     <meta name="keywords" content="<?php echo htmlspecialchars($meta_keywords, ENT_QUOTES, 'UTF-8'); ?>">
     <style>

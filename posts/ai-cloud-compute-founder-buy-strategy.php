@@ -1,5 +1,6 @@
 <?php
 $title = 'AI Cloud Compute Is Critical Infrastructure for Founders Now — Yellow Coop';
+$seo_title = 'AI Cloud Compute Is Critical Infrastructure | Yellow Coop';
 $year_start = 2025;
 $year_end = 2026;
 $email = 'info@yellowcoop.com';
@@ -12,7 +13,7 @@ $meta_keywords = 'AI cloud compute, AI infrastructure strategy, build vs buy AI,
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo htmlspecialchars($title, ENT_QUOTES, 'UTF-8'); ?></title>
+    <title><?php echo htmlspecialchars($seo_title ?? $title, ENT_QUOTES, 'UTF-8'); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($meta_description, ENT_QUOTES, 'UTF-8'); ?>">
     <meta name="keywords" content="<?php echo htmlspecialchars($meta_keywords, ENT_QUOTES, 'UTF-8'); ?>">
     <style>
