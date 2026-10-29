@@ -24,3 +24,26 @@ RewriteCond %{THE_REQUEST} \s/index\.php[\s?]
 RewriteRule ^index\.php$ / [R=301,L]
 RewriteRule ^home\.html$ / [R=301,L]
 </IfModule>
+
+# Security headers (modern browsers; harmless if a module is missing).
+# HSTS has no includeSubDomains on purpose, so subdomains are not forced to https.
+<IfModule mod_headers.c>
+Header always set Strict-Transport-Security "max-age=31536000"
+Header always set X-Content-Type-Options "nosniff"
+Header always set Referrer-Policy "strict-origin-when-cross-origin"
+Header always set Content-Security-Policy "frame-ancestors 'self'"
+
+# Long cache for files that never change under the same URL. To change one, give it a new
+# file name (images) or bump ?v= (site.css, site.js), never overwrite it in place.
+<FilesMatch "\.(png|jpe?g|webp|gif|svg|ico)$">
+Header set Cache-Control "public, max-age=31536000"
+</FilesMatch>
+<FilesMatch "\.(css|js)$">
+Header set Cache-Control "public, max-age=31536000, immutable"
+</FilesMatch>
+
+# Pages are always revalidated, so a deploy shows up right away.
+<FilesMatch "\.(php|html?|shtml|xml|txt)$">
+Header set Cache-Control "no-cache"
+</FilesMatch>
+</IfModule>
