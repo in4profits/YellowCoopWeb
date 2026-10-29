@@ -138,7 +138,7 @@ $stages = [
       <li><strong>One piece at a time.</strong>Walls, then paint, then roof, then doors. Each step works before the next one starts. No big-bang rebuilds.</li>
       <li><strong>It's yours when we're done.</strong>The coop is theirs. When an engagement ends, you own the plan, the systems and the documentation.</li>
     </ul>
-    <p class="signoff">&mdash; JP, founder of Yellow Coop</p>
+    <p class="signoff">&mdash; Founder of Yellow Coop</p>
   </div>
 </section>
 </div>
