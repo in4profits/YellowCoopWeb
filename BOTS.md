@@ -1,7 +1,7 @@
 # BOTS.md: rules for every AI agent working in this repo
 
 Read this file at the start of every session. It overrides older instructions.
-Owner: JP. Last updated: 2026-10-27 (single-owner version).
+Owner: JP. Last updated: 2026-10-29 (single-owner version).
 
 ## 1. Roles
 - **Spiderman** (formerly Web Guru) is the single owner and decision-maker for all YellowCoopWeb code, structure and site-page changes, including `index.php`, `blog.php`, `includes/`, `assets/`, section pages, redirect folders and `.cpanel.yml`.
@@ -23,18 +23,22 @@ One commit per post, containing all of:
 - `posts/images/<slug>-hero.png` (16:9, for social previews)
 - `posts/images/<slug>-hero.webp`, the same image at WebP quality 80 (shown on the site), e.g. `cwebp -q 80 in.png -o out.webp`
 - a new `<url>` entry in `sitemap.xml`, above the other `/posts/` entries (newest first)
+- on the day's first post, also set `<lastmod>` of the `/blog.php` entry in `sitemap.xml` to that date (Posty owns this edit)
 
-`blog.php` builds the post list automatically from `posts/*.php` in `sitemap.xml` order, and `.cpanel.yml` copies `posts/` automatically, so posts never need edits there.
+`blog.php` builds the post list automatically from `posts/*.php` in `sitemap.xml` order (12 per page, `?page=N`), and `.cpanel.yml` copies `posts/` automatically, so posts never need edits there.
 
 Post template: copy an existing post (e.g. `posts/process-knowledge-map-before-ai-agents-scale.php`) and keep its structure:
-- PHP variables at the top: `$title` (ends with ` — Yellow Coop`), `$meta_description`, `$meta_keywords`, `$pillar` (exactly `'Operate'`, `'Secure'` or `'Innovate'`).
+- PHP variables at the top: `$title` (ends with ` — Yellow Coop`; used for the blog card and share text), `$meta_description`, `$meta_keywords`, `$pillar` (exactly `'Operate'`, `'Secure'` or `'Innovate'`).
+- `$seo_title = 'Topic | Yellow Coop';`, right after `$title`, whenever `$title` is longer than 65 characters. This is the `<title>` shown in search results and must be 65 characters or fewer including ` | Yellow Coop`. The H1 keeps the long version. Keep `<title><?php echo htmlspecialchars($seo_title ?? $title, ENT_QUOTES, 'UTF-8'); ?></title>` as in the template.
 - Before `</head>`: `<?php include __DIR__ . '/../includes/post-head.php'; ?>`
-- Hero, wrapped with the prev/next chevrons: `<div class="yc-pager"><img class="hero" src="/posts/images/<slug>-hero.webp" ...><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>`
-- After `<body>`: `<?php include __DIR__ . '/../includes/post-nav.php'; ?>`
+- Hero, wrapped with the prev/next chevrons (keep `width="1280" height="720" fetchpriority="high"`; they stop layout shift): `<div class="yc-pager"><img class="hero" src="/posts/images/<slug>-hero.webp" width="1280" height="720" fetchpriority="high" ...><?php include __DIR__ . '/../includes/post-pager.php'; ?></div>`
+- After `<body>`: `<?php include __DIR__ . '/../includes/post-nav.php'; ?>` (adds the skip link and the site nav)
+- Content wrapper: `<main id="main" class="wrap"> <article>...</article> </main>` (not a `div`). The skip link jumps to `#main`.
 - Before `</article>`: `<?php include __DIR__ . '/../includes/post-cta.php'; ?>`
 - Date in `<p class="meta">YYYY-MM-DD</p>`.
 - Keep the footer links as in the template (Home · Contact · Subscribe · Privacy).
 - Audience: CEOs, owners and operators of small and mid-size companies.
+- Images are cached for a year. Never overwrite an existing image under the same file name; use a new name. Hero images should be 16:9 (1280x720).
 
 Commit message: `Publish <short title> post (<Mon DD> A|B)`.
 
@@ -42,7 +46,7 @@ Commit message: `Publish <short title> post (<Mon DD> A|B)`.
 - Never commit `GrokBots/`, `.env`, API keys, tokens, HubSpot private app keys, or passwords. The repo is public.
 - Never rewrite history on `main` (`push --force`, `reset --hard` on pushed commits, rebase of pushed commits).
 - Never delete posts or images without JP's written OK.
-- Never edit `.htaccess` on the server.
+- Never edit `.htaccess` on the server. The repo's `.htaccess` is the live one (`.cpanel.yml` copies it); only Spiderman changes it, in the repo.
 
 ## 6. Report format (end of every task)
 ```
