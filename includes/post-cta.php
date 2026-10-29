@@ -22,7 +22,7 @@ $__rel = array_slice(array_values(array_filter($__all, function ($p) use ($__sha
     <li><a href="<?= e($__r['url']) ?>"><?= e($__r['title']) ?></a><?php if ($__r['date']): ?> <span><?= e($__r['date']) ?></span><?php endif; ?></li>
     <?php endforeach; ?>
   </ul>
-  <p class="yc-related-all"><a href="/blog.php#<?= e(strtolower($__pillar)) ?>">All <?= e($__pillar) ?> insights &rarr;</a></p>
+  <p class="yc-related-all"><a href="/blog.php?pillar=<?= e(strtolower($__pillar)) ?>">All <?= e($__pillar) ?> insights &rarr;</a></p>
 </nav>
 <?php endif; ?>
 <aside class="yc-cta">

@@ -115,6 +115,10 @@ h1, h2, h3 { color: var(--white); line-height: 1.2; }
 .filters { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 22px; }
 .filters button { background: var(--bg2); border: 1px solid #333; color: #ddd; border-radius: 999px; padding: 7px 14px; font-weight: 600; font-size: 14px; cursor: pointer; }
 .filters button[aria-pressed="true"] { background: var(--y); color: #111; border-color: var(--y); }
+.filters a { background: var(--bg2); border: 1px solid #333; color: #ddd; border-radius: 999px; padding: 7px 14px; font-weight: 600; font-size: 14px; text-decoration: none; }
+.filters a:hover { border-color: var(--y); color: #ddd; }
+.filters a[aria-current="true"] { background: var(--y); color: #111; border-color: var(--y); }
+.page-nav { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-top: 28px; }
 
 /* FAQ */
 .faq details { border-bottom: 1px solid var(--line); padding: 16px 0; }

@@ -1,5 +1,6 @@
 <?php
 // Expects: $page_title, $page_desc, $page_path (e.g. '/about/'), $active (nav key or '').
+// Optional: $page_robots (e.g. 'noindex, follow').
 require_once __DIR__ . '/config.php';
 $full_title = isset($page_title) && $page_title !== '' ? $page_title . ' | Yellow Coop' : 'Yellow Coop | Fractional & Interim CIO, CTO, CISO Leadership';
 $page_desc = $page_desc ?? 'Executive technology leadership sized to the job: virtual, fractional, and interim CIO, CISO, and CTO coverage.';
@@ -14,6 +15,8 @@ $page_image = $page_image ?? '/assets/cio-cto-ciso.png';
 <title><?= e($full_title) ?></title>
 <meta name="description" content="<?= e($page_desc) ?>">
 <link rel="canonical" href="<?= e($site['url'] . $page_path) ?>">
+<?php if (!empty($page_robots)): ?><meta name="robots" content="<?= e($page_robots) ?>">
+<?php endif; ?>
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Yellow Coop">
 <meta property="og:title" content="<?= e($full_title) ?>">
@@ -25,7 +28,7 @@ $page_image = $page_image ?? '/assets/cio-cto-ciso.png';
 <?php endif; ?>
 <meta name="theme-color" content="#111111">
 <link rel="icon" href="/assets/mark.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/assets/site.css?v=3">
+<link rel="stylesheet" href="/assets/site.css?v=4">
 <script type="application/ld+json"><?= json_encode(['@context' => 'https://schema.org'] + org_schema($site), JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_HEX_TAG) ?></script>
 </head>
 <body>

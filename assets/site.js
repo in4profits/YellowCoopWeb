@@ -1,4 +1,4 @@
-// Yellow Coop site behavior: mobile menu, spectrum tabs, blog filters.
+// Yellow Coop site behavior: mobile menu, spectrum tabs, old blog pillar links.
 (function () {
   var toggle = document.querySelector('.nav-toggle');
   var links = document.getElementById('nav-links');
@@ -21,23 +21,10 @@
     });
   }
 
-  // Blog filter: buttons [data-filter] show/hide .post-card[data-pillar]; supports #operate etc. in the URL.
-  var filters = document.querySelector('.filters');
-  if (filters) {
-    var cards = document.querySelectorAll('.post-card[data-pillar]');
-    var apply = function (val) {
-      filters.querySelectorAll('button').forEach(function (x) { x.setAttribute('aria-pressed', x.getAttribute('data-filter') === val ? 'true' : 'false'); });
-      cards.forEach(function (c) { c.hidden = !(val === 'all' || c.getAttribute('data-pillar') === val); });
-    };
-    filters.querySelectorAll('button').forEach(function (b) {
-      b.addEventListener('click', function () {
-        var v = b.getAttribute('data-filter');
-        apply(v);
-        if (history.replaceState) history.replaceState(null, '', v === 'all' ? location.pathname : '#' + v.toLowerCase());
-      });
-    });
+  // Old pillar links like /blog.php#secure go to the server-side filter.
+  if (document.querySelector('.filters') && !location.search) {
+    var map = { operate: 'operate', secure: 'secure', innovate: 'innovate' };
     var h = location.hash.replace('#', '');
-    var map = { operate: 'Operate', secure: 'Secure', innovate: 'Innovate' };
-    if (map[h]) apply(map[h]);
+    if (map[h]) location.replace('/blog.php?pillar=' + map[h]);
   }
 })();

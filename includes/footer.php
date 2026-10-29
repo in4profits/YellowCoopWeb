@@ -34,7 +34,7 @@ $show_cta = $show_cta ?? true;
   </div>
   <div class="container muted small">&copy; <?= (int) $site['year_start'] ?>–<?= date('Y') ?> Yellow Coop LLC. All rights reserved.</div>
 </footer>
-<script src="/assets/site.js?v=1" defer></script>
+<script src="/assets/site.js?v=2" defer></script>
 <?= hubspot_tracking($site) ?>
 </body>
 </html>
