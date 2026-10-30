@@ -5,6 +5,10 @@ $site = [
     'tagline'    => 'Cooperate · Create · Grow',
     'url'        => 'https://yellowcoop.com',
     'email'      => 'info@yellowcoop.com',
+    // Business phone: display text and the E.164 form used in tel: links and JSON-LD.
+    'phone'      => '(864) 670-5322',
+    'phone_e164' => '+18646705322',
+    'phone_ld'   => '+1-864-670-5322',
     'newsletter' => 'https://4393au.share-na2.hsforms.com/27zXzNBOAQ9OzMK-Nck6Hxw',
     'year_start' => 2025,
     // HubSpot Meetings link. Leave '' until it exists; buttons then go to /contact/.
@@ -75,6 +79,7 @@ function org_schema($site) {
         ],
         'image' => $site['url'] . '/assets/cio-cto-ciso.png',
         'email' => $site['email'],
+        'telephone' => $site['phone_ld'],
         'slogan' => 'Cooperate · Create · Grow',
         'description' => 'Virtual, fractional, and interim CIO, CTO, and CISO leadership for companies that need a technology executive but not a full-time hire.',
         'areaServed' => 'US',
@@ -108,6 +113,11 @@ function social_links($site, $size = 18) {
               . '<svg width="' . (int) $size . '" height="' . (int) $size . '" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor">' . $icons[$k] . '</svg></a>';
     }
     return $out;
+}
+
+// Tap-to-call link for the business phone, e.g. <a href="tel:+18646705322">(864) 670-5322</a>.
+function phone_link($site) {
+    return '<a href="tel:' . e($site['phone_e164']) . '">' . e($site['phone']) . '</a>';
 }
 
 function e($s) { return htmlspecialchars((string) $s, ENT_QUOTES, 'UTF-8'); }

@@ -171,6 +171,8 @@ $meta_keywords = 'AI agent containment, agent sandbox security, credential hygie
                 <a href="<?php echo htmlspecialchars($newsletter, ENT_QUOTES, 'UTF-8'); ?>" target="_blank" rel="noopener">Subscribe</a>
                 <span class="sep">·</span>
                 <a href="/privacy/">Privacy</a>
+                <span class="sep">·</span>
+                <?php echo phone_link($site); ?>
             </div>
             &copy; <?php echo (int) $year_start; ?>–<?php echo (int) $year_end; ?> Yellow Coop. All rights reserved.
         </footer>
