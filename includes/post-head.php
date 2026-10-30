@@ -29,6 +29,14 @@ $__ld = [
     ],
 ];
 ?>
+<style>
+/* Post tables: bare <table><tr><th> markup scrolls sideways on narrow screens, no wrapper needed. */
+article table { display: block; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; border-collapse: collapse; margin: 0 0 20px; font-size: 15px; line-height: 1.5; }
+article th, article td { padding: 10px 14px; text-align: left; vertical-align: top; border: 1px solid #262626; min-width: 9rem; }
+article th { background: #181818; color: #fff; font-weight: 600; border-bottom: 2px solid #F7B51E; white-space: nowrap; }
+article td { color: #ddd; }
+article tr:nth-child(even) td { background: #151515; }
+</style>
 <link rel="canonical" href="<?= e($__url) ?>">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="Yellow Coop">
