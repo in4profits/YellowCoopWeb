@@ -27,20 +27,25 @@ $start_here = array_values(array_filter(array_map(function ($slug) use ($by_slug
 </section>
 
 <section class="container spectrum" aria-label="What we cover">
-  <div class="roles" aria-hidden="true">
-    <span><span class="long">Chief Information Officer</span><span class="short">CIO</span></span>
-    <span><span class="long">Chief Information Security Officer</span><span class="short">CISO</span></span>
-    <span><span class="long">Chief Technology Officer</span><span class="short">CTO</span></span>
-  </div>
-  <div class="band" role="tablist" aria-label="Operate, Secure, Innovate">
-    <button role="tab" aria-selected="true" data-pillar="operate">Operate</button>
-    <button role="tab" aria-selected="false" data-pillar="secure">Secure</button>
-    <button role="tab" aria-selected="false" data-pillar="innovate">Innovate</button>
-  </div>
-  <div class="band-panel" aria-live="polite">
-    <p data-panel="operate"><strong>Operate · CIO.</strong> Systems, vendors, contracts, IT spend, help desk, and the team that runs them. <a href="/what-we-do/#operate">More</a></p>
-    <p data-panel="secure" hidden><strong>Secure · CISO.</strong> Security questionnaires, cyber insurance requirements, compliance, incident readiness, and AI data policy. <a href="/what-we-do/#secure">More</a></p>
-    <p data-panel="innovate" hidden><strong>Innovate · CTO.</strong> Product and platform roadmap, AI adoption, build vs buy, and the engineering team. <a href="/what-we-do/#innovate">More</a></p>
+  <div class="pcols">
+    <div class="pcol">
+      <h3>Operate</h3>
+      <div class="sub">Chief Information Officer (CIO)</div>
+      <p>Systems, vendors, contracts, IT spend, help desk, and the team that runs them.</p>
+      <a class="btn btn-y" href="/what-we-do/#operate">Explore Operate <span aria-hidden="true">&rarr;</span></a>
+    </div>
+    <div class="pcol">
+      <h3>Secure</h3>
+      <div class="sub">Chief Information Security Officer (CISO)</div>
+      <p>Security questionnaires, cyber insurance requirements, compliance, incident readiness, and AI data policy.</p>
+      <a class="btn btn-y" href="/what-we-do/#secure">Explore Secure <span aria-hidden="true">&rarr;</span></a>
+    </div>
+    <div class="pcol">
+      <h3>Innovate</h3>
+      <div class="sub">Chief Technology Officer (CTO)</div>
+      <p>Product and platform roadmap, AI adoption, build vs buy, and the engineering team.</p>
+      <a class="btn btn-y" href="/what-we-do/#innovate">Explore Innovate <span aria-hidden="true">&rarr;</span></a>
+    </div>
   </div>
 
   <div class="tiers">

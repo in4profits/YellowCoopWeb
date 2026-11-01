@@ -68,6 +68,15 @@ h1, h2, h3 { color: var(--white); line-height: 1.2; }
 .band-panel { margin-top: 16px; text-align: center; color: #ccc; min-height: 52px; }
 .band-panel strong { color: var(--white); }
 .band-panel a { color: var(--y); }
+/* Home page pillar columns: outcome headline, role subtitle, Explore button */
+.pcols { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+.pcol { display: flex; flex-direction: column; padding: 22px 4px 0; border-top: 4px solid var(--y); }
+.pcol h3 { font-size: 36px; letter-spacing: -.5px; }
+.pcol .sub { color: var(--y); font-weight: 600; font-size: 15px; margin: 2px 0 10px; }
+.pcol p { color: #c4c4c4; font-size: 15.5px; flex: 1; margin-bottom: 18px; }
+.pcol .btn { align-self: flex-start; }
+.pcol .btn:focus-visible { outline: 3px solid var(--white); outline-offset: 3px; }
+@media (max-width: 860px) { .pcols { grid-template-columns: 1fr; gap: 28px; } }
 .tiers { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 28px; }
 .tier { border: 1px solid #3a3222; border-radius: var(--radius); padding: 20px; background: var(--bg2); }
 .tier.featured { border-color: var(--y); box-shadow: inset 0 0 0 1px var(--y); }
