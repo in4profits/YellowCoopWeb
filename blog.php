@@ -42,6 +42,7 @@ $shown = $out_of_range ? [] : array_slice($posts, ($page - 1) * $per_page, $per_
   <?php if ($out_of_range): ?>
   <p>There is no page <?= (int) $page ?> here. <a href="/blog.php">Back to the latest insights</a>.</p>
   <?php endif; ?>
+  <h2 class="sr-only">Latest posts</h2>
   <div class="posts">
     <?php foreach ($shown as $i => $p): ?>
     <article class="post-card" data-pillar="<?= e($p['pillar']) ?>">

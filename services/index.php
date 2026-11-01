@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Services';
-$page_desc = 'Three ways to work with Yellow Coop: an AI readiness and security review, an advisory retainer, and a half-day team AI workshop.';
+$page_title = 'AI Readiness, Security Review & Advisory Services';
+$page_desc = 'Three ways to start with Yellow Coop: a two-day AI readiness and security review, an advisory retainer, and a half-day AI workshop for your team.';
 $page_path = '/services/';
 $active = 'services';
 require __DIR__ . '/../includes/header.php';
@@ -64,7 +64,7 @@ $offers = [
   <div class="tiers">
     <?php foreach ($offers as $o): ?>
     <div class="tier<?= $o['featured'] ? ' featured' : '' ?>">
-      <h3><?= e($o['name']) ?></h3>
+      <h2><?= e($o['name']) ?></h2>
       <span class="hrs"><?= e($o['meta']) ?></span>
       <div class="price">Pricing on request</div>
       <div class="grow">

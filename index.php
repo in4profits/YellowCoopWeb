@@ -27,6 +27,7 @@ $start_here = array_values(array_filter(array_map(function ($slug) use ($by_slug
 </section>
 
 <section class="container spectrum" aria-label="What we cover">
+  <h2 class="sr-only">What we cover</h2>
   <div class="pcols">
     <div class="pcol">
       <h3>Operate</h3>
