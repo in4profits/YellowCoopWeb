@@ -1,6 +1,6 @@
 <?php
-$page_title = 'About';
-$page_desc = 'Enterprise technology leadership, built for growing companies. Virtual, fractional, and interim CIO, CTO, and CISO leadership from Yellow Coop.';
+$page_title = 'About Fractional, Virtual & Interim CIO, CTO, CISO';
+$page_desc = 'Yellow Coop gives growing companies virtual, fractional, and interim CIO, CTO, and CISO leadership. See our track record, programs, and how we engage.';
 $page_path = '/about/';
 $active = 'about';
 require __DIR__ . '/../includes/header.php';

@@ -1,6 +1,6 @@
 <?php
-$page_title = 'FAQ';
-$page_desc = 'Common questions about fractional, virtual, and interim CIO, CTO, and CISO engagements with Yellow Coop.';
+$page_title = 'Fractional, Virtual & Interim CIO, CTO, CISO FAQ';
+$page_desc = 'Answers on fractional, virtual, and interim CIO, CTO, and CISO engagements with Yellow Coop: the levels, how pricing works, and the minimum term.';
 $page_path = '/faq/';
 $active = 'faq';
 require __DIR__ . '/../includes/header.php';
