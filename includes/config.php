@@ -57,12 +57,12 @@ $legacy_pillars = [
     'process-knowledge-map-before-ai-agents-scale'       => 'Operate',
 ];
 
-// Loads HubSpot tracking once, on first interaction, or when the browser is idle after page load (4 s cap),
-// so its ~1.6 s of main-thread work stays off the initial load.
+// Loads HubSpot tracking once, only on the first user interaction (no idle fallback: Lighthouse
+// still counted it), so its ~1.6 s of main-thread work stays off the initial load.
 function hubspot_tracking($site) {
     if (($site['hs_hub_id'] ?? '') === '') return '';
     $src = 'https://js-' . $site['hs_region'] . '.hs-scripts.com/' . $site['hs_hub_id'] . '.js';
-    return '<script>(function(){var d=document,l=0,E=["scroll","pointerdown","keydown","touchstart"];function go(){if(l)return;l=1;E.forEach(function(t){removeEventListener(t,go)});var s=d.createElement("script");s.id="hs-script-loader";s.async=1;s.src=' . json_encode($src, JSON_UNESCAPED_SLASHES | JSON_HEX_TAG) . ';d.head.appendChild(s)}E.forEach(function(t){addEventListener(t,go,{passive:true,once:true})});function q(){"requestIdleCallback"in window?requestIdleCallback(go,{timeout:4000}):setTimeout(go,4000)}d.readyState=="complete"?q():addEventListener("load",q);})()</script>';
+    return '<script>(function(){var d=document,l=0,E=["scroll","pointerdown","click","keydown","touchstart"];function go(){if(l)return;l=1;E.forEach(function(t){removeEventListener(t,go)});var s=d.createElement("script");s.id="hs-script-loader";s.async=1;s.src=' . json_encode($src, JSON_UNESCAPED_SLASHES | JSON_HEX_TAG) . ';d.head.appendChild(s)}E.forEach(function(t){addEventListener(t,go,{passive:true,once:true})});})()</script>';
 }
 
 // Organization structured data, shared by site pages and posts. Brand-level only:
