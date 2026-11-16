@@ -196,17 +196,6 @@ $pillar = 'Operate';
                 <p>End of support is the most predictable risk in technology: the date is published years ahead. The companies that get hurt just never put it on anyone's calendar.</p>
 
                 <p>If nobody inside your company owns that list, that's the kind of work Yellow Coop does as your fractional CIO, CTO, and CISO, starting with an <a href="https://yellowcoop.com/what-we-do/">inventory of systems, licenses, and contracts with owners and renewal dates</a> and a 12-month IT roadmap and budget the CFO can read. See <a href="https://yellowcoop.com/how-we-engage/">how we engage</a>, or <a href="https://yellowcoop.com/contact/">book a call</a>.</p>
-
-                <h2>Sources</h2>
-                <ul>
-                    <li><a href="https://csrc.nist.gov/pubs/sp/800/40/r4/final">https://csrc.nist.gov/pubs/sp/800/40/r4/final</a></li>
-                    <li><a href="https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/obsolete-products">https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/obsolete-products</a></li>
-                    <li><a href="https://www.cisa.gov/BadPractices">https://www.cisa.gov/BadPractices</a></li>
-                    <li><a href="https://www.nao.org.uk/reports/investigation-wannacry-cyber-attack-and-the-nhs/">https://www.nao.org.uk/reports/investigation-wannacry-cyber-attack-and-the-nhs/</a></li>
-                    <li><a href="https://learn.microsoft.com/en-us/windows/whats-new/extended-security-updates">https://learn.microsoft.com/en-us/windows/whats-new/extended-security-updates</a></li>
-                    <li><a href="https://learn.microsoft.com/en-us/lifecycle/end-of-support/end-of-support-2025">https://learn.microsoft.com/en-us/lifecycle/end-of-support/end-of-support-2025</a></li>
-                    <li><a href="https://learn.microsoft.com/en-us/lifecycle/products/windows-server-2016">https://learn.microsoft.com/en-us/lifecycle/products/windows-server-2016</a></li>
-                </ul>
 <?php include __DIR__ . '/../includes/post-cta.php'; ?>
             </article>
         </main>
